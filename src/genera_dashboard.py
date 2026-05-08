@@ -3,9 +3,10 @@ import re
 import json
 import math
 
-# Configurazione percorsi
-input_dir = r"C:\Users\robin\Desktop\super"
-output_html = os.path.join(input_dir, "dashboard_statistica.html")
+# Configurazione percorsi relativi (Professionale)
+base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+input_dir = os.path.join(base_dir, "data")
+output_html = os.path.join(base_dir, "dashboard_statistica.html")
 
 def nCr(n, r):
     if r < 0 or r > n: return 0

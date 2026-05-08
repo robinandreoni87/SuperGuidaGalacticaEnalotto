@@ -7,8 +7,8 @@ Questa guida ti accompagnerà passo dopo passo nella creazione del tuo repositor
 - [ ] Apri PowerShell nella cartella `C:\Users\robin\Desktop\super`
 - [ ] Configura Git con i tuoi dati:
   ```powershell
-  git config --global user.name "robinandreoni87"
-  git config --global user.email "robinandreoni@gmail.com"
+  git config --global user.name "RobinAndrioli"
+  git config --global user.email "robinandrioli@gmail.com"
   ```
 
 ## 📂 Fase 2: Organizzazione File

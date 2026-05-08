@@ -3,13 +3,13 @@
 An advanced, interactive statistical engine and visualization suite for SuperEnalotto lottery data (1997-2026).
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
-![Version](https://img.shields.io/badge/Version-5.7-purple.svg)
+![Version](https://img.shields.io/badge/Version-5.7--Extreme-purple.svg)
 ![Technology](https://img.shields.io/badge/Stack-Python%20%7C%20HTML5%20%7C%20Canvas%20%7C%20Chart.js-orange.svg)
 
 ---
 
 ## 🎯 Overview
-This project transforms raw lottery draw history into a multi-dimensional "Galactic Map". By utilizing lexicographical indices and statistical sum distributions (Gaussian Nebula), it provides a unique perspective on the probability space of the SuperEnalotto.
+An advanced, interactive statistical engine and visualization suite for SuperEnalotto lottery data (1997-2026). Developed by **robinandreoni87**.
 
 ### 🚀 Key Features
 - **Lexicographical Mapping**: Visualizes every draw in a 622-million combination dictionary space.
@@ -33,15 +33,15 @@ This project transforms raw lottery draw history into a multi-dimensional "Galac
 ## 💻 Installation & Usage
 1. **Clone the repo**:
    ```bash
-   git clone https://github.com/RobinAndrioli/superenalotto-galactic-mapping.git
+   git clone https://github.com/robinandreoni87/SuperGuidaGalacticaEnalotto.git
    ```
 2. **Run the Dashboard**:
    Open `dashboard_statistica.html` in any modern web browser.
 3. **Generate new data**:
-   Run the Python scripts to analyze updated draw files or create new simulations:
+   Run the Python scripts (located in `src/`) to analyze updated draw files or create new simulations:
    ```bash
-   python genera_dashboard.py
-   python massive_gauss_gen.py
+   python src/genera_dashboard.py
+   python src/massive_gauss_gen.py
    ```
 
 ---
