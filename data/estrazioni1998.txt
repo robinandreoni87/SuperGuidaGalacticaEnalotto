@@ -1,0 +1,521 @@
+﻿NÂº 104 - Concorso del 30 dicembre 1998
+Numeri: 30 36 45 49 63 89
+Jolly: 46
+SuperStar: 
+--------------------------------------
+NÂº 103 - Concorso del 28 dicembre 1998
+Numeri: 14 43 46 65 71 82
+Jolly: 22
+SuperStar: 
+--------------------------------------
+NÂº 102 - Concorso del 23 dicembre 1998
+Numeri: 3 9 14 26 47 79
+Jolly: 81
+SuperStar: 
+--------------------------------------
+NÂº 101 - Concorso del 19 dicembre 1998
+Numeri: 3 6 13 28 49 50
+Jolly: 33
+SuperStar: 
+--------------------------------------
+NÂº 100 - Concorso del 16 dicembre 1998
+Numeri: 22 43 56 71 77 83
+Jolly: 35
+SuperStar: 
+--------------------------------------
+NÂº 99 - Concorso del 12 dicembre 1998
+Numeri: 9 37 39 40 42 86
+Jolly: 2
+SuperStar: 
+--------------------------------------
+NÂº 98 - Concorso del 9 dicembre 1998
+Numeri: 1 11 42 43 61 81
+Jolly: 29
+SuperStar: 
+--------------------------------------
+NÂº 97 - Concorso del 5 dicembre 1998
+Numeri: 27 35 47 48 59 79
+Jolly: 77
+SuperStar: 
+--------------------------------------
+NÂº 96 - Concorso del 2 dicembre 1998
+Numeri: 9 23 36 66 67 77
+Jolly: 87
+SuperStar: 
+--------------------------------------
+NÂº 95 - Concorso del 28 novembre 1998
+Numeri: 12 15 40 50 66 88
+Jolly: 70
+SuperStar: 
+--------------------------------------
+NÂº 94 - Concorso del 25 novembre 1998
+Numeri: 32 39 52 56 69 85
+Jolly: 53
+SuperStar: 
+--------------------------------------
+NÂº 93 - Concorso del 21 novembre 1998
+Numeri: 32 36 43 56 66 89
+Jolly: 8
+SuperStar: 
+--------------------------------------
+NÂº 92 - Concorso del 18 novembre 1998
+Numeri: 12 18 43 47 50 83
+Jolly: 53
+SuperStar: 
+--------------------------------------
+NÂº 91 - Concorso del 14 novembre 1998
+Numeri: 6 31 69 70 76 85
+Jolly: 44
+SuperStar: 
+--------------------------------------
+NÂº 90 - Concorso del 11 novembre 1998
+Numeri: 19 38 60 80 81 90
+Jolly: 10
+SuperStar: 
+--------------------------------------
+NÂº 89 - Concorso del 7 novembre 1998
+Numeri: 15 19 25 33 40 68
+Jolly: 81
+SuperStar: 
+--------------------------------------
+NÂº 88 - Concorso del 4 novembre 1998
+Numeri: 6 54 72 75 81 87
+Jolly: 55
+SuperStar: 
+--------------------------------------
+NÂº 87 - Concorso del 31 ottobre 1998
+Numeri: 1 21 30 61 73 84
+Jolly: 74
+SuperStar: 
+--------------------------------------
+NÂº 86 - Concorso del 28 ottobre 1998
+Numeri: 37 60 64 73 80 84
+Jolly: 2
+SuperStar: 
+--------------------------------------
+NÂº 85 - Concorso del 24 ottobre 1998
+Numeri: 4 26 27 74 77 84
+Jolly: 20
+SuperStar: 
+--------------------------------------
+NÂº 84 - Concorso del 21 ottobre 1998
+Numeri: 14 39 50 56 72 89
+Jolly: 29
+SuperStar: 
+--------------------------------------
+NÂº 83 - Concorso del 17 ottobre 1998
+Numeri: 10 13 50 59 64 78
+Jolly: 23
+SuperStar: 
+--------------------------------------
+NÂº 82 - Concorso del 14 ottobre 1998
+Numeri: 15 28 42 55 76 88
+Jolly: 74
+SuperStar: 
+--------------------------------------
+NÂº 81 - Concorso del 10 ottobre 1998
+Numeri: 42 43 46 49 52 76
+Jolly: 48
+SuperStar: 
+--------------------------------------
+NÂº 80 - Concorso del 7 ottobre 1998
+Numeri: 6 13 17 49 51 83
+Jolly: 76
+SuperStar: 
+--------------------------------------
+NÂº 79 - Concorso del 3 ottobre 1998
+Numeri: 2 9 13 34 46 63
+Jolly: 85
+SuperStar: 
+--------------------------------------
+NÂº 78 - Concorso del 30 settembre 1998
+Numeri: 20 34 44 61 74 87
+Jolly: 25
+SuperStar: 
+--------------------------------------
+NÂº 77 - Concorso del 26 settembre 1998
+Numeri: 28 31 40 67 74 90
+Jolly: 61
+SuperStar: 
+--------------------------------------
+NÂº 76 - Concorso del 23 settembre 1998
+Numeri: 7 9 31 41 67 68
+Jolly: 22
+SuperStar: 
+--------------------------------------
+NÂº 75 - Concorso del 19 settembre 1998
+Numeri: 3 33 45 57 78 80
+Jolly: 65
+SuperStar: 
+--------------------------------------
+NÂº 74 - Concorso del 16 settembre 1998
+Numeri: 22 26 29 37 75 76
+Jolly: 36
+SuperStar: 
+--------------------------------------
+NÂº 73 - Concorso del 12 settembre 1998
+Numeri: 14 37 48 55 84 87
+Jolly: 23
+SuperStar: 
+--------------------------------------
+NÂº 72 - Concorso del 9 settembre 1998
+Numeri: 10 25 56 68 71 77
+Jolly: 3
+SuperStar: 
+--------------------------------------
+NÂº 71 - Concorso del 5 settembre 1998
+Numeri: 15 16 20 23 24 87
+Jolly: 77
+SuperStar: 
+--------------------------------------
+NÂº 70 - Concorso del 2 settembre 1998
+Numeri: 1 43 45 48 83 90
+Jolly: 14
+SuperStar: 
+--------------------------------------
+NÂº 69 - Concorso del 29 agosto 1998
+Numeri: 12 19 22 53 72 88
+Jolly: 34
+SuperStar: 
+--------------------------------------
+NÂº 68 - Concorso del 26 agosto 1998
+Numeri: 10 40 66 72 76 80
+Jolly: 61
+SuperStar: 
+--------------------------------------
+NÂº 67 - Concorso del 22 agosto 1998
+Numeri: 10 36 48 63 83 90
+Jolly: 32
+SuperStar: 
+--------------------------------------
+NÂº 66 - Concorso del 19 agosto 1998
+Numeri: 6 15 16 50 62 82
+Jolly: 4
+SuperStar: 
+--------------------------------------
+NÂº 65 - Concorso del 17 agosto 1998
+Numeri: 4 47 53 55 71 73
+Jolly: 80
+SuperStar: 
+--------------------------------------
+NÂº 64 - Concorso del 12 agosto 1998
+Numeri: 31 33 61 77 86 88
+Jolly: 16
+SuperStar: 
+--------------------------------------
+NÂº 63 - Concorso del 8 agosto 1998
+Numeri: 12 27 31 32 57 83
+Jolly: 42
+SuperStar: 
+--------------------------------------
+NÂº 62 - Concorso del 5 agosto 1998
+Numeri: 7 24 40 56 79 85
+Jolly: 90
+SuperStar: 
+--------------------------------------
+NÂº 61 - Concorso del 1 agosto 1998
+Numeri: 5 14 37 38 50 72
+Jolly: 90
+SuperStar: 
+--------------------------------------
+NÂº 60 - Concorso del 29 luglio 1998
+Numeri: 25 60 62 68 83 89
+Jolly: 88
+SuperStar: 
+--------------------------------------
+NÂº 59 - Concorso del 25 luglio 1998
+Numeri: 25 37 54 63 70 76
+Jolly: 7
+SuperStar: 
+--------------------------------------
+NÂº 58 - Concorso del 22 luglio 1998
+Numeri: 56 71 75 78 81 85
+Jolly: 8
+SuperStar: 
+--------------------------------------
+NÂº 57 - Concorso del 18 luglio 1998
+Numeri: 1 36 42 71 72 88
+Jolly: 90
+SuperStar: 
+--------------------------------------
+NÂº 56 - Concorso del 15 luglio 1998
+Numeri: 12 32 48 68 70 85
+Jolly: 7
+SuperStar: 
+--------------------------------------
+NÂº 55 - Concorso del 11 luglio 1998
+Numeri: 15 16 17 57 60 63
+Jolly: 28
+SuperStar: 
+--------------------------------------
+NÂº 54 - Concorso del 8 luglio 1998
+Numeri: 5 20 24 48 78 80
+Jolly: 6
+SuperStar: 
+--------------------------------------
+NÂº 53 - Concorso del 4 luglio 1998
+Numeri: 29 42 49 52 53 67
+Jolly: 55
+SuperStar: 
+--------------------------------------
+NÂº 52 - Concorso del 1 luglio 1998
+Numeri: 25 33 37 47 48 79
+Jolly: 29
+SuperStar: 
+--------------------------------------
+NÂº 51 - Concorso del 27 giugno 1998
+Numeri: 2 16 38 40 44 57
+Jolly: 28
+SuperStar: 
+--------------------------------------
+NÂº 50 - Concorso del 24 giugno 1998
+Numeri: 19 43 59 60 67 79
+Jolly: 10
+SuperStar: 
+--------------------------------------
+NÂº 49 - Concorso del 20 giugno 1998
+Numeri: 20 24 39 63 65 70
+Jolly: 36
+SuperStar: 
+--------------------------------------
+NÂº 48 - Concorso del 17 giugno 1998
+Numeri: 10 16 35 39 64 65
+Jolly: 70
+SuperStar: 
+--------------------------------------
+NÂº 47 - Concorso del 13 giugno 1998
+Numeri: 13 26 30 34 83 86
+Jolly: 64
+SuperStar: 
+--------------------------------------
+NÂº 46 - Concorso del 10 giugno 1998
+Numeri: 5 14 17 38 64 68
+Jolly: 83
+SuperStar: 
+--------------------------------------
+NÂº 45 - Concorso del 6 giugno 1998
+Numeri: 13 18 22 56 67 72
+Jolly: 65
+SuperStar: 
+--------------------------------------
+NÂº 44 - Concorso del 3 giugno 1998
+Numeri: 48 50 80 81 84 87
+Jolly: 42
+SuperStar: 
+--------------------------------------
+NÂº 43 - Concorso del 30 maggio 1998
+Numeri: 4 11 29 34 86 88
+Jolly: 59
+SuperStar: 
+--------------------------------------
+NÂº 42 - Concorso del 27 maggio 1998
+Numeri: 36 48 56 65 71 73
+Jolly: 38
+SuperStar: 
+--------------------------------------
+NÂº 41 - Concorso del 23 maggio 1998
+Numeri: 7 12 24 37 58 81
+Jolly: 10
+SuperStar: 
+--------------------------------------
+NÂº 40 - Concorso del 20 maggio 1998
+Numeri: 5 13 22 25 43 50
+Jolly: 45
+SuperStar: 
+--------------------------------------
+NÂº 39 - Concorso del 16 maggio 1998
+Numeri: 7 19 25 68 71 85
+Jolly: 46
+SuperStar: 
+--------------------------------------
+NÂº 38 - Concorso del 13 maggio 1998
+Numeri: 6 15 41 57 81 83
+Jolly: 74
+SuperStar: 
+--------------------------------------
+NÂº 37 - Concorso del 9 maggio 1998
+Numeri: 5 19 43 44 73 77
+Jolly: 39
+SuperStar: 
+--------------------------------------
+NÂº 36 - Concorso del 6 maggio 1998
+Numeri: 5 28 33 64 81 84
+Jolly: 67
+SuperStar: 
+--------------------------------------
+NÂº 35 - Concorso del 2 maggio 1998
+Numeri: 6 12 23 28 77 79
+Jolly: 73
+SuperStar: 
+--------------------------------------
+NÂº 34 - Concorso del 29 aprile 1998
+Numeri: 15 23 27 29 50 69
+Jolly: 54
+SuperStar: 
+--------------------------------------
+NÂº 33 - Concorso del 27 aprile 1998
+Numeri: 18 36 62 63 76 80
+Jolly: 64
+SuperStar: 
+--------------------------------------
+NÂº 32 - Concorso del 22 aprile 1998
+Numeri: 5 22 40 46 86 87
+Jolly: 13
+SuperStar: 
+--------------------------------------
+NÂº 31 - Concorso del 18 aprile 1998
+Numeri: 17 38 47 56 76 85
+Jolly: 26
+SuperStar: 
+--------------------------------------
+NÂº 30 - Concorso del 15 aprile 1998
+Numeri: 4 5 46 47 73 82
+Jolly: 62
+SuperStar: 
+--------------------------------------
+NÂº 29 - Concorso del 11 aprile 1998
+Numeri: 23 58 64 67 79 81
+Jolly: 14
+SuperStar: 
+--------------------------------------
+NÂº 28 - Concorso del 8 aprile 1998
+Numeri: 4 7 22 27 39 88
+Jolly: 14
+SuperStar: 
+--------------------------------------
+NÂº 27 - Concorso del 4 aprile 1998
+Numeri: 1 7 21 49 84 87
+Jolly: 77
+SuperStar: 
+--------------------------------------
+NÂº 26 - Concorso del 1 aprile 1998
+Numeri: 17 31 42 43 55 72
+Jolly: 64
+SuperStar: 
+--------------------------------------
+NÂº 25 - Concorso del 28 marzo 1998
+Numeri: 16 40 50 58 62 63
+Jolly: 5
+SuperStar: 
+--------------------------------------
+NÂº 24 - Concorso del 25 marzo 1998
+Numeri: 5 6 17 55 62 73
+Jolly: 38
+SuperStar: 
+--------------------------------------
+NÂº 23 - Concorso del 21 marzo 1998
+Numeri: 17 30 38 51 77 80
+Jolly: 33
+SuperStar: 
+--------------------------------------
+NÂº 22 - Concorso del 18 marzo 1998
+Numeri: 1 5 17 38 61 71
+Jolly: 70
+SuperStar: 
+--------------------------------------
+NÂº 21 - Concorso del 14 marzo 1998
+Numeri: 16 33 42 86 88 89
+Jolly: 43
+SuperStar: 
+--------------------------------------
+NÂº 20 - Concorso del 11 marzo 1998
+Numeri: 3 23 25 44 74 89
+Jolly: 76
+SuperStar: 
+--------------------------------------
+NÂº 19 - Concorso del 7 marzo 1998
+Numeri: 2 12 57 62 64 71
+Jolly: 56
+SuperStar: 
+--------------------------------------
+NÂº 18 - Concorso del 4 marzo 1998
+Numeri: 28 36 59 79 84 88
+Jolly: 7
+SuperStar: 
+--------------------------------------
+NÂº 17 - Concorso del 28 febbraio 1998
+Numeri: 13 68 75 79 87 88
+Jolly: 90
+SuperStar: 
+--------------------------------------
+NÂº 16 - Concorso del 25 febbraio 1998
+Numeri: 1 27 40 81 82 85
+Jolly: 6
+SuperStar: 
+--------------------------------------
+NÂº 15 - Concorso del 21 febbraio 1998
+Numeri: 4 19 47 60 73 84
+Jolly: 58
+SuperStar: 
+--------------------------------------
+NÂº 14 - Concorso del 18 febbraio 1998
+Numeri: 10 12 29 41 45 50
+Jolly: 52
+SuperStar: 
+--------------------------------------
+NÂº 13 - Concorso del 14 febbraio 1998
+Numeri: 37 40 46 51 58 66
+Jolly: 84
+SuperStar: 
+--------------------------------------
+NÂº 12 - Concorso del 11 febbraio 1998
+Numeri: 2 15 63 65 68 78
+Jolly: 71
+SuperStar: 
+--------------------------------------
+NÂº 11 - Concorso del 7 febbraio 1998
+Numeri: 8 9 23 34 64 89
+Jolly: 1
+SuperStar: 
+--------------------------------------
+NÂº 10 - Concorso del 4 febbraio 1998
+Numeri: 18 23 24 35 48 82
+Jolly: 38
+SuperStar: 
+--------------------------------------
+NÂº 9 - Concorso del 31 gennaio 1998
+Numeri: 6 13 26 33 34 78
+Jolly: 65
+SuperStar: 
+--------------------------------------
+NÂº 8 - Concorso del 28 gennaio 1998
+Numeri: 2 3 49 51 63 79
+Jolly: 43
+SuperStar: 
+--------------------------------------
+NÂº 7 - Concorso del 24 gennaio 1998
+Numeri: 3 4 39 43 56 81
+Jolly: 82
+SuperStar: 
+--------------------------------------
+NÂº 6 - Concorso del 21 gennaio 1998
+Numeri: 22 25 26 49 59 85
+Jolly: 62
+SuperStar: 
+--------------------------------------
+NÂº 5 - Concorso del 17 gennaio 1998
+Numeri: 29 37 49 51 55 74
+Jolly: 86
+SuperStar: 
+--------------------------------------
+NÂº 4 - Concorso del 14 gennaio 1998
+Numeri: 16 37 49 52 53 82
+Jolly: 57
+SuperStar: 
+--------------------------------------
+NÂº 3 - Concorso del 10 gennaio 1998
+Numeri: 24 33 37 40 60 86
+Jolly: 32
+SuperStar: 
+--------------------------------------
+NÂº 2 - Concorso del 7 gennaio 1998
+Numeri: 20 23 24 29 66 73
+Jolly: 30
+SuperStar: 
+--------------------------------------
+NÂº 1 - Concorso del 3 gennaio 1998
+Numeri: 2 29 36 72 82 90
+Jolly: 71
+SuperStar: 
+--------------------------------------
+

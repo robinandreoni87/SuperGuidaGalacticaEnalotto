@@ -1,0 +1,666 @@
+﻿NÂº 133 - Concorso del 31 dicembre 2005
+Numeri: 57 66 68 70 74 86
+Jolly: 87
+SuperStar: 
+--------------------------------------
+NÂº 132 - Concorso del 29 dicembre 2005
+Numeri: 3 4 17 20 23 54
+Jolly: 43
+SuperStar: 
+--------------------------------------
+NÂº 131 - Concorso del 27 dicembre 2005
+Numeri: 3 5 51 55 82 83
+Jolly: 76
+SuperStar: 
+--------------------------------------
+NÂº 130 - Concorso del 24 dicembre 2005
+Numeri: 26 47 49 66 86 88
+Jolly: 44
+SuperStar: 
+--------------------------------------
+NÂº 129 - Concorso del 22 dicembre 2005
+Numeri: 9 46 54 64 69 72
+Jolly: 90
+SuperStar: 
+--------------------------------------
+NÂº 128 - Concorso del 20 dicembre 2005
+Numeri: 1 17 31 39 49 71
+Jolly: 7
+SuperStar: 
+--------------------------------------
+NÂº 127 - Concorso del 17 dicembre 2005
+Numeri: 20 23 42 70 80 90
+Jolly: 39
+SuperStar: 
+--------------------------------------
+NÂº 126 - Concorso del 15 dicembre 2005
+Numeri: 6 26 42 51 60 79
+Jolly: 47
+SuperStar: 
+--------------------------------------
+NÂº 125 - Concorso del 13 dicembre 2005
+Numeri: 52 59 63 72 75 87
+Jolly: 89
+SuperStar: 
+--------------------------------------
+NÂº 124 - Concorso del 10 dicembre 2005
+Numeri: 20 27 28 46 64 85
+Jolly: 68
+SuperStar: 
+--------------------------------------
+NÂº 123 - Concorso del 9 dicembre 2005
+Numeri: 15 23 35 38 69 89
+Jolly: 22
+SuperStar: 
+--------------------------------------
+NÂº 122 - Concorso del 6 dicembre 2005
+Numeri: 18 38 43 57 73 88
+Jolly: 67
+SuperStar: 
+--------------------------------------
+NÂº 121 - Concorso del 3 dicembre 2005
+Numeri: 24 40 53 60 63 68
+Jolly: 56
+SuperStar: 
+--------------------------------------
+NÂº 120 - Concorso del 1 dicembre 2005
+Numeri: 22 30 43 56 69 78
+Jolly: 66
+SuperStar: 
+--------------------------------------
+NÂº 119 - Concorso del 29 novembre 2005
+Numeri: 1 12 21 36 40 84
+Jolly: 48
+SuperStar: 
+--------------------------------------
+NÂº 118 - Concorso del 26 novembre 2005
+Numeri: 23 30 32 41 48 64
+Jolly: 78
+SuperStar: 
+--------------------------------------
+NÂº 117 - Concorso del 24 novembre 2005
+Numeri: 25 28 34 44 57 80
+Jolly: 86
+SuperStar: 
+--------------------------------------
+NÂº 116 - Concorso del 22 novembre 2005
+Numeri: 4 16 31 54 70 87
+Jolly: 27
+SuperStar: 
+--------------------------------------
+NÂº 115 - Concorso del 19 novembre 2005
+Numeri: 12 14 23 36 72 87
+Jolly: 89
+SuperStar: 
+--------------------------------------
+NÂº 114 - Concorso del 17 novembre 2005
+Numeri: 20 26 30 39 40 55
+Jolly: 73
+SuperStar: 
+--------------------------------------
+NÂº 113 - Concorso del 15 novembre 2005
+Numeri: 48 59 65 69 84 90
+Jolly: 46
+SuperStar: 
+--------------------------------------
+NÂº 112 - Concorso del 12 novembre 2005
+Numeri: 11 16 54 56 57 82
+Jolly: 41
+SuperStar: 
+--------------------------------------
+NÂº 111 - Concorso del 10 novembre 2005
+Numeri: 3 15 23 40 51 60
+Jolly: 32
+SuperStar: 
+--------------------------------------
+NÂº 110 - Concorso del 8 novembre 2005
+Numeri: 1 13 14 25 72 86
+Jolly: 4
+SuperStar: 
+--------------------------------------
+NÂº 109 - Concorso del 5 novembre 2005
+Numeri: 13 30 60 67 84 86
+Jolly: 78
+SuperStar: 
+--------------------------------------
+NÂº 108 - Concorso del 3 novembre 2005
+Numeri: 9 13 17 47 63 81
+Jolly: 77
+SuperStar: 
+--------------------------------------
+NÂº 107 - Concorso del 2 novembre 2005
+Numeri: 5 31 57 66 81 85
+Jolly: 50
+SuperStar: 
+--------------------------------------
+NÂº 106 - Concorso del 29 ottobre 2005
+Numeri: 3 6 21 24 37 48
+Jolly: 13
+SuperStar: 
+--------------------------------------
+NÂº 105 - Concorso del 27 ottobre 2005
+Numeri: 17 42 62 67 77 79
+Jolly: 74
+SuperStar: 
+--------------------------------------
+NÂº 104 - Concorso del 25 ottobre 2005
+Numeri: 17 39 48 55 57 85
+Jolly: 15
+SuperStar: 
+--------------------------------------
+NÂº 103 - Concorso del 22 ottobre 2005
+Numeri: 24 35 38 61 70 86
+Jolly: 58
+SuperStar: 
+--------------------------------------
+NÂº 102 - Concorso del 20 ottobre 2005
+Numeri: 7 48 53 59 70 76
+Jolly: 63
+SuperStar: 
+--------------------------------------
+NÂº 101 - Concorso del 18 ottobre 2005
+Numeri: 3 33 63 71 78 79
+Jolly: 74
+SuperStar: 
+--------------------------------------
+NÂº 100 - Concorso del 15 ottobre 2005
+Numeri: 13 27 46 68 79 83
+Jolly: 32
+SuperStar: 
+--------------------------------------
+NÂº 99 - Concorso del 13 ottobre 2005
+Numeri: 14 20 35 45 48 66
+Jolly: 57
+SuperStar: 
+--------------------------------------
+NÂº 98 - Concorso del 11 ottobre 2005
+Numeri: 10 25 35 83 87 90
+Jolly: 5
+SuperStar: 
+--------------------------------------
+NÂº 97 - Concorso del 8 ottobre 2005
+Numeri: 15 25 58 61 83 86
+Jolly: 77
+SuperStar: 
+--------------------------------------
+NÂº 96 - Concorso del 6 ottobre 2005
+Numeri: 5 11 13 55 66 71
+Jolly: 25
+SuperStar: 
+--------------------------------------
+NÂº 95 - Concorso del 4 ottobre 2005
+Numeri: 5 25 44 54 65 70
+Jolly: 43
+SuperStar: 
+--------------------------------------
+NÂº 94 - Concorso del 1 ottobre 2005
+Numeri: 44 56 63 71 79 90
+Jolly: 88
+SuperStar: 
+--------------------------------------
+NÂº 93 - Concorso del 29 settembre 2005
+Numeri: 12 23 29 48 52 78
+Jolly: 40
+SuperStar: 
+--------------------------------------
+NÂº 92 - Concorso del 27 settembre 2005
+Numeri: 12 33 49 58 69 75
+Jolly: 55
+SuperStar: 
+--------------------------------------
+NÂº 91 - Concorso del 24 settembre 2005
+Numeri: 4 18 41 52 79 82
+Jolly: 39
+SuperStar: 
+--------------------------------------
+NÂº 90 - Concorso del 22 settembre 2005
+Numeri: 18 28 34 46 66 82
+Jolly: 90
+SuperStar: 
+--------------------------------------
+NÂº 89 - Concorso del 20 settembre 2005
+Numeri: 37 40 70 71 75 80
+Jolly: 15
+SuperStar: 
+--------------------------------------
+NÂº 88 - Concorso del 17 settembre 2005
+Numeri: 13 14 20 22 44 88
+Jolly: 1
+SuperStar: 
+--------------------------------------
+NÂº 87 - Concorso del 15 settembre 2005
+Numeri: 19 36 44 46 51 89
+Jolly: 9
+SuperStar: 
+--------------------------------------
+NÂº 86 - Concorso del 13 settembre 2005
+Numeri: 18 21 24 28 74 77
+Jolly: 13
+SuperStar: 
+--------------------------------------
+NÂº 85 - Concorso del 10 settembre 2005
+Numeri: 20 48 57 65 71 90
+Jolly: 39
+SuperStar: 
+--------------------------------------
+NÂº 84 - Concorso del 8 settembre 2005
+Numeri: 42 64 79 84 87 89
+Jolly: 6
+SuperStar: 
+--------------------------------------
+NÂº 83 - Concorso del 6 settembre 2005
+Numeri: 13 22 31 54 55 87
+Jolly: 29
+SuperStar: 
+--------------------------------------
+NÂº 82 - Concorso del 3 settembre 2005
+Numeri: 3 11 26 36 45 75
+Jolly: 1
+SuperStar: 
+--------------------------------------
+NÂº 81 - Concorso del 1 settembre 2005
+Numeri: 9 12 20 55 69 81
+Jolly: 64
+SuperStar: 
+--------------------------------------
+NÂº 80 - Concorso del 30 agosto 2005
+Numeri: 10 29 53 73 78 83
+Jolly: 16
+SuperStar: 
+--------------------------------------
+NÂº 79 - Concorso del 27 agosto 2005
+Numeri: 11 14 17 35 43 70
+Jolly: 54
+SuperStar: 
+--------------------------------------
+NÂº 78 - Concorso del 25 agosto 2005
+Numeri: 7 15 33 40 51 64
+Jolly: 17
+SuperStar: 
+--------------------------------------
+NÂº 77 - Concorso del 23 agosto 2005
+Numeri: 7 22 33 48 86 87
+Jolly: 39
+SuperStar: 
+--------------------------------------
+NÂº 76 - Concorso del 20 agosto 2005
+Numeri: 24 34 56 72 79 88
+Jolly: 18
+SuperStar: 
+--------------------------------------
+NÂº 75 - Concorso del 18 agosto 2005
+Numeri: 3 15 49 65 70 72
+Jolly: 63
+SuperStar: 
+--------------------------------------
+NÂº 74 - Concorso del 16 agosto 2005
+Numeri: 18 22 28 33 57 71
+Jolly: 64
+SuperStar: 
+--------------------------------------
+NÂº 73 - Concorso del 13 agosto 2005
+Numeri: 7 8 33 39 48 84
+Jolly: 23
+SuperStar: 
+--------------------------------------
+NÂº 72 - Concorso del 11 agosto 2005
+Numeri: 3 49 68 73 76 80
+Jolly: 70
+SuperStar: 
+--------------------------------------
+NÂº 71 - Concorso del 9 agosto 2005
+Numeri: 3 8 13 28 50 61
+Jolly: 38
+SuperStar: 
+--------------------------------------
+NÂº 70 - Concorso del 6 agosto 2005
+Numeri: 1 4 22 24 38 46
+Jolly: 61
+SuperStar: 
+--------------------------------------
+NÂº 69 - Concorso del 4 agosto 2005
+Numeri: 24 37 64 81 84 90
+Jolly: 74
+SuperStar: 
+--------------------------------------
+NÂº 68 - Concorso del 2 agosto 2005
+Numeri: 24 34 64 66 68 72
+Jolly: 65
+SuperStar: 
+--------------------------------------
+NÂº 67 - Concorso del 30 luglio 2005
+Numeri: 25 28 29 54 74 88
+Jolly: 2
+SuperStar: 
+--------------------------------------
+NÂº 66 - Concorso del 28 luglio 2005
+Numeri: 8 18 25 38 41 43
+Jolly: 4
+SuperStar: 
+--------------------------------------
+NÂº 65 - Concorso del 26 luglio 2005
+Numeri: 3 17 43 54 75 79
+Jolly: 76
+SuperStar: 
+--------------------------------------
+NÂº 64 - Concorso del 23 luglio 2005
+Numeri: 41 48 66 81 86 87
+Jolly: 50
+SuperStar: 
+--------------------------------------
+NÂº 63 - Concorso del 21 luglio 2005
+Numeri: 2 7 16 26 34 80
+Jolly: 23
+SuperStar: 
+--------------------------------------
+NÂº 62 - Concorso del 19 luglio 2005
+Numeri: 2 15 39 57 62 73
+Jolly: 75
+SuperStar: 
+--------------------------------------
+NÂº 61 - Concorso del 16 luglio 2005
+Numeri: 8 22 28 36 74 85
+Jolly: 79
+SuperStar: 
+--------------------------------------
+NÂº 60 - Concorso del 14 luglio 2005
+Numeri: 8 14 41 55 83 85
+Jolly: 7
+SuperStar: 
+--------------------------------------
+NÂº 59 - Concorso del 12 luglio 2005
+Numeri: 5 24 28 41 51 73
+Jolly: 29
+SuperStar: 
+--------------------------------------
+NÂº 58 - Concorso del 9 luglio 2005
+Numeri: 2 13 18 51 52 55
+Jolly: 64
+SuperStar: 
+--------------------------------------
+NÂº 57 - Concorso del 7 luglio 2005
+Numeri: 17 21 40 55 64 79
+Jolly: 86
+SuperStar: 
+--------------------------------------
+NÂº 56 - Concorso del 5 luglio 2005
+Numeri: 33 39 49 57 76 80
+Jolly: 53
+SuperStar: 
+--------------------------------------
+NÂº 55 - Concorso del 2 luglio 2005
+Numeri: 1 19 23 50 74 77
+Jolly: 18
+SuperStar: 
+--------------------------------------
+NÂº 54 - Concorso del 30 giugno 2005
+Numeri: 6 27 42 49 82 86
+Jolly: 69
+SuperStar: 
+--------------------------------------
+NÂº 53 - Concorso del 28 giugno 2005
+Numeri: 6 8 49 60 72 74
+Jolly: 89
+SuperStar: 
+--------------------------------------
+NÂº 52 - Concorso del 25 giugno 2005
+Numeri: 4 8 38 60 82 89
+Jolly: 88
+SuperStar: 
+--------------------------------------
+NÂº 51 - Concorso del 23 giugno 2005
+Numeri: 9 24 56 68 80 86
+Jolly: 14
+SuperStar: 
+--------------------------------------
+NÂº 50 - Concorso del 21 giugno 2005
+Numeri: 10 13 45 51 65 88
+Jolly: 43
+SuperStar: 
+--------------------------------------
+NÂº 49 - Concorso del 18 giugno 2005
+Numeri: 7 19 27 54 64 78
+Jolly: 86
+SuperStar: 
+--------------------------------------
+NÂº 48 - Concorso del 15 giugno 2005
+Numeri: 6 57 58 66 76 80
+Jolly: 72
+SuperStar: 
+--------------------------------------
+NÂº 47 - Concorso del 11 giugno 2005
+Numeri: 22 35 36 44 74 75
+Jolly: 58
+SuperStar: 
+--------------------------------------
+NÂº 46 - Concorso del 8 giugno 2005
+Numeri: 6 8 28 29 32 73
+Jolly: 59
+SuperStar: 
+--------------------------------------
+NÂº 45 - Concorso del 4 giugno 2005
+Numeri: 15 18 35 55 64 88
+Jolly: 50
+SuperStar: 
+--------------------------------------
+NÂº 44 - Concorso del 1 giugno 2005
+Numeri: 3 7 11 35 69 85
+Jolly: 19
+SuperStar: 
+--------------------------------------
+NÂº 43 - Concorso del 28 maggio 2005
+Numeri: 2 3 10 15 31 61
+Jolly: 37
+SuperStar: 
+--------------------------------------
+NÂº 42 - Concorso del 25 maggio 2005
+Numeri: 17 19 35 39 40 51
+Jolly: 72
+SuperStar: 
+--------------------------------------
+NÂº 41 - Concorso del 21 maggio 2005
+Numeri: 4 15 25 39 45 79
+Jolly: 50
+SuperStar: 
+--------------------------------------
+NÂº 40 - Concorso del 18 maggio 2005
+Numeri: 5 9 23 40 57 68
+Jolly: 66
+SuperStar: 
+--------------------------------------
+NÂº 39 - Concorso del 14 maggio 2005
+Numeri: 6 16 44 45 89 90
+Jolly: 82
+SuperStar: 
+--------------------------------------
+NÂº 38 - Concorso del 11 maggio 2005
+Numeri: 5 55 68 69 70 76
+Jolly: 14
+SuperStar: 
+--------------------------------------
+NÂº 37 - Concorso del 7 maggio 2005
+Numeri: 6 11 21 30 58 63
+Jolly: 5
+SuperStar: 
+--------------------------------------
+NÂº 36 - Concorso del 4 maggio 2005
+Numeri: 1 29 49 53 56 74
+Jolly: 67
+SuperStar: 
+--------------------------------------
+NÂº 35 - Concorso del 30 aprile 2005
+Numeri: 16 31 53 63 70 81
+Jolly: 7
+SuperStar: 
+--------------------------------------
+NÂº 34 - Concorso del 27 aprile 2005
+Numeri: 13 15 19 21 82 86
+Jolly: 87
+SuperStar: 
+--------------------------------------
+NÂº 33 - Concorso del 23 aprile 2005
+Numeri: 1 32 37 68 81 88
+Jolly: 74
+SuperStar: 
+--------------------------------------
+NÂº 32 - Concorso del 20 aprile 2005
+Numeri: 19 47 56 57 70 71
+Jolly: 11
+SuperStar: 
+--------------------------------------
+NÂº 31 - Concorso del 16 aprile 2005
+Numeri: 5 13 20 32 38 59
+Jolly: 7
+SuperStar: 
+--------------------------------------
+NÂº 30 - Concorso del 13 aprile 2005
+Numeri: 1 52 70 73 83 89
+Jolly: 56
+SuperStar: 
+--------------------------------------
+NÂº 29 - Concorso del 9 aprile 2005
+Numeri: 29 30 61 65 73 81
+Jolly: 58
+SuperStar: 
+--------------------------------------
+NÂº 28 - Concorso del 6 aprile 2005
+Numeri: 28 41 56 75 83 90
+Jolly: 44
+SuperStar: 
+--------------------------------------
+NÂº 27 - Concorso del 2 aprile 2005
+Numeri: 7 24 42 49 54 65
+Jolly: 44
+SuperStar: 
+--------------------------------------
+NÂº 26 - Concorso del 30 marzo 2005
+Numeri: 6 55 61 65 78 89
+Jolly: 13
+SuperStar: 
+--------------------------------------
+NÂº 25 - Concorso del 26 marzo 2005
+Numeri: 42 55 59 61 70 73
+Jolly: 41
+SuperStar: 
+--------------------------------------
+NÂº 24 - Concorso del 23 marzo 2005
+Numeri: 11 32 36 52 63 66
+Jolly: 26
+SuperStar: 
+--------------------------------------
+NÂº 23 - Concorso del 19 marzo 2005
+Numeri: 12 33 40 52 53 85
+Jolly: 22
+SuperStar: 
+--------------------------------------
+NÂº 22 - Concorso del 16 marzo 2005
+Numeri: 4 10 18 53 75 80
+Jolly: 85
+SuperStar: 
+--------------------------------------
+NÂº 21 - Concorso del 12 marzo 2005
+Numeri: 2 8 30 74 76 88
+Jolly: 37
+SuperStar: 
+--------------------------------------
+NÂº 20 - Concorso del 9 marzo 2005
+Numeri: 26 31 50 71 85 87
+Jolly: 18
+SuperStar: 
+--------------------------------------
+NÂº 19 - Concorso del 5 marzo 2005
+Numeri: 19 21 36 55 77 87
+Jolly: 51
+SuperStar: 
+--------------------------------------
+NÂº 18 - Concorso del 2 marzo 2005
+Numeri: 15 31 62 68 72 73
+Jolly: 25
+SuperStar: 
+--------------------------------------
+NÂº 17 - Concorso del 26 febbraio 2005
+Numeri: 4 23 28 60 64 65
+Jolly: 35
+SuperStar: 
+--------------------------------------
+NÂº 16 - Concorso del 23 febbraio 2005
+Numeri: 8 17 36 37 60 65
+Jolly: 13
+SuperStar: 
+--------------------------------------
+NÂº 15 - Concorso del 19 febbraio 2005
+Numeri: 22 26 32 38 42 86
+Jolly: 85
+SuperStar: 
+--------------------------------------
+NÂº 14 - Concorso del 16 febbraio 2005
+Numeri: 6 8 18 51 80 89
+Jolly: 47
+SuperStar: 
+--------------------------------------
+NÂº 13 - Concorso del 12 febbraio 2005
+Numeri: 13 18 24 50 58 66
+Jolly: 64
+SuperStar: 
+--------------------------------------
+NÂº 12 - Concorso del 9 febbraio 2005
+Numeri: 23 35 36 51 59 80
+Jolly: 53
+SuperStar: 
+--------------------------------------
+NÂº 11 - Concorso del 5 febbraio 2005
+Numeri: 45 60 67 69 70 87
+Jolly: 34
+SuperStar: 
+--------------------------------------
+NÂº 10 - Concorso del 2 febbraio 2005
+Numeri: 28 32 46 49 85 87
+Jolly: 52
+SuperStar: 
+--------------------------------------
+NÂº 9 - Concorso del 29 gennaio 2005
+Numeri: 1 16 18 43 47 78
+Jolly: 59
+SuperStar: 
+--------------------------------------
+NÂº 8 - Concorso del 26 gennaio 2005
+Numeri: 1 22 24 44 47 79
+Jolly: 43
+SuperStar: 
+--------------------------------------
+NÂº 7 - Concorso del 22 gennaio 2005
+Numeri: 15 45 62 63 80 82
+Jolly: 44
+SuperStar: 
+--------------------------------------
+NÂº 6 - Concorso del 19 gennaio 2005
+Numeri: 7 43 46 70 77 89
+Jolly: 38
+SuperStar: 
+--------------------------------------
+NÂº 5 - Concorso del 15 gennaio 2005
+Numeri: 14 31 34 78 89 90
+Jolly: 55
+SuperStar: 
+--------------------------------------
+NÂº 4 - Concorso del 12 gennaio 2005
+Numeri: 2 12 16 20 24 79
+Jolly: 83
+SuperStar: 
+--------------------------------------
+NÂº 3 - Concorso del 8 gennaio 2005
+Numeri: 11 25 63 72 76 87
+Jolly: 59
+SuperStar: 
+--------------------------------------
+NÂº 2 - Concorso del 5 gennaio 2005
+Numeri: 51 53 63 75 76 87
+Jolly: 46
+SuperStar: 
+--------------------------------------
+NÂº 1 - Concorso del 3 gennaio 2005
+Numeri: 10 21 22 43 61 66
+Jolly: 47
+SuperStar: 
+--------------------------------------
+

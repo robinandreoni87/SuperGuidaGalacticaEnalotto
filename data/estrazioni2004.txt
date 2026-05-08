@@ -1,0 +1,521 @@
+﻿NÂº 104 - Concorso del 29 dicembre 2004
+Numeri: 2 24 49 56 76 78
+Jolly: 44
+SuperStar: 
+--------------------------------------
+NÂº 103 - Concorso del 27 dicembre 2004
+Numeri: 4 59 68 72 74 87
+Jolly: 12
+SuperStar: 
+--------------------------------------
+NÂº 102 - Concorso del 22 dicembre 2004
+Numeri: 14 15 54 77 80 82
+Jolly: 55
+SuperStar: 
+--------------------------------------
+NÂº 101 - Concorso del 18 dicembre 2004
+Numeri: 11 23 47 48 80 87
+Jolly: 89
+SuperStar: 
+--------------------------------------
+NÂº 100 - Concorso del 15 dicembre 2004
+Numeri: 3 4 15 21 61 67
+Jolly: 55
+SuperStar: 
+--------------------------------------
+NÂº 99 - Concorso del 11 dicembre 2004
+Numeri: 8 41 60 70 73 85
+Jolly: 55
+SuperStar: 
+--------------------------------------
+NÂº 98 - Concorso del 9 dicembre 2004
+Numeri: 6 8 15 18 33 75
+Jolly: 87
+SuperStar: 
+--------------------------------------
+NÂº 97 - Concorso del 4 dicembre 2004
+Numeri: 20 24 38 42 44 79
+Jolly: 50
+SuperStar: 
+--------------------------------------
+NÂº 96 - Concorso del 1 dicembre 2004
+Numeri: 3 41 64 65 74 90
+Jolly: 80
+SuperStar: 
+--------------------------------------
+NÂº 95 - Concorso del 27 novembre 2004
+Numeri: 27 35 54 61 83 89
+Jolly: 57
+SuperStar: 
+--------------------------------------
+NÂº 94 - Concorso del 24 novembre 2004
+Numeri: 43 45 46 47 69 90
+Jolly: 21
+SuperStar: 
+--------------------------------------
+NÂº 93 - Concorso del 20 novembre 2004
+Numeri: 29 30 38 54 66 78
+Jolly: 80
+SuperStar: 
+--------------------------------------
+NÂº 92 - Concorso del 17 novembre 2004
+Numeri: 19 21 27 47 59 88
+Jolly: 29
+SuperStar: 
+--------------------------------------
+NÂº 91 - Concorso del 13 novembre 2004
+Numeri: 2 21 33 38 45 46
+Jolly: 54
+SuperStar: 
+--------------------------------------
+NÂº 90 - Concorso del 10 novembre 2004
+Numeri: 15 51 63 79 83 90
+Jolly: 64
+SuperStar: 
+--------------------------------------
+NÂº 89 - Concorso del 6 novembre 2004
+Numeri: 13 18 21 31 41 56
+Jolly: 33
+SuperStar: 
+--------------------------------------
+NÂº 88 - Concorso del 3 novembre 2004
+Numeri: 24 35 39 60 72 75
+Jolly: 20
+SuperStar: 
+--------------------------------------
+NÂº 87 - Concorso del 30 ottobre 2004
+Numeri: 4 13 19 30 53 81
+Jolly: 42
+SuperStar: 
+--------------------------------------
+NÂº 86 - Concorso del 27 ottobre 2004
+Numeri: 10 14 17 56 65 84
+Jolly: 25
+SuperStar: 
+--------------------------------------
+NÂº 85 - Concorso del 23 ottobre 2004
+Numeri: 12 40 51 68 73 77
+Jolly: 69
+SuperStar: 
+--------------------------------------
+NÂº 84 - Concorso del 20 ottobre 2004
+Numeri: 13 33 47 48 70 85
+Jolly: 7
+SuperStar: 
+--------------------------------------
+NÂº 83 - Concorso del 16 ottobre 2004
+Numeri: 12 14 27 35 73 88
+Jolly: 66
+SuperStar: 
+--------------------------------------
+NÂº 82 - Concorso del 13 ottobre 2004
+Numeri: 19 44 57 69 71 87
+Jolly: 65
+SuperStar: 
+--------------------------------------
+NÂº 81 - Concorso del 9 ottobre 2004
+Numeri: 7 32 44 47 65 79
+Jolly: 48
+SuperStar: 
+--------------------------------------
+NÂº 80 - Concorso del 6 ottobre 2004
+Numeri: 3 11 19 28 52 87
+Jolly: 72
+SuperStar: 
+--------------------------------------
+NÂº 79 - Concorso del 2 ottobre 2004
+Numeri: 9 37 41 46 65 79
+Jolly: 83
+SuperStar: 
+--------------------------------------
+NÂº 78 - Concorso del 29 settembre 2004
+Numeri: 2 11 22 25 60 78
+Jolly: 74
+SuperStar: 
+--------------------------------------
+NÂº 77 - Concorso del 25 settembre 2004
+Numeri: 2 49 56 76 86 89
+Jolly: 10
+SuperStar: 
+--------------------------------------
+NÂº 76 - Concorso del 22 settembre 2004
+Numeri: 11 67 72 74 75 77
+Jolly: 44
+SuperStar: 
+--------------------------------------
+NÂº 75 - Concorso del 18 settembre 2004
+Numeri: 2 21 24 27 42 68
+Jolly: 63
+SuperStar: 
+--------------------------------------
+NÂº 74 - Concorso del 15 settembre 2004
+Numeri: 8 36 49 59 70 87
+Jolly: 73
+SuperStar: 
+--------------------------------------
+NÂº 73 - Concorso del 11 settembre 2004
+Numeri: 16 20 43 77 78 84
+Jolly: 42
+SuperStar: 
+--------------------------------------
+NÂº 72 - Concorso del 8 settembre 2004
+Numeri: 41 43 53 65 67 80
+Jolly: 77
+SuperStar: 
+--------------------------------------
+NÂº 71 - Concorso del 4 settembre 2004
+Numeri: 35 37 41 43 51 88
+Jolly: 2
+SuperStar: 
+--------------------------------------
+NÂº 70 - Concorso del 1 settembre 2004
+Numeri: 5 15 66 67 82 84
+Jolly: 64
+SuperStar: 
+--------------------------------------
+NÂº 69 - Concorso del 28 agosto 2004
+Numeri: 18 35 50 57 67 72
+Jolly: 16
+SuperStar: 
+--------------------------------------
+NÂº 68 - Concorso del 25 agosto 2004
+Numeri: 1 27 37 42 53 61
+Jolly: 70
+SuperStar: 
+--------------------------------------
+NÂº 67 - Concorso del 21 agosto 2004
+Numeri: 32 42 55 74 78 88
+Jolly: 71
+SuperStar: 
+--------------------------------------
+NÂº 66 - Concorso del 18 agosto 2004
+Numeri: 4 19 51 57 66 89
+Jolly: 78
+SuperStar: 
+--------------------------------------
+NÂº 65 - Concorso del 14 agosto 2004
+Numeri: 29 40 52 59 71 84
+Jolly: 60
+SuperStar: 
+--------------------------------------
+NÂº 64 - Concorso del 11 agosto 2004
+Numeri: 6 42 43 46 53 70
+Jolly: 35
+SuperStar: 
+--------------------------------------
+NÂº 63 - Concorso del 7 agosto 2004
+Numeri: 8 29 38 53 77 80
+Jolly: 27
+SuperStar: 
+--------------------------------------
+NÂº 62 - Concorso del 4 agosto 2004
+Numeri: 12 17 27 44 72 90
+Jolly: 11
+SuperStar: 
+--------------------------------------
+NÂº 61 - Concorso del 31 luglio 2004
+Numeri: 17 29 63 66 70 89
+Jolly: 82
+SuperStar: 
+--------------------------------------
+NÂº 60 - Concorso del 28 luglio 2004
+Numeri: 2 13 22 53 60 85
+Jolly: 16
+SuperStar: 
+--------------------------------------
+NÂº 59 - Concorso del 24 luglio 2004
+Numeri: 5 17 18 27 33 47
+Jolly: 80
+SuperStar: 
+--------------------------------------
+NÂº 58 - Concorso del 21 luglio 2004
+Numeri: 8 13 31 42 58 88
+Jolly: 46
+SuperStar: 
+--------------------------------------
+NÂº 57 - Concorso del 17 luglio 2004
+Numeri: 29 53 54 72 76 90
+Jolly: 20
+SuperStar: 
+--------------------------------------
+NÂº 56 - Concorso del 14 luglio 2004
+Numeri: 8 18 26 36 41 52
+Jolly: 90
+SuperStar: 
+--------------------------------------
+NÂº 55 - Concorso del 10 luglio 2004
+Numeri: 13 30 47 66 74 81
+Jolly: 70
+SuperStar: 
+--------------------------------------
+NÂº 54 - Concorso del 7 luglio 2004
+Numeri: 14 23 29 44 48 74
+Jolly: 73
+SuperStar: 
+--------------------------------------
+NÂº 53 - Concorso del 3 luglio 2004
+Numeri: 14 18 22 27 39 58
+Jolly: 43
+SuperStar: 
+--------------------------------------
+NÂº 52 - Concorso del 30 giugno 2004
+Numeri: 10 22 34 43 62 68
+Jolly: 40
+SuperStar: 
+--------------------------------------
+NÂº 51 - Concorso del 26 giugno 2004
+Numeri: 18 37 40 45 54 56
+Jolly: 57
+SuperStar: 
+--------------------------------------
+NÂº 50 - Concorso del 23 giugno 2004
+Numeri: 11 15 58 66 74 79
+Jolly: 3
+SuperStar: 
+--------------------------------------
+NÂº 49 - Concorso del 19 giugno 2004
+Numeri: 4 8 11 36 55 83
+Jolly: 49
+SuperStar: 
+--------------------------------------
+NÂº 48 - Concorso del 16 giugno 2004
+Numeri: 20 55 59 73 87 90
+Jolly: 40
+SuperStar: 
+--------------------------------------
+NÂº 47 - Concorso del 12 giugno 2004
+Numeri: 38 44 46 55 67 85
+Jolly: 29
+SuperStar: 
+--------------------------------------
+NÂº 46 - Concorso del 9 giugno 2004
+Numeri: 1 2 26 31 42 64
+Jolly: 11
+SuperStar: 
+--------------------------------------
+NÂº 45 - Concorso del 5 giugno 2004
+Numeri: 29 34 37 55 62 78
+Jolly: 24
+SuperStar: 
+--------------------------------------
+NÂº 44 - Concorso del 3 giugno 2004
+Numeri: 13 16 42 61 63 81
+Jolly: 10
+SuperStar: 
+--------------------------------------
+NÂº 43 - Concorso del 29 maggio 2004
+Numeri: 1 5 16 60 84 86
+Jolly: 57
+SuperStar: 
+--------------------------------------
+NÂº 42 - Concorso del 26 maggio 2004
+Numeri: 26 65 73 76 81 90
+Jolly: 13
+SuperStar: 
+--------------------------------------
+NÂº 41 - Concorso del 22 maggio 2004
+Numeri: 14 33 35 46 50 66
+Jolly: 44
+SuperStar: 
+--------------------------------------
+NÂº 40 - Concorso del 19 maggio 2004
+Numeri: 9 22 36 47 69 85
+Jolly: 78
+SuperStar: 
+--------------------------------------
+NÂº 39 - Concorso del 15 maggio 2004
+Numeri: 14 46 49 60 77 86
+Jolly: 33
+SuperStar: 
+--------------------------------------
+NÂº 38 - Concorso del 12 maggio 2004
+Numeri: 13 14 40 66 79 85
+Jolly: 80
+SuperStar: 
+--------------------------------------
+NÂº 37 - Concorso del 8 maggio 2004
+Numeri: 3 34 62 63 72 73
+Jolly: 15
+SuperStar: 
+--------------------------------------
+NÂº 36 - Concorso del 5 maggio 2004
+Numeri: 2 22 37 46 57 74
+Jolly: 63
+SuperStar: 
+--------------------------------------
+NÂº 35 - Concorso del 3 maggio 2004
+Numeri: 2 7 24 56 82 85
+Jolly: 62
+SuperStar: 
+--------------------------------------
+NÂº 34 - Concorso del 28 aprile 2004
+Numeri: 35 42 60 88 89 90
+Jolly: 86
+SuperStar: 
+--------------------------------------
+NÂº 33 - Concorso del 24 aprile 2004
+Numeri: 7 19 27 51 63 86
+Jolly: 62
+SuperStar: 
+--------------------------------------
+NÂº 32 - Concorso del 21 aprile 2004
+Numeri: 29 61 62 69 80 85
+Jolly: 5
+SuperStar: 
+--------------------------------------
+NÂº 31 - Concorso del 17 aprile 2004
+Numeri: 3 14 50 59 82 84
+Jolly: 2
+SuperStar: 
+--------------------------------------
+NÂº 30 - Concorso del 14 aprile 2004
+Numeri: 24 51 64 69 71 77
+Jolly: 63
+SuperStar: 
+--------------------------------------
+NÂº 29 - Concorso del 10 aprile 2004
+Numeri: 3 9 41 69 74 79
+Jolly: 89
+SuperStar: 
+--------------------------------------
+NÂº 28 - Concorso del 7 aprile 2004
+Numeri: 4 16 17 52 62 67
+Jolly: 49
+SuperStar: 
+--------------------------------------
+NÂº 27 - Concorso del 3 aprile 2004
+Numeri: 6 7 13 35 56 87
+Jolly: 48
+SuperStar: 
+--------------------------------------
+NÂº 26 - Concorso del 31 marzo 2004
+Numeri: 32 40 45 47 56 71
+Jolly: 64
+SuperStar: 
+--------------------------------------
+NÂº 25 - Concorso del 27 marzo 2004
+Numeri: 4 15 39 41 49 68
+Jolly: 34
+SuperStar: 
+--------------------------------------
+NÂº 24 - Concorso del 24 marzo 2004
+Numeri: 24 50 58 69 87 88
+Jolly: 3
+SuperStar: 
+--------------------------------------
+NÂº 23 - Concorso del 20 marzo 2004
+Numeri: 21 41 60 69 71 83
+Jolly: 65
+SuperStar: 
+--------------------------------------
+NÂº 22 - Concorso del 17 marzo 2004
+Numeri: 5 17 53 56 61 83
+Jolly: 86
+SuperStar: 
+--------------------------------------
+NÂº 21 - Concorso del 13 marzo 2004
+Numeri: 4 8 12 44 77 88
+Jolly: 71
+SuperStar: 
+--------------------------------------
+NÂº 20 - Concorso del 10 marzo 2004
+Numeri: 30 52 55 65 71 80
+Jolly: 39
+SuperStar: 
+--------------------------------------
+NÂº 19 - Concorso del 6 marzo 2004
+Numeri: 8 19 25 49 50 54
+Jolly: 40
+SuperStar: 
+--------------------------------------
+NÂº 18 - Concorso del 3 marzo 2004
+Numeri: 12 23 52 69 75 85
+Jolly: 43
+SuperStar: 
+--------------------------------------
+NÂº 17 - Concorso del 28 febbraio 2004
+Numeri: 11 29 60 61 82 84
+Jolly: 33
+SuperStar: 
+--------------------------------------
+NÂº 16 - Concorso del 25 febbraio 2004
+Numeri: 66 72 76 77 81 85
+Jolly: 82
+SuperStar: 
+--------------------------------------
+NÂº 15 - Concorso del 21 febbraio 2004
+Numeri: 4 13 18 58 71 84
+Jolly: 3
+SuperStar: 
+--------------------------------------
+NÂº 14 - Concorso del 18 febbraio 2004
+Numeri: 12 20 55 79 81 82
+Jolly: 2
+SuperStar: 
+--------------------------------------
+NÂº 13 - Concorso del 14 febbraio 2004
+Numeri: 17 35 41 81 82 86
+Jolly: 13
+SuperStar: 
+--------------------------------------
+NÂº 12 - Concorso del 11 febbraio 2004
+Numeri: 12 19 38 43 52 85
+Jolly: 33
+SuperStar: 
+--------------------------------------
+NÂº 11 - Concorso del 7 febbraio 2004
+Numeri: 17 24 34 59 72 82
+Jolly: 40
+SuperStar: 
+--------------------------------------
+NÂº 10 - Concorso del 4 febbraio 2004
+Numeri: 11 30 51 54 88 90
+Jolly: 2
+SuperStar: 
+--------------------------------------
+NÂº 9 - Concorso del 31 gennaio 2004
+Numeri: 4 11 26 53 63 66
+Jolly: 8
+SuperStar: 
+--------------------------------------
+NÂº 8 - Concorso del 28 gennaio 2004
+Numeri: 7 41 48 54 72 88
+Jolly: 12
+SuperStar: 
+--------------------------------------
+NÂº 7 - Concorso del 24 gennaio 2004
+Numeri: 22 27 48 52 81 83
+Jolly: 43
+SuperStar: 
+--------------------------------------
+NÂº 6 - Concorso del 21 gennaio 2004
+Numeri: 3 36 53 64 80 90
+Jolly: 4
+SuperStar: 
+--------------------------------------
+NÂº 5 - Concorso del 17 gennaio 2004
+Numeri: 4 6 19 40 60 79
+Jolly: 89
+SuperStar: 
+--------------------------------------
+NÂº 4 - Concorso del 14 gennaio 2004
+Numeri: 5 15 59 65 70 82
+Jolly: 14
+SuperStar: 
+--------------------------------------
+NÂº 3 - Concorso del 10 gennaio 2004
+Numeri: 15 25 26 32 51 61
+Jolly: 63
+SuperStar: 
+--------------------------------------
+NÂº 2 - Concorso del 7 gennaio 2004
+Numeri: 2 33 41 56 62 74
+Jolly: 14
+SuperStar: 
+--------------------------------------
+NÂº 1 - Concorso del 3 gennaio 2004
+Numeri: 29 32 36 72 77 82
+Jolly: 20
+SuperStar: 
+--------------------------------------
+

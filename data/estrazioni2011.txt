@@ -1,0 +1,786 @@
+﻿NÂº 1 - Concorso del 3 Gennaio 2011
+Numeri: 4 7 12 20 74 89
+Jolly: 76
+SuperStar: 9
+--------------------------------------
+NÂº 2 - Concorso del 4 Gennaio 2011
+Numeri: 1 12 21 31 39 49
+Jolly: 25
+SuperStar: 51
+--------------------------------------
+NÂº 3 - Concorso del 7 Gennaio 2011
+Numeri: 14 25 44 54 78 89
+Jolly: 66
+SuperStar: 49
+--------------------------------------
+NÂº 4 - Concorso del 8 Gennaio 2011
+Numeri: 26 68 73 75 76 86
+Jolly: 71
+SuperStar: 83
+--------------------------------------
+NÂº 5 - Concorso del 11 Gennaio 2011
+Numeri: 12 13 31 69 71 77
+Jolly: 49
+SuperStar: 18
+--------------------------------------
+NÂº 6 - Concorso del 13 Gennaio 2011
+Numeri: 15 17 34 59 83 86
+Jolly: 23
+SuperStar: 49
+--------------------------------------
+NÂº 7 - Concorso del 15 Gennaio 2011
+Numeri: 5 8 37 77 79 90
+Jolly: 9
+SuperStar: 63
+--------------------------------------
+NÂº 8 - Concorso del 18 Gennaio 2011
+Numeri: 10 50 55 61 87 90
+Jolly: 26
+SuperStar: 42
+--------------------------------------
+NÂº 9 - Concorso del 20 Gennaio 2011
+Numeri: 4 23 35 54 72 88
+Jolly: 74
+SuperStar: 43
+--------------------------------------
+NÂº 10 - Concorso del 22 Gennaio 2011
+Numeri: 6 8 15 52 67 86
+Jolly: 42
+SuperStar: 45
+--------------------------------------
+NÂº 11 - Concorso del 25 Gennaio 2011
+Numeri: 3 12 13 15 43 46
+Jolly: 11
+SuperStar: 37
+--------------------------------------
+NÂº 12 - Concorso del 27 Gennaio 2011
+Numeri: 1 11 27 45 49 61
+Jolly: 80
+SuperStar: 49
+--------------------------------------
+NÂº 13 - Concorso del 29 Gennaio 2011
+Numeri: 11 35 58 64 68 72
+Jolly: 26
+SuperStar: 31
+--------------------------------------
+NÂº 14 - Concorso del 1 Febbraio 2011
+Numeri: 22 30 43 62 70 71
+Jolly: 50
+SuperStar: 88
+--------------------------------------
+NÂº 15 - Concorso del 3 Febbraio 2011
+Numeri: 20 25 37 45 49 63
+Jolly: 73
+SuperStar: 37
+--------------------------------------
+NÂº 16 - Concorso del 5 Febbraio 2011
+Numeri: 25 32 43 52 65 78
+Jolly: 88
+SuperStar: 39
+--------------------------------------
+NÂº 17 - Concorso del 8 Febbraio 2011
+Numeri: 10 11 20 41 55 83
+Jolly: 1
+SuperStar: 67
+--------------------------------------
+NÂº 18 - Concorso del 10 Febbraio 2011
+Numeri: 1 47 54 81 84 89
+Jolly: 22
+SuperStar: 57
+--------------------------------------
+NÂº 19 - Concorso del 12 Febbraio 2011
+Numeri: 1 3 19 23 61 78
+Jolly: 36
+SuperStar: 16
+--------------------------------------
+NÂº 20 - Concorso del 15 Febbraio 2011
+Numeri: 25 40 63 78 82 85
+Jolly: 88
+SuperStar: 80
+--------------------------------------
+NÂº 21 - Concorso del 17 Febbraio 2011
+Numeri: 10 17 18 25 45 84
+Jolly: 21
+SuperStar: 73
+--------------------------------------
+NÂº 22 - Concorso del 19 Febbraio 2011
+Numeri: 27 44 48 57 77 83
+Jolly: 47
+SuperStar: 78
+--------------------------------------
+NÂº 23 - Concorso del 22 Febbraio 2011
+Numeri: 2 3 38 42 56 74
+Jolly: 23
+SuperStar: 88
+--------------------------------------
+NÂº 24 - Concorso del 24 Febbraio 2011
+Numeri: 2 25 50 63 76 85
+Jolly: 77
+SuperStar: 74
+--------------------------------------
+NÂº 25 - Concorso del 26 Febbraio 2011
+Numeri: 16 18 20 26 32 35
+Jolly: 8
+SuperStar: 11
+--------------------------------------
+NÂº 26 - Concorso del 1 Marzo 2011
+Numeri: 9 32 42 55 71 90
+Jolly: 86
+SuperStar: 31
+--------------------------------------
+NÂº 27 - Concorso del 3 Marzo 2011
+Numeri: 12 41 64 75 82 84
+Jolly: 34
+SuperStar: 29
+--------------------------------------
+NÂº 28 - Concorso del 5 Marzo 2011
+Numeri: 3 12 38 50 54 55
+Jolly: 19
+SuperStar: 74
+--------------------------------------
+NÂº 29 - Concorso del 8 Marzo 2011
+Numeri: 22 28 32 57 58 85
+Jolly: 50
+SuperStar: 8
+--------------------------------------
+NÂº 30 - Concorso del 10 Marzo 2011
+Numeri: 7 14 21 47 58 71
+Jolly: 43
+SuperStar: 61
+--------------------------------------
+NÂº 31 - Concorso del 12 Marzo 2011
+Numeri: 22 26 42 44 58 83
+Jolly: 59
+SuperStar: 24
+--------------------------------------
+NÂº 32 - Concorso del 15 Marzo 2011
+Numeri: 6 25 62 80 85 86
+Jolly: 57
+SuperStar: 44
+--------------------------------------
+NÂº 33 - Concorso del 18 Marzo 2011
+Numeri: 6 16 35 52 53 69
+Jolly: 49
+SuperStar: 66
+--------------------------------------
+NÂº 34 - Concorso del 19 Marzo 2011
+Numeri: 10 21 43 47 58 85
+Jolly: 2
+SuperStar: 49
+--------------------------------------
+NÂº 35 - Concorso del 22 Marzo 2011
+Numeri: 2 32 49 52 54 80
+Jolly: 90
+SuperStar: 60
+--------------------------------------
+NÂº 36 - Concorso del 24 Marzo 2011
+Numeri: 7 13 19 65 86 88
+Jolly: 46
+SuperStar: 68
+--------------------------------------
+NÂº 37 - Concorso del 26 Marzo 2011
+Numeri: 37 38 56 62 70 83
+Jolly: 88
+SuperStar: 15
+--------------------------------------
+NÂº 38 - Concorso del 29 Marzo 2011
+Numeri: 2 11 37 45 48 66
+Jolly: 22
+SuperStar: 15
+--------------------------------------
+NÂº 39 - Concorso del 31 Marzo 2011
+Numeri: 3 25 43 55 72 80
+Jolly: 85
+SuperStar: 88
+--------------------------------------
+NÂº 40 - Concorso del 2 Aprile 2011
+Numeri: 8 14 20 36 45 85
+Jolly: 26
+SuperStar: 70
+--------------------------------------
+NÂº 41 - Concorso del 5 Aprile 2011
+Numeri: 5 30 31 55 57 70
+Jolly: 84
+SuperStar: 62
+--------------------------------------
+NÂº 42 - Concorso del 7 Aprile 2011
+Numeri: 21 22 46 56 63 66
+Jolly: 34
+SuperStar: 85
+--------------------------------------
+NÂº 43 - Concorso del 9 Aprile 2011
+Numeri: 12 13 17 38 74 87
+Jolly: 18
+SuperStar: 21
+--------------------------------------
+NÂº 44 - Concorso del 12 Aprile 2011
+Numeri: 29 37 50 62 70 86
+Jolly: 27
+SuperStar: 62
+--------------------------------------
+NÂº 45 - Concorso del 14 Aprile 2011
+Numeri: 24 26 43 71 79 80
+Jolly: 7
+SuperStar: 23
+--------------------------------------
+NÂº 46 - Concorso del 16 Aprile 2011
+Numeri: 9 17 29 37 49 68
+Jolly: 70
+SuperStar: 53
+--------------------------------------
+NÂº 47 - Concorso del 19 Aprile 2011
+Numeri: 9 12 21 34 64 67
+Jolly: 1
+SuperStar: 70
+--------------------------------------
+NÂº 48 - Concorso del 21 Aprile 2011
+Numeri: 8 14 23 25 45 69
+Jolly: 78
+SuperStar: 78
+--------------------------------------
+NÂº 49 - Concorso del 23 Aprile 2011
+Numeri: 6 34 35 54 62 84
+Jolly: 45
+SuperStar: 26
+--------------------------------------
+NÂº 50 - Concorso del 26 Aprile 2011
+Numeri: 14 32 56 72 78 79
+Jolly: 27
+SuperStar: 55
+--------------------------------------
+NÂº 51 - Concorso del 28 Aprile 2011
+Numeri: 38 42 45 69 86 90
+Jolly: 63
+SuperStar: 47
+--------------------------------------
+NÂº 52 - Concorso del 30 Aprile 2011
+Numeri: 15 29 36 48 74 83
+Jolly: 45
+SuperStar: 60
+--------------------------------------
+NÂº 53 - Concorso del 3 Maggio 2011
+Numeri: 30 40 51 52 54 74
+Jolly: 72
+SuperStar: 12
+--------------------------------------
+NÂº 54 - Concorso del 5 Maggio 2011
+Numeri: 21 31 33 40 50 52
+Jolly: 62
+SuperStar: 89
+--------------------------------------
+NÂº 55 - Concorso del 7 Maggio 2011
+Numeri: 3 4 22 43 65 67
+Jolly: 10
+SuperStar: 33
+--------------------------------------
+NÂº 56 - Concorso del 10 Maggio 2011
+Numeri: 12 35 75 76 82 84
+Jolly: 17
+SuperStar: 18
+--------------------------------------
+NÂº 57 - Concorso del 12 Maggio 2011
+Numeri: 1 3 6 21 85 90
+Jolly: 58
+SuperStar: 46
+--------------------------------------
+NÂº 58 - Concorso del 14 Maggio 2011
+Numeri: 2 21 22 56 70 81
+Jolly: 44
+SuperStar: 51
+--------------------------------------
+NÂº 59 - Concorso del 17 Maggio 2011
+Numeri: 28 41 55 69 79 82
+Jolly: 35
+SuperStar: 61
+--------------------------------------
+NÂº 60 - Concorso del 19 Maggio 2011
+Numeri: 5 24 32 78 80 83
+Jolly: 40
+SuperStar: 16
+--------------------------------------
+NÂº 61 - Concorso del 21 Maggio 2011
+Numeri: 8 12 18 31 32 85
+Jolly: 73
+SuperStar: 69
+--------------------------------------
+NÂº 62 - Concorso del 24 Maggio 2011
+Numeri: 65 72 74 79 87 90
+Jolly: 30
+SuperStar: 23
+--------------------------------------
+NÂº 63 - Concorso del 26 Maggio 2011
+Numeri: 20 24 31 38 54 72
+Jolly: 27
+SuperStar: 52
+--------------------------------------
+NÂº 64 - Concorso del 28 Maggio 2011
+Numeri: 15 16 79 80 84 88
+Jolly: 83
+SuperStar: 38
+--------------------------------------
+NÂº 65 - Concorso del 31 Maggio 2011
+Numeri: 1 10 62 69 78 85
+Jolly: 30
+SuperStar: 27
+--------------------------------------
+NÂº 66 - Concorso del 3 Giugno 2011
+Numeri: 14 16 24 30 34 72
+Jolly: 17
+SuperStar: 86
+--------------------------------------
+NÂº 67 - Concorso del 4 Giugno 2011
+Numeri: 21 44 46 49 58 67
+Jolly: 88
+SuperStar: 59
+--------------------------------------
+NÂº 68 - Concorso del 7 Giugno 2011
+Numeri: 5 20 44 51 54 90
+Jolly: 63
+SuperStar: 43
+--------------------------------------
+NÂº 69 - Concorso del 9 Giugno 2011
+Numeri: 10 17 21 35 36 76
+Jolly: 83
+SuperStar: 73
+--------------------------------------
+NÂº 70 - Concorso del 11 Giugno 2011
+Numeri: 11 29 39 41 43 55
+Jolly: 83
+SuperStar: 22
+--------------------------------------
+NÂº 71 - Concorso del 14 Giugno 2011
+Numeri: 40 44 49 57 58 87
+Jolly: 1
+SuperStar: 28
+--------------------------------------
+NÂº 72 - Concorso del 16 Giugno 2011
+Numeri: 18 48 57 59 84 87
+Jolly: 6
+SuperStar: 43
+--------------------------------------
+NÂº 73 - Concorso del 18 Giugno 2011
+Numeri: 19 22 25 67 74 89
+Jolly: 1
+SuperStar: 18
+--------------------------------------
+NÂº 74 - Concorso del 21 Giugno 2011
+Numeri: 2 41 62 75 79 87
+Jolly: 3
+SuperStar: 61
+--------------------------------------
+NÂº 75 - Concorso del 23 Giugno 2011
+Numeri: 11 27 47 50 58 82
+Jolly: 22
+SuperStar: 8
+--------------------------------------
+NÂº 76 - Concorso del 25 Giugno 2011
+Numeri: 11 17 35 42 71 76
+Jolly: 82
+SuperStar: 30
+--------------------------------------
+NÂº 77 - Concorso del 28 Giugno 2011
+Numeri: 5 6 29 43 66 74
+Jolly: 47
+SuperStar: 48
+--------------------------------------
+NÂº 78 - Concorso del 30 Giugno 2011
+Numeri: 7 20 35 37 57 70
+Jolly: 42
+SuperStar: 31
+--------------------------------------
+NÂº 79 - Concorso del 2 Luglio 2011
+Numeri: 6 9 11 19 45 51
+Jolly: 69
+SuperStar: 20
+--------------------------------------
+NÂº 80 - Concorso del 5 Luglio 2011
+Numeri: 2 6 7 51 57 71
+Jolly: 10
+SuperStar: 49
+--------------------------------------
+NÂº 81 - Concorso del 7 Luglio 2011
+Numeri: 1 2 34 54 79 88
+Jolly: 45
+SuperStar: 53
+--------------------------------------
+NÂº 82 - Concorso del 9 Luglio 2011
+Numeri: 11 22 42 49 58 89
+Jolly: 78
+SuperStar: 22
+--------------------------------------
+NÂº 83 - Concorso del 12 Luglio 2011
+Numeri: 7 27 28 45 57 75
+Jolly: 24
+SuperStar: 18
+--------------------------------------
+NÂº 84 - Concorso del 14 Luglio 2011
+Numeri: 21 35 51 68 81 90
+Jolly: 13
+SuperStar: 6
+--------------------------------------
+NÂº 85 - Concorso del 16 Luglio 2011
+Numeri: 17 20 38 51 53 74
+Jolly: 5
+SuperStar: 79
+--------------------------------------
+NÂº 86 - Concorso del 19 Luglio 2011
+Numeri: 35 43 56 58 71 90
+Jolly: 40
+SuperStar: 34
+--------------------------------------
+NÂº 87 - Concorso del 21 Luglio 2011
+Numeri: 9 13 31 35 45 79
+Jolly: 62
+SuperStar: 88
+--------------------------------------
+NÂº 88 - Concorso del 23 Luglio 2011
+Numeri: 36 42 63 77 81 86
+Jolly: 78
+SuperStar: 65
+--------------------------------------
+NÂº 89 - Concorso del 26 Luglio 2011
+Numeri: 6 38 50 63 65 74
+Jolly: 11
+SuperStar: 76
+--------------------------------------
+NÂº 90 - Concorso del 28 Luglio 2011
+Numeri: 21 23 25 65 67 78
+Jolly: 40
+SuperStar: 63
+--------------------------------------
+NÂº 91 - Concorso del 30 Luglio 2011
+Numeri: 9 33 36 54 60 86
+Jolly: 28
+SuperStar: 65
+--------------------------------------
+NÂº 92 - Concorso del 2 Agosto 2011
+Numeri: 1 5 32 49 69 72
+Jolly: 89
+SuperStar: 28
+--------------------------------------
+NÂº 93 - Concorso del 4 Agosto 2011
+Numeri: 3 10 18 42 67 90
+Jolly: 80
+SuperStar: 1
+--------------------------------------
+NÂº 94 - Concorso del 6 Agosto 2011
+Numeri: 18 21 58 65 89 90
+Jolly: 62
+SuperStar: 67
+--------------------------------------
+NÂº 95 - Concorso del 9 Agosto 2011
+Numeri: 30 41 55 68 76 82
+Jolly: 70
+SuperStar: 58
+--------------------------------------
+NÂº 96 - Concorso del 11 Agosto 2011
+Numeri: 8 17 51 60 63 79
+Jolly: 22
+SuperStar: 49
+--------------------------------------
+NÂº 97 - Concorso del 13 Agosto 2011
+Numeri: 14 31 37 49 74 78
+Jolly: 76
+SuperStar: 2
+--------------------------------------
+NÂº 98 - Concorso del 16 Agosto 2011
+Numeri: 2 6 27 29 38 55
+Jolly: 26
+SuperStar: 58
+--------------------------------------
+NÂº 99 - Concorso del 18 Agosto 2011
+Numeri: 18 23 34 37 67 68
+Jolly: 87
+SuperStar: 44
+--------------------------------------
+NÂº 100 - Concorso del 20 Agosto 2011
+Numeri: 18 26 29 78 79 80
+Jolly: 49
+SuperStar: 56
+--------------------------------------
+NÂº 101 - Concorso del 23 Agosto 2011
+Numeri: 2 34 42 43 58 76
+Jolly: 52
+SuperStar: 47
+--------------------------------------
+NÂº 102 - Concorso del 25 Agosto 2011
+Numeri: 18 38 39 45 57 90
+Jolly: 69
+SuperStar: 13
+--------------------------------------
+NÂº 103 - Concorso del 27 Agosto 2011
+Numeri: 9 43 50 51 57 83
+Jolly: 27
+SuperStar: 50
+--------------------------------------
+NÂº 104 - Concorso del 30 Agosto 2011
+Numeri: 12 23 32 35 52 55
+Jolly: 75
+SuperStar: 51
+--------------------------------------
+NÂº 105 - Concorso del 1 Settembre 2011
+Numeri: 8 12 26 44 48 50
+Jolly: 68
+SuperStar: 46
+--------------------------------------
+NÂº 106 - Concorso del 3 Settembre 2011
+Numeri: 3 5 9 41 58 62
+Jolly: 82
+SuperStar: 11
+--------------------------------------
+NÂº 107 - Concorso del 6 Settembre 2011
+Numeri: 14 15 21 41 60 63
+Jolly: 37
+SuperStar: 8
+--------------------------------------
+NÂº 108 - Concorso del 8 Settembre 2011
+Numeri: 20 45 61 67 80 88
+Jolly: 16
+SuperStar: 15
+--------------------------------------
+NÂº 109 - Concorso del 10 Settembre 2011
+Numeri: 2 8 9 29 53 75
+Jolly: 83
+SuperStar: 63
+--------------------------------------
+NÂº 110 - Concorso del 13 Settembre 2011
+Numeri: 61 64 74 75 80 87
+Jolly: 38
+SuperStar: 28
+--------------------------------------
+NÂº 111 - Concorso del 15 Settembre 2011
+Numeri: 6 19 30 45 52 89
+Jolly: 7
+SuperStar: 80
+--------------------------------------
+NÂº 112 - Concorso del 17 Settembre 2011
+Numeri: 13 45 70 72 81 84
+Jolly: 71
+SuperStar: 50
+--------------------------------------
+NÂº 113 - Concorso del 20 Settembre 2011
+Numeri: 7 23 39 48 69 75
+Jolly: 83
+SuperStar: 68
+--------------------------------------
+NÂº 114 - Concorso del 22 Settembre 2011
+Numeri: 4 6 27 37 45 58
+Jolly: 84
+SuperStar: 1
+--------------------------------------
+NÂº 115 - Concorso del 24 Settembre 2011
+Numeri: 4 23 56 71 76 78
+Jolly: 73
+SuperStar: 1
+--------------------------------------
+NÂº 116 - Concorso del 27 Settembre 2011
+Numeri: 18 28 35 52 57 75
+Jolly: 83
+SuperStar: 68
+--------------------------------------
+NÂº 117 - Concorso del 29 Settembre 2011
+Numeri: 11 26 41 45 75 77
+Jolly: 46
+SuperStar: 60
+--------------------------------------
+NÂº 118 - Concorso del 1 Ottobre 2011
+Numeri: 3 5 13 54 58 85
+Jolly: 90
+SuperStar: 24
+--------------------------------------
+NÂº 119 - Concorso del 4 Ottobre 2011
+Numeri: 1 8 41 68 69 73
+Jolly: 50
+SuperStar: 27
+--------------------------------------
+NÂº 120 - Concorso del 6 Ottobre 2011
+Numeri: 5 8 11 47 56 63
+Jolly: 87
+SuperStar: 12
+--------------------------------------
+NÂº 121 - Concorso del 8 Ottobre 2011
+Numeri: 1 26 45 58 66 88
+Jolly: 34
+SuperStar: 2
+--------------------------------------
+NÂº 122 - Concorso del 11 Ottobre 2011
+Numeri: 23 36 41 43 83 90
+Jolly: 17
+SuperStar: 89
+--------------------------------------
+NÂº 123 - Concorso del 13 Ottobre 2011
+Numeri: 9 19 27 53 78 81
+Jolly: 39
+SuperStar: 88
+--------------------------------------
+NÂº 124 - Concorso del 15 Ottobre 2011
+Numeri: 33 40 44 54 64 85
+Jolly: 12
+SuperStar: 41
+--------------------------------------
+NÂº 125 - Concorso del 18 Ottobre 2011
+Numeri: 1 19 29 60 76 77
+Jolly: 2
+SuperStar: 67
+--------------------------------------
+NÂº 126 - Concorso del 20 Ottobre 2011
+Numeri: 7 11 21 34 69 88
+Jolly: 76
+SuperStar: 72
+--------------------------------------
+NÂº 127 - Concorso del 22 Ottobre 2011
+Numeri: 9 15 22 56 61 86
+Jolly: 24
+SuperStar: 8
+--------------------------------------
+NÂº 128 - Concorso del 25 Ottobre 2011
+Numeri: 13 21 24 39 44 60
+Jolly: 66
+SuperStar: 73
+--------------------------------------
+NÂº 129 - Concorso del 27 Ottobre 2011
+Numeri: 2 41 63 64 67 73
+Jolly: 76
+SuperStar: 70
+--------------------------------------
+NÂº 130 - Concorso del 29 Ottobre 2011
+Numeri: 8 16 23 24 71 77
+Jolly: 40
+SuperStar: 60
+--------------------------------------
+NÂº 131 - Concorso del 2 Novembre 2011
+Numeri: 5 14 41 48 59 90
+Jolly: 6
+SuperStar: 31
+--------------------------------------
+NÂº 132 - Concorso del 3 Novembre 2011
+Numeri: 52 55 65 75 79 81
+Jolly: 88
+SuperStar: 29
+--------------------------------------
+NÂº 133 - Concorso del 5 Novembre 2011
+Numeri: 23 44 46 59 74 80
+Jolly: 67
+SuperStar: 40
+--------------------------------------
+NÂº 134 - Concorso del 8 Novembre 2011
+Numeri: 23 52 71 74 78 86
+Jolly: 54
+SuperStar: 4
+--------------------------------------
+NÂº 135 - Concorso del 10 Novembre 2011
+Numeri: 8 13 24 39 57 77
+Jolly: 21
+SuperStar: 56
+--------------------------------------
+NÂº 136 - Concorso del 12 Novembre 2011
+Numeri: 25 32 46 58 74 79
+Jolly: 73
+SuperStar: 40
+--------------------------------------
+NÂº 137 - Concorso del 15 Novembre 2011
+Numeri: 18 21 36 38 45 62
+Jolly: 85
+SuperStar: 83
+--------------------------------------
+NÂº 138 - Concorso del 17 Novembre 2011
+Numeri: 12 25 30 33 38 84
+Jolly: 47
+SuperStar: 39
+--------------------------------------
+NÂº 139 - Concorso del 19 Novembre 2011
+Numeri: 13 24 52 53 88 90
+Jolly: 1
+SuperStar: 79
+--------------------------------------
+NÂº 140 - Concorso del 22 Novembre 2011
+Numeri: 11 16 17 25 61 72
+Jolly: 18
+SuperStar: 48
+--------------------------------------
+NÂº 141 - Concorso del 24 Novembre 2011
+Numeri: 3 33 62 69 75 79
+Jolly: 2
+SuperStar: 73
+--------------------------------------
+NÂº 142 - Concorso del 26 Novembre 2011
+Numeri: 26 29 35 81 82 87
+Jolly: 56
+SuperStar: 37
+--------------------------------------
+NÂº 143 - Concorso del 29 Novembre 2011
+Numeri: 13 24 29 37 55 67
+Jolly: 47
+SuperStar: 62
+--------------------------------------
+NÂº 144 - Concorso del 1 Dicembre 2011
+Numeri: 4 10 29 41 54 74
+Jolly: 14
+SuperStar: 25
+--------------------------------------
+NÂº 145 - Concorso del 3 Dicembre 2011
+Numeri: 7 13 16 42 67 68
+Jolly: 83
+SuperStar: 11
+--------------------------------------
+NÂº 146 - Concorso del 6 Dicembre 2011
+Numeri: 1 4 10 24 55 90
+Jolly: 60
+SuperStar: 2
+--------------------------------------
+NÂº 147 - Concorso del 9 Dicembre 2011
+Numeri: 1 49 51 60 83 84
+Jolly: 72
+SuperStar: 56
+--------------------------------------
+NÂº 148 - Concorso del 10 Dicembre 2011
+Numeri: 28 31 48 56 72 78
+Jolly: 65
+SuperStar: 34
+--------------------------------------
+NÂº 149 - Concorso del 13 Dicembre 2011
+Numeri: 10 26 31 36 72 85
+Jolly: 61
+SuperStar: 3
+--------------------------------------
+NÂº 150 - Concorso del 15 Dicembre 2011
+Numeri: 7 37 40 53 55 62
+Jolly: 58
+SuperStar: 23
+--------------------------------------
+NÂº 151 - Concorso del 17 Dicembre 2011
+Numeri: 2 28 37 56 77 79
+Jolly: 85
+SuperStar: 12
+--------------------------------------
+NÂº 152 - Concorso del 20 Dicembre 2011
+Numeri: 21 28 56 63 68 88
+Jolly: 86
+SuperStar: 50
+--------------------------------------
+NÂº 153 - Concorso del 22 Dicembre 2011
+Numeri: 36 37 44 62 75 90
+Jolly: 61
+SuperStar: 40
+--------------------------------------
+NÂº 154 - Concorso del 24 Dicembre 2011
+Numeri: 16 41 46 53 86 87
+Jolly: 24
+SuperStar: 89
+--------------------------------------
+NÂº 155 - Concorso del 27 Dicembre 2011
+Numeri: 6 9 21 24 30 47
+Jolly: 87
+SuperStar: 74
+--------------------------------------
+NÂº 156 - Concorso del 29 Dicembre 2011
+Numeri: 15 20 42 43 47 83
+Jolly: 26
+SuperStar: 80
+--------------------------------------
+NÂº 157 - Concorso del 31 Dicembre 2011
+Numeri: 2 3 9 30 33 56
+Jolly: 11
+SuperStar: 32
+--------------------------------------
+

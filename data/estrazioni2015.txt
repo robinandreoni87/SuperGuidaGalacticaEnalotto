@@ -1,0 +1,786 @@
+﻿NÂº 1 - Concorso del 3 Gennaio 2015
+Numeri: 14 26 31 40 58 68
+Jolly: 76
+SuperStar: 45
+--------------------------------------
+NÂº 2 - Concorso del 5 Gennaio 2015
+Numeri: 16 37 48 68 84 90
+Jolly: 11
+SuperStar: 12
+--------------------------------------
+NÂº 3 - Concorso del 7 Gennaio 2015
+Numeri: 9 16 19 26 28 46
+Jolly: 71
+SuperStar: 16
+--------------------------------------
+NÂº 4 - Concorso del 8 Gennaio 2015
+Numeri: 6 9 29 41 50 90
+Jolly: 13
+SuperStar: 32
+--------------------------------------
+NÂº 5 - Concorso del 10 Gennaio 2015
+Numeri: 2 13 22 37 48 90
+Jolly: 8
+SuperStar: 78
+--------------------------------------
+NÂº 6 - Concorso del 13 Gennaio 2015
+Numeri: 9 10 36 67 76 83
+Jolly: 72
+SuperStar: 76
+--------------------------------------
+NÂº 7 - Concorso del 15 Gennaio 2015
+Numeri: 2 5 7 12 23 42
+Jolly: 9
+SuperStar: 9
+--------------------------------------
+NÂº 8 - Concorso del 17 Gennaio 2015
+Numeri: 18 22 31 54 71 80
+Jolly: 52
+SuperStar: 43
+--------------------------------------
+NÂº 9 - Concorso del 20 Gennaio 2015
+Numeri: 2 11 15 39 84 87
+Jolly: 52
+SuperStar: 1
+--------------------------------------
+NÂº 10 - Concorso del 22 Gennaio 2015
+Numeri: 11 12 44 57 77 89
+Jolly: 76
+SuperStar: 41
+--------------------------------------
+NÂº 11 - Concorso del 24 Gennaio 2015
+Numeri: 22 23 24 59 63 81
+Jolly: 44
+SuperStar: 82
+--------------------------------------
+NÂº 12 - Concorso del 27 Gennaio 2015
+Numeri: 5 10 47 59 66 73
+Jolly: 53
+SuperStar: 21
+--------------------------------------
+NÂº 13 - Concorso del 29 Gennaio 2015
+Numeri: 27 29 58 64 67 80
+Jolly: 54
+SuperStar: 73
+--------------------------------------
+NÂº 14 - Concorso del 31 Gennaio 2015
+Numeri: 8 44 54 58 59 86
+Jolly: 73
+SuperStar: 50
+--------------------------------------
+NÂº 15 - Concorso del 3 Febbraio 2015
+Numeri: 12 29 43 56 60 75
+Jolly: 10
+SuperStar: 59
+--------------------------------------
+NÂº 16 - Concorso del 5 Febbraio 2015
+Numeri: 7 8 10 45 49 53
+Jolly: 20
+SuperStar: 49
+--------------------------------------
+NÂº 17 - Concorso del 7 Febbraio 2015
+Numeri: 24 27 38 40 56 81
+Jolly: 66
+SuperStar: 3
+--------------------------------------
+NÂº 18 - Concorso del 10 Febbraio 2015
+Numeri: 30 59 72 74 77 78
+Jolly: 9
+SuperStar: 27
+--------------------------------------
+NÂº 19 - Concorso del 12 Febbraio 2015
+Numeri: 25 32 44 56 77 87
+Jolly: 28
+SuperStar: 44
+--------------------------------------
+NÂº 20 - Concorso del 14 Febbraio 2015
+Numeri: 13 31 32 57 60 79
+Jolly: 90
+SuperStar: 10
+--------------------------------------
+NÂº 21 - Concorso del 17 Febbraio 2015
+Numeri: 20 27 40 60 61 66
+Jolly: 11
+SuperStar: 69
+--------------------------------------
+NÂº 22 - Concorso del 19 Febbraio 2015
+Numeri: 23 35 44 49 66 84
+Jolly: 2
+SuperStar: 75
+--------------------------------------
+NÂº 23 - Concorso del 21 Febbraio 2015
+Numeri: 5 16 33 48 57 87
+Jolly: 79
+SuperStar: 5
+--------------------------------------
+NÂº 24 - Concorso del 24 Febbraio 2015
+Numeri: 6 29 56 72 82 83
+Jolly: 76
+SuperStar: 24
+--------------------------------------
+NÂº 25 - Concorso del 26 Febbraio 2015
+Numeri: 17 41 44 57 73 86
+Jolly: 24
+SuperStar: 68
+--------------------------------------
+NÂº 26 - Concorso del 28 Febbraio 2015
+Numeri: 5 10 34 48 56 87
+Jolly: 23
+SuperStar: 40
+--------------------------------------
+NÂº 27 - Concorso del 3 Marzo 2015
+Numeri: 16 26 48 61 63 87
+Jolly: 81
+SuperStar: 17
+--------------------------------------
+NÂº 28 - Concorso del 5 Marzo 2015
+Numeri: 35 44 62 74 82 90
+Jolly: 68
+SuperStar: 19
+--------------------------------------
+NÂº 29 - Concorso del 7 Marzo 2015
+Numeri: 26 36 56 68 73 81
+Jolly: 62
+SuperStar: 5
+--------------------------------------
+NÂº 30 - Concorso del 10 Marzo 2015
+Numeri: 9 19 68 70 71 81
+Jolly: 39
+SuperStar: 37
+--------------------------------------
+NÂº 31 - Concorso del 12 Marzo 2015
+Numeri: 7 36 38 63 73 90
+Jolly: 78
+SuperStar: 67
+--------------------------------------
+NÂº 32 - Concorso del 14 Marzo 2015
+Numeri: 28 30 39 46 68 89
+Jolly: 5
+SuperStar: 3
+--------------------------------------
+NÂº 33 - Concorso del 17 Marzo 2015
+Numeri: 10 13 21 36 66 69
+Jolly: 73
+SuperStar: 46
+--------------------------------------
+NÂº 34 - Concorso del 19 Marzo 2015
+Numeri: 5 7 20 38 57 85
+Jolly: 23
+SuperStar: 8
+--------------------------------------
+NÂº 35 - Concorso del 21 Marzo 2015
+Numeri: 4 7 9 19 55 58
+Jolly: 83
+SuperStar: 40
+--------------------------------------
+NÂº 36 - Concorso del 24 Marzo 2015
+Numeri: 8 17 29 32 65 90
+Jolly: 81
+SuperStar: 37
+--------------------------------------
+NÂº 37 - Concorso del 26 Marzo 2015
+Numeri: 10 21 40 46 79 84
+Jolly: 35
+SuperStar: 62
+--------------------------------------
+NÂº 38 - Concorso del 28 Marzo 2015
+Numeri: 5 22 60 71 74 81
+Jolly: 88
+SuperStar: 31
+--------------------------------------
+NÂº 39 - Concorso del 31 Marzo 2015
+Numeri: 3 15 23 33 46 78
+Jolly: 54
+SuperStar: 5
+--------------------------------------
+NÂº 40 - Concorso del 2 Aprile 2015
+Numeri: 33 36 61 66 83 85
+Jolly: 20
+SuperStar: 81
+--------------------------------------
+NÂº 41 - Concorso del 4 Aprile 2015
+Numeri: 11 38 44 48 56 83
+Jolly: 28
+SuperStar: 90
+--------------------------------------
+NÂº 42 - Concorso del 7 Aprile 2015
+Numeri: 4 18 20 68 72 77
+Jolly: 21
+SuperStar: 41
+--------------------------------------
+NÂº 43 - Concorso del 9 Aprile 2015
+Numeri: 7 25 30 44 47 68
+Jolly: 53
+SuperStar: 4
+--------------------------------------
+NÂº 44 - Concorso del 11 Aprile 2015
+Numeri: 26 54 55 73 86 90
+Jolly: 3
+SuperStar: 19
+--------------------------------------
+NÂº 45 - Concorso del 14 Aprile 2015
+Numeri: 36 45 56 79 81 90
+Jolly: 52
+SuperStar: 44
+--------------------------------------
+NÂº 46 - Concorso del 16 Aprile 2015
+Numeri: 37 38 43 69 79 86
+Jolly: 72
+SuperStar: 53
+--------------------------------------
+NÂº 47 - Concorso del 18 Aprile 2015
+Numeri: 10 11 18 36 47 85
+Jolly: 48
+SuperStar: 6
+--------------------------------------
+NÂº 48 - Concorso del 21 Aprile 2015
+Numeri: 4 17 52 59 67 84
+Jolly: 88
+SuperStar: 13
+--------------------------------------
+NÂº 49 - Concorso del 23 Aprile 2015
+Numeri: 8 13 27 34 47 83
+Jolly: 6
+SuperStar: 22
+--------------------------------------
+NÂº 50 - Concorso del 27 Aprile 2015
+Numeri: 8 26 39 56 78 85
+Jolly: 49
+SuperStar: 3
+--------------------------------------
+NÂº 51 - Concorso del 28 Aprile 2015
+Numeri: 10 41 59 61 65 71
+Jolly: 8
+SuperStar: 37
+--------------------------------------
+NÂº 52 - Concorso del 30 Aprile 2015
+Numeri: 18 28 31 33 55 78
+Jolly: 81
+SuperStar: 8
+--------------------------------------
+NÂº 53 - Concorso del 2 Maggio 2015
+Numeri: 6 34 45 46 59 73
+Jolly: 35
+SuperStar: 56
+--------------------------------------
+NÂº 54 - Concorso del 5 Maggio 2015
+Numeri: 7 31 33 78 86 87
+Jolly: 72
+SuperStar: 88
+--------------------------------------
+NÂº 55 - Concorso del 7 Maggio 2015
+Numeri: 12 32 43 46 58 77
+Jolly: 18
+SuperStar: 1
+--------------------------------------
+NÂº 56 - Concorso del 9 Maggio 2015
+Numeri: 31 40 52 55 62 76
+Jolly: 17
+SuperStar: 44
+--------------------------------------
+NÂº 57 - Concorso del 12 Maggio 2015
+Numeri: 10 19 48 78 85 90
+Jolly: 22
+SuperStar: 42
+--------------------------------------
+NÂº 58 - Concorso del 14 Maggio 2015
+Numeri: 19 25 42 51 55 56
+Jolly: 24
+SuperStar: 75
+--------------------------------------
+NÂº 59 - Concorso del 16 Maggio 2015
+Numeri: 3 32 39 65 75 76
+Jolly: 51
+SuperStar: 57
+--------------------------------------
+NÂº 60 - Concorso del 19 Maggio 2015
+Numeri: 6 20 43 44 46 67
+Jolly: 85
+SuperStar: 52
+--------------------------------------
+NÂº 61 - Concorso del 21 Maggio 2015
+Numeri: 17 21 23 51 65 87
+Jolly: 53
+SuperStar: 48
+--------------------------------------
+NÂº 62 - Concorso del 23 Maggio 2015
+Numeri: 4 24 29 31 39 71
+Jolly: 19
+SuperStar: 14
+--------------------------------------
+NÂº 63 - Concorso del 26 Maggio 2015
+Numeri: 6 9 21 69 77 78
+Jolly: 90
+SuperStar: 80
+--------------------------------------
+NÂº 64 - Concorso del 28 Maggio 2015
+Numeri: 6 33 57 61 80 83
+Jolly: 53
+SuperStar: 18
+--------------------------------------
+NÂº 65 - Concorso del 30 Maggio 2015
+Numeri: 13 33 39 56 65 86
+Jolly: 52
+SuperStar: 75
+--------------------------------------
+NÂº 66 - Concorso del 3 Giugno 2015
+Numeri: 3 28 37 42 67 86
+Jolly: 1
+SuperStar: 79
+--------------------------------------
+NÂº 67 - Concorso del 4 Giugno 2015
+Numeri: 14 17 23 45 87 88
+Jolly: 46
+SuperStar: 14
+--------------------------------------
+NÂº 68 - Concorso del 6 Giugno 2015
+Numeri: 16 24 34 40 41 57
+Jolly: 13
+SuperStar: 89
+--------------------------------------
+NÂº 69 - Concorso del 9 Giugno 2015
+Numeri: 15 21 58 80 82 86
+Jolly: 49
+SuperStar: 64
+--------------------------------------
+NÂº 70 - Concorso del 11 Giugno 2015
+Numeri: 26 48 52 61 75 79
+Jolly: 82
+SuperStar: 73
+--------------------------------------
+NÂº 71 - Concorso del 13 Giugno 2015
+Numeri: 19 35 36 38 45 80
+Jolly: 17
+SuperStar: 5
+--------------------------------------
+NÂº 72 - Concorso del 16 Giugno 2015
+Numeri: 6 28 55 57 78 83
+Jolly: 67
+SuperStar: 16
+--------------------------------------
+NÂº 73 - Concorso del 18 Giugno 2015
+Numeri: 18 21 28 62 84 90
+Jolly: 41
+SuperStar: 48
+--------------------------------------
+NÂº 74 - Concorso del 20 Giugno 2015
+Numeri: 6 11 21 65 66 85
+Jolly: 23
+SuperStar: 18
+--------------------------------------
+NÂº 75 - Concorso del 23 Giugno 2015
+Numeri: 20 24 26 33 42 80
+Jolly: 29
+SuperStar: 34
+--------------------------------------
+NÂº 76 - Concorso del 25 Giugno 2015
+Numeri: 18 46 63 68 73 79
+Jolly: 28
+SuperStar: 59
+--------------------------------------
+NÂº 77 - Concorso del 27 Giugno 2015
+Numeri: 17 22 45 48 53 61
+Jolly: 26
+SuperStar: 65
+--------------------------------------
+NÂº 78 - Concorso del 30 Giugno 2015
+Numeri: 4 11 16 25 34 59
+Jolly: 75
+SuperStar: 84
+--------------------------------------
+NÂº 79 - Concorso del 2 Luglio 2015
+Numeri: 8 17 30 61 78 88
+Jolly: 56
+SuperStar: 15
+--------------------------------------
+NÂº 80 - Concorso del 4 Luglio 2015
+Numeri: 8 30 38 51 62 66
+Jolly: 14
+SuperStar: 2
+--------------------------------------
+NÂº 81 - Concorso del 7 Luglio 2015
+Numeri: 19 25 31 78 83 88
+Jolly: 18
+SuperStar: 86
+--------------------------------------
+NÂº 82 - Concorso del 9 Luglio 2015
+Numeri: 8 54 59 66 86 89
+Jolly: 15
+SuperStar: 4
+--------------------------------------
+NÂº 83 - Concorso del 11 Luglio 2015
+Numeri: 8 30 34 39 42 58
+Jolly: 80
+SuperStar: 1
+--------------------------------------
+NÂº 84 - Concorso del 14 Luglio 2015
+Numeri: 12 17 32 47 74 86
+Jolly: 8
+SuperStar: 23
+--------------------------------------
+NÂº 85 - Concorso del 16 Luglio 2015
+Numeri: 22 27 29 49 69 87
+Jolly: 73
+SuperStar: 86
+--------------------------------------
+NÂº 86 - Concorso del 18 Luglio 2015
+Numeri: 22 42 47 62 70 72
+Jolly: 90
+SuperStar: 68
+--------------------------------------
+NÂº 87 - Concorso del 21 Luglio 2015
+Numeri: 1 21 63 70 79 84
+Jolly: 25
+SuperStar: 24
+--------------------------------------
+NÂº 88 - Concorso del 23 Luglio 2015
+Numeri: 33 41 44 48 68 75
+Jolly: 56
+SuperStar: 8
+--------------------------------------
+NÂº 89 - Concorso del 25 Luglio 2015
+Numeri: 2 20 21 40 45 65
+Jolly: 15
+SuperStar: 19
+--------------------------------------
+NÂº 90 - Concorso del 28 Luglio 2015
+Numeri: 4 26 34 66 67 81
+Jolly: 88
+SuperStar: 26
+--------------------------------------
+NÂº 91 - Concorso del 30 Luglio 2015
+Numeri: 13 18 25 26 35 61
+Jolly: 60
+SuperStar: 56
+--------------------------------------
+NÂº 92 - Concorso del 1 Agosto 2015
+Numeri: 2 26 34 58 80 81
+Jolly: 23
+SuperStar: 42
+--------------------------------------
+NÂº 93 - Concorso del 4 Agosto 2015
+Numeri: 34 53 77 78 83 89
+Jolly: 87
+SuperStar: 83
+--------------------------------------
+NÂº 94 - Concorso del 6 Agosto 2015
+Numeri: 2 27 36 39 53 79
+Jolly: 72
+SuperStar: 44
+--------------------------------------
+NÂº 95 - Concorso del 8 Agosto 2015
+Numeri: 3 7 17 26 55 72
+Jolly: 41
+SuperStar: 89
+--------------------------------------
+NÂº 96 - Concorso del 11 Agosto 2015
+Numeri: 17 25 32 42 71 85
+Jolly: 60
+SuperStar: 45
+--------------------------------------
+NÂº 97 - Concorso del 13 Agosto 2015
+Numeri: 4 17 34 41 66 78
+Jolly: 30
+SuperStar: 64
+--------------------------------------
+NÂº 98 - Concorso del 17 Agosto 2015
+Numeri: 1 4 50 70 71 76
+Jolly: 84
+SuperStar: 10
+--------------------------------------
+NÂº 99 - Concorso del 18 Agosto 2015
+Numeri: 20 30 45 50 76 86
+Jolly: 3
+SuperStar: 1
+--------------------------------------
+NÂº 100 - Concorso del 20 Agosto 2015
+Numeri: 4 14 31 68 70 74
+Jolly: 73
+SuperStar: 10
+--------------------------------------
+NÂº 101 - Concorso del 22 Agosto 2015
+Numeri: 6 7 9 14 17 35
+Jolly: 27
+SuperStar: 87
+--------------------------------------
+NÂº 102 - Concorso del 25 Agosto 2015
+Numeri: 3 18 19 65 81 88
+Jolly: 70
+SuperStar: 74
+--------------------------------------
+NÂº 103 - Concorso del 27 Agosto 2015
+Numeri: 2 4 12 40 50 80
+Jolly: 13
+SuperStar: 89
+--------------------------------------
+NÂº 104 - Concorso del 29 Agosto 2015
+Numeri: 7 28 44 55 57 78
+Jolly: 14
+SuperStar: 77
+--------------------------------------
+NÂº 105 - Concorso del 1 Settembre 2015
+Numeri: 13 30 38 48 50 77
+Jolly: 29
+SuperStar: 64
+--------------------------------------
+NÂº 106 - Concorso del 3 Settembre 2015
+Numeri: 13 18 19 49 78 87
+Jolly: 45
+SuperStar: 22
+--------------------------------------
+NÂº 107 - Concorso del 5 Settembre 2015
+Numeri: 24 30 36 42 71 86
+Jolly: 32
+SuperStar: 26
+--------------------------------------
+NÂº 108 - Concorso del 8 Settembre 2015
+Numeri: 41 50 54 60 75 88
+Jolly: 62
+SuperStar: 26
+--------------------------------------
+NÂº 109 - Concorso del 10 Settembre 2015
+Numeri: 10 14 15 34 75 88
+Jolly: 1
+SuperStar: 79
+--------------------------------------
+NÂº 110 - Concorso del 12 Settembre 2015
+Numeri: 11 24 46 48 68 82
+Jolly: 5
+SuperStar: 69
+--------------------------------------
+NÂº 111 - Concorso del 15 Settembre 2015
+Numeri: 9 17 20 32 35 56
+Jolly: 24
+SuperStar: 19
+--------------------------------------
+NÂº 112 - Concorso del 17 Settembre 2015
+Numeri: 8 9 42 71 78 79
+Jolly: 62
+SuperStar: 21
+--------------------------------------
+NÂº 113 - Concorso del 19 Settembre 2015
+Numeri: 9 32 40 49 52 60
+Jolly: 5
+SuperStar: 89
+--------------------------------------
+NÂº 114 - Concorso del 22 Settembre 2015
+Numeri: 10 26 50 55 62 81
+Jolly: 27
+SuperStar: 65
+--------------------------------------
+NÂº 115 - Concorso del 24 Settembre 2015
+Numeri: 1 32 36 61 78 80
+Jolly: 79
+SuperStar: 85
+--------------------------------------
+NÂº 116 - Concorso del 26 Settembre 2015
+Numeri: 1 37 69 74 77 89
+Jolly: 28
+SuperStar: 35
+--------------------------------------
+NÂº 117 - Concorso del 29 Settembre 2015
+Numeri: 17 25 41 45 57 82
+Jolly: 22
+SuperStar: 38
+--------------------------------------
+NÂº 118 - Concorso del 1 Ottobre 2015
+Numeri: 2 17 21 49 69 74
+Jolly: 79
+SuperStar: 6
+--------------------------------------
+NÂº 119 - Concorso del 3 Ottobre 2015
+Numeri: 2 4 14 31 43 61
+Jolly: 11
+SuperStar: 42
+--------------------------------------
+NÂº 120 - Concorso del 6 Ottobre 2015
+Numeri: 8 11 17 27 62 84
+Jolly: 41
+SuperStar: 20
+--------------------------------------
+NÂº 121 - Concorso del 8 Ottobre 2015
+Numeri: 23 32 33 55 84 90
+Jolly: 2
+SuperStar: 5
+--------------------------------------
+NÂº 122 - Concorso del 10 Ottobre 2015
+Numeri: 32 41 45 47 78 90
+Jolly: 59
+SuperStar: 1
+--------------------------------------
+NÂº 123 - Concorso del 13 Ottobre 2015
+Numeri: 35 36 63 71 75 89
+Jolly: 15
+SuperStar: 90
+--------------------------------------
+NÂº 124 - Concorso del 15 Ottobre 2015
+Numeri: 7 9 16 24 32 40
+Jolly: 17
+SuperStar: 40
+--------------------------------------
+NÂº 125 - Concorso del 17 Ottobre 2015
+Numeri: 4 6 61 63 65 72
+Jolly: 9
+SuperStar: 9
+--------------------------------------
+NÂº 126 - Concorso del 20 Ottobre 2015
+Numeri: 18 34 58 60 64 88
+Jolly: 5
+SuperStar: 80
+--------------------------------------
+NÂº 127 - Concorso del 22 Ottobre 2015
+Numeri: 1 6 32 50 51 81
+Jolly: 4
+SuperStar: 27
+--------------------------------------
+NÂº 128 - Concorso del 24 Ottobre 2015
+Numeri: 9 14 33 38 46 87
+Jolly: 2
+SuperStar: 79
+--------------------------------------
+NÂº 129 - Concorso del 27 Ottobre 2015
+Numeri: 13 15 48 50 74 83
+Jolly: 84
+SuperStar: 50
+--------------------------------------
+NÂº 130 - Concorso del 29 Ottobre 2015
+Numeri: 4 16 40 57 71 84
+Jolly: 62
+SuperStar: 84
+--------------------------------------
+NÂº 131 - Concorso del 31 Ottobre 2015
+Numeri: 6 25 26 52 86 88
+Jolly: 61
+SuperStar: 80
+--------------------------------------
+NÂº 132 - Concorso del 3 Novembre 2015
+Numeri: 30 41 47 71 79 86
+Jolly: 83
+SuperStar: 78
+--------------------------------------
+NÂº 133 - Concorso del 5 Novembre 2015
+Numeri: 17 21 29 33 43 62
+Jolly: 85
+SuperStar: 75
+--------------------------------------
+NÂº 134 - Concorso del 7 Novembre 2015
+Numeri: 2 19 22 46 51 54
+Jolly: 83
+SuperStar: 10
+--------------------------------------
+NÂº 135 - Concorso del 10 Novembre 2015
+Numeri: 8 31 33 38 66 77
+Jolly: 3
+SuperStar: 61
+--------------------------------------
+NÂº 136 - Concorso del 12 Novembre 2015
+Numeri: 19 22 31 41 54 87
+Jolly: 38
+SuperStar: 47
+--------------------------------------
+NÂº 137 - Concorso del 14 Novembre 2015
+Numeri: 19 56 73 84 85 86
+Jolly: 2
+SuperStar: 80
+--------------------------------------
+NÂº 138 - Concorso del 17 Novembre 2015
+Numeri: 27 29 39 54 59 74
+Jolly: 79
+SuperStar: 25
+--------------------------------------
+NÂº 139 - Concorso del 19 Novembre 2015
+Numeri: 25 28 44 52 87 89
+Jolly: 10
+SuperStar: 9
+--------------------------------------
+NÂº 140 - Concorso del 21 Novembre 2015
+Numeri: 13 25 33 53 75 83
+Jolly: 38
+SuperStar: 59
+--------------------------------------
+NÂº 141 - Concorso del 24 Novembre 2015
+Numeri: 52 54 70 80 82 84
+Jolly: 66
+SuperStar: 82
+--------------------------------------
+NÂº 142 - Concorso del 26 Novembre 2015
+Numeri: 12 36 45 67 77 88
+Jolly: 11
+SuperStar: 6
+--------------------------------------
+NÂº 143 - Concorso del 28 Novembre 2015
+Numeri: 20 23 28 51 65 81
+Jolly: 87
+SuperStar: 68
+--------------------------------------
+NÂº 144 - Concorso del 1 Dicembre 2015
+Numeri: 31 39 55 58 85 87
+Jolly: 86
+SuperStar: 70
+--------------------------------------
+NÂº 145 - Concorso del 3 Dicembre 2015
+Numeri: 38 46 53 65 77 84
+Jolly: 80
+SuperStar: 63
+--------------------------------------
+NÂº 146 - Concorso del 5 Dicembre 2015
+Numeri: 1 28 34 42 49 77
+Jolly: 65
+SuperStar: 42
+--------------------------------------
+NÂº 147 - Concorso del 9 Dicembre 2015
+Numeri: 21 54 62 63 82 83
+Jolly: 37
+SuperStar: 25
+--------------------------------------
+NÂº 148 - Concorso del 10 Dicembre 2015
+Numeri: 1 19 20 56 60 83
+Jolly: 63
+SuperStar: 46
+--------------------------------------
+NÂº 149 - Concorso del 12 Dicembre 2015
+Numeri: 18 20 46 47 55 66
+Jolly: 75
+SuperStar: 38
+--------------------------------------
+NÂº 150 - Concorso del 15 Dicembre 2015
+Numeri: 5 30 36 63 84 85
+Jolly: 37
+SuperStar: 48
+--------------------------------------
+NÂº 151 - Concorso del 17 Dicembre 2015
+Numeri: 11 44 56 81 83 87
+Jolly: 9
+SuperStar: 6
+--------------------------------------
+NÂº 152 - Concorso del 19 Dicembre 2015
+Numeri: 7 22 46 50 55 73
+Jolly: 14
+SuperStar: 64
+--------------------------------------
+NÂº 153 - Concorso del 22 Dicembre 2015
+Numeri: 18 22 23 57 60 69
+Jolly: 14
+SuperStar: 6
+--------------------------------------
+NÂº 154 - Concorso del 24 Dicembre 2015
+Numeri: 6 8 24 28 36 63
+Jolly: 79
+SuperStar: 73
+--------------------------------------
+NÂº 155 - Concorso del 28 Dicembre 2015
+Numeri: 5 38 48 52 81 88
+Jolly: 65
+SuperStar: 2
+--------------------------------------
+NÂº 156 - Concorso del 29 Dicembre 2015
+Numeri: 15 20 57 72 76 89
+Jolly: 30
+SuperStar: 22
+--------------------------------------
+NÂº 157 - Concorso del 31 Dicembre 2015
+Numeri: 15 26 29 77 81 90
+Jolly: 37
+SuperStar: 48
+--------------------------------------
+

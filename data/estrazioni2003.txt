@@ -1,0 +1,526 @@
+﻿NÂº 105 - Concorso del 31 dicembre 2003
+Numeri: 3 15 31 36 43 82
+Jolly: 57
+SuperStar: 
+--------------------------------------
+NÂº 104 - Concorso del 27 dicembre 2003
+Numeri: 7 19 37 51 53 74
+Jolly: 77
+SuperStar: 
+--------------------------------------
+NÂº 103 - Concorso del 24 dicembre 2003
+Numeri: 3 19 33 36 72 84
+Jolly: 54
+SuperStar: 
+--------------------------------------
+NÂº 102 - Concorso del 20 dicembre 2003
+Numeri: 3 36 40 42 54 59
+Jolly: 64
+SuperStar: 
+--------------------------------------
+NÂº 101 - Concorso del 17 dicembre 2003
+Numeri: 1 3 42 48 73 83
+Jolly: 4
+SuperStar: 
+--------------------------------------
+NÂº 100 - Concorso del 13 dicembre 2003
+Numeri: 20 48 50 58 65 78
+Jolly: 62
+SuperStar: 
+--------------------------------------
+NÂº 99 - Concorso del 10 dicembre 2003
+Numeri: 6 37 62 73 79 90
+Jolly: 48
+SuperStar: 
+--------------------------------------
+NÂº 98 - Concorso del 6 dicembre 2003
+Numeri: 1 2 18 27 43 47
+Jolly: 78
+SuperStar: 
+--------------------------------------
+NÂº 97 - Concorso del 3 dicembre 2003
+Numeri: 7 20 29 55 71 81
+Jolly: 59
+SuperStar: 
+--------------------------------------
+NÂº 96 - Concorso del 29 novembre 2003
+Numeri: 38 50 63 65 84 88
+Jolly: 26
+SuperStar: 
+--------------------------------------
+NÂº 95 - Concorso del 26 novembre 2003
+Numeri: 46 66 68 70 78 79
+Jolly: 54
+SuperStar: 
+--------------------------------------
+NÂº 94 - Concorso del 22 novembre 2003
+Numeri: 3 27 54 65 81 83
+Jolly: 58
+SuperStar: 
+--------------------------------------
+NÂº 93 - Concorso del 19 novembre 2003
+Numeri: 2 11 23 31 40 86
+Jolly: 29
+SuperStar: 
+--------------------------------------
+NÂº 92 - Concorso del 15 novembre 2003
+Numeri: 35 54 78 81 86 88
+Jolly: 50
+SuperStar: 
+--------------------------------------
+NÂº 91 - Concorso del 12 novembre 2003
+Numeri: 18 29 32 55 79 82
+Jolly: 52
+SuperStar: 
+--------------------------------------
+NÂº 90 - Concorso del 8 novembre 2003
+Numeri: 7 30 43 52 57 82
+Jolly: 75
+SuperStar: 
+--------------------------------------
+NÂº 89 - Concorso del 5 novembre 2003
+Numeri: 13 14 24 29 73 79
+Jolly: 46
+SuperStar: 
+--------------------------------------
+NÂº 88 - Concorso del 3 novembre 2003
+Numeri: 9 25 37 73 80 81
+Jolly: 13
+SuperStar: 
+--------------------------------------
+NÂº 87 - Concorso del 29 ottobre 2003
+Numeri: 2 12 20 52 54 63
+Jolly: 69
+SuperStar: 
+--------------------------------------
+NÂº 86 - Concorso del 25 ottobre 2003
+Numeri: 49 54 55 62 66 88
+Jolly: 12
+SuperStar: 
+--------------------------------------
+NÂº 85 - Concorso del 22 ottobre 2003
+Numeri: 14 15 64 76 80 86
+Jolly: 81
+SuperStar: 
+--------------------------------------
+NÂº 84 - Concorso del 18 ottobre 2003
+Numeri: 1 4 14 41 44 82
+Jolly: 30
+SuperStar: 
+--------------------------------------
+NÂº 83 - Concorso del 15 ottobre 2003
+Numeri: 11 26 30 34 43 73
+Jolly: 40
+SuperStar: 
+--------------------------------------
+NÂº 82 - Concorso del 11 ottobre 2003
+Numeri: 13 16 25 45 47 55
+Jolly: 22
+SuperStar: 
+--------------------------------------
+NÂº 81 - Concorso del 8 ottobre 2003
+Numeri: 1 8 26 41 70 84
+Jolly: 2
+SuperStar: 
+--------------------------------------
+NÂº 80 - Concorso del 4 ottobre 2003
+Numeri: 22 62 68 73 75 87
+Jolly: 47
+SuperStar: 
+--------------------------------------
+NÂº 79 - Concorso del 1 ottobre 2003
+Numeri: 17 55 66 81 86 89
+Jolly: 19
+SuperStar: 
+--------------------------------------
+NÂº 78 - Concorso del 27 settembre 2003
+Numeri: 17 52 55 65 82 90
+Jolly: 85
+SuperStar: 
+--------------------------------------
+NÂº 77 - Concorso del 24 settembre 2003
+Numeri: 3 26 39 41 56 61
+Jolly: 82
+SuperStar: 
+--------------------------------------
+NÂº 76 - Concorso del 20 settembre 2003
+Numeri: 42 44 51 64 65 77
+Jolly: 35
+SuperStar: 
+--------------------------------------
+NÂº 75 - Concorso del 17 settembre 2003
+Numeri: 25 33 64 67 68 73
+Jolly: 58
+SuperStar: 
+--------------------------------------
+NÂº 74 - Concorso del 13 settembre 2003
+Numeri: 1 18 34 39 48 64
+Jolly: 8
+SuperStar: 
+--------------------------------------
+NÂº 73 - Concorso del 10 settembre 2003
+Numeri: 39 50 51 64 72 81
+Jolly: 18
+SuperStar: 
+--------------------------------------
+NÂº 72 - Concorso del 6 settembre 2003
+Numeri: 16 17 49 50 74 81
+Jolly: 19
+SuperStar: 
+--------------------------------------
+NÂº 71 - Concorso del 3 settembre 2003
+Numeri: 18 45 47 56 77 78
+Jolly: 52
+SuperStar: 
+--------------------------------------
+NÂº 70 - Concorso del 30 agosto 2003
+Numeri: 2 5 36 61 86 88
+Jolly: 44
+SuperStar: 
+--------------------------------------
+NÂº 69 - Concorso del 27 agosto 2003
+Numeri: 1 8 22 28 64 77
+Jolly: 21
+SuperStar: 
+--------------------------------------
+NÂº 68 - Concorso del 23 agosto 2003
+Numeri: 6 42 68 70 75 87
+Jolly: 73
+SuperStar: 
+--------------------------------------
+NÂº 67 - Concorso del 20 agosto 2003
+Numeri: 8 9 10 18 42 63
+Jolly: 49
+SuperStar: 
+--------------------------------------
+NÂº 66 - Concorso del 16 agosto 2003
+Numeri: 35 52 55 61 80 83
+Jolly: 36
+SuperStar: 
+--------------------------------------
+NÂº 65 - Concorso del 13 agosto 2003
+Numeri: 9 11 39 44 49 86
+Jolly: 47
+SuperStar: 
+--------------------------------------
+NÂº 64 - Concorso del 9 agosto 2003
+Numeri: 37 48 55 76 87 90
+Jolly: 71
+SuperStar: 
+--------------------------------------
+NÂº 63 - Concorso del 6 agosto 2003
+Numeri: 8 21 24 42 72 73
+Jolly: 51
+SuperStar: 
+--------------------------------------
+NÂº 62 - Concorso del 2 agosto 2003
+Numeri: 12 41 45 51 66 77
+Jolly: 40
+SuperStar: 
+--------------------------------------
+NÂº 61 - Concorso del 30 luglio 2003
+Numeri: 7 18 46 74 82 90
+Jolly: 60
+SuperStar: 
+--------------------------------------
+NÂº 60 - Concorso del 26 luglio 2003
+Numeri: 3 4 8 28 77 86
+Jolly: 68
+SuperStar: 
+--------------------------------------
+NÂº 59 - Concorso del 23 luglio 2003
+Numeri: 1 10 35 57 67 78
+Jolly: 85
+SuperStar: 
+--------------------------------------
+NÂº 58 - Concorso del 19 luglio 2003
+Numeri: 7 14 27 47 80 87
+Jolly: 33
+SuperStar: 
+--------------------------------------
+NÂº 57 - Concorso del 16 luglio 2003
+Numeri: 15 18 29 37 47 50
+Jolly: 22
+SuperStar: 
+--------------------------------------
+NÂº 56 - Concorso del 12 luglio 2003
+Numeri: 10 11 46 80 83 88
+Jolly: 15
+SuperStar: 
+--------------------------------------
+NÂº 55 - Concorso del 9 luglio 2003
+Numeri: 36 38 39 66 76 83
+Jolly: 3
+SuperStar: 
+--------------------------------------
+NÂº 54 - Concorso del 5 luglio 2003
+Numeri: 50 62 68 70 74 80
+Jolly: 22
+SuperStar: 
+--------------------------------------
+NÂº 53 - Concorso del 2 luglio 2003
+Numeri: 9 13 16 17 34 57
+Jolly: 37
+SuperStar: 
+--------------------------------------
+NÂº 52 - Concorso del 28 giugno 2003
+Numeri: 14 18 34 48 49 74
+Jolly: 4
+SuperStar: 
+--------------------------------------
+NÂº 51 - Concorso del 25 giugno 2003
+Numeri: 1 9 40 59 73 74
+Jolly: 70
+SuperStar: 
+--------------------------------------
+NÂº 50 - Concorso del 21 giugno 2003
+Numeri: 7 19 39 45 48 86
+Jolly: 90
+SuperStar: 
+--------------------------------------
+NÂº 49 - Concorso del 18 giugno 2003
+Numeri: 2 12 26 30 65 74
+Jolly: 39
+SuperStar: 
+--------------------------------------
+NÂº 48 - Concorso del 14 giugno 2003
+Numeri: 6 25 46 59 71 83
+Jolly: 61
+SuperStar: 
+--------------------------------------
+NÂº 47 - Concorso del 11 giugno 2003
+Numeri: 7 32 40 43 47 87
+Jolly: 5
+SuperStar: 
+--------------------------------------
+NÂº 46 - Concorso del 7 giugno 2003
+Numeri: 15 37 38 57 76 87
+Jolly: 30
+SuperStar: 
+--------------------------------------
+NÂº 45 - Concorso del 4 giugno 2003
+Numeri: 17 29 35 45 76 84
+Jolly: 51
+SuperStar: 
+--------------------------------------
+NÂº 44 - Concorso del 31 maggio 2003
+Numeri: 30 44 47 48 53 56
+Jolly: 72
+SuperStar: 
+--------------------------------------
+NÂº 43 - Concorso del 28 maggio 2003
+Numeri: 40 44 62 76 85 90
+Jolly: 10
+SuperStar: 
+--------------------------------------
+NÂº 42 - Concorso del 24 maggio 2003
+Numeri: 12 35 54 58 61 65
+Jolly: 60
+SuperStar: 
+--------------------------------------
+NÂº 41 - Concorso del 21 maggio 2003
+Numeri: 5 28 48 53 75 88
+Jolly: 4
+SuperStar: 
+--------------------------------------
+NÂº 40 - Concorso del 17 maggio 2003
+Numeri: 5 39 61 75 79 90
+Jolly: 38
+SuperStar: 
+--------------------------------------
+NÂº 39 - Concorso del 14 maggio 2003
+Numeri: 16 21 38 44 67 87
+Jolly: 28
+SuperStar: 
+--------------------------------------
+NÂº 38 - Concorso del 10 maggio 2003
+Numeri: 22 38 46 47 77 86
+Jolly: 53
+SuperStar: 
+--------------------------------------
+NÂº 37 - Concorso del 7 maggio 2003
+Numeri: 1 2 4 19 26 89
+Jolly: 6
+SuperStar: 
+--------------------------------------
+NÂº 36 - Concorso del 3 maggio 2003
+Numeri: 2 6 12 17 19 63
+Jolly: 50
+SuperStar: 
+--------------------------------------
+NÂº 35 - Concorso del 30 aprile 2003
+Numeri: 35 38 60 68 74 86
+Jolly: 53
+SuperStar: 
+--------------------------------------
+NÂº 34 - Concorso del 26 aprile 2003
+Numeri: 10 18 26 39 62 68
+Jolly: 86
+SuperStar: 
+--------------------------------------
+NÂº 33 - Concorso del 23 aprile 2003
+Numeri: 11 21 40 66 68 83
+Jolly: 89
+SuperStar: 
+--------------------------------------
+NÂº 32 - Concorso del 19 aprile 2003
+Numeri: 11 26 45 53 69 75
+Jolly: 64
+SuperStar: 
+--------------------------------------
+NÂº 31 - Concorso del 16 aprile 2003
+Numeri: 15 22 37 64 88 90
+Jolly: 26
+SuperStar: 
+--------------------------------------
+NÂº 30 - Concorso del 12 aprile 2003
+Numeri: 4 61 63 79 84 85
+Jolly: 3
+SuperStar: 
+--------------------------------------
+NÂº 29 - Concorso del 9 aprile 2003
+Numeri: 4 14 16 44 76 77
+Jolly: 15
+SuperStar: 
+--------------------------------------
+NÂº 28 - Concorso del 5 aprile 2003
+Numeri: 12 18 47 63 75 81
+Jolly: 60
+SuperStar: 
+--------------------------------------
+NÂº 27 - Concorso del 2 aprile 2003
+Numeri: 27 28 40 63 67 78
+Jolly: 83
+SuperStar: 
+--------------------------------------
+NÂº 26 - Concorso del 29 marzo 2003
+Numeri: 1 31 54 80 81 85
+Jolly: 26
+SuperStar: 
+--------------------------------------
+NÂº 25 - Concorso del 26 marzo 2003
+Numeri: 15 37 43 51 61 89
+Jolly: 79
+SuperStar: 
+--------------------------------------
+NÂº 24 - Concorso del 22 marzo 2003
+Numeri: 32 34 37 49 52 68
+Jolly: 71
+SuperStar: 
+--------------------------------------
+NÂº 23 - Concorso del 19 marzo 2003
+Numeri: 1 17 46 58 67 75
+Jolly: 41
+SuperStar: 
+--------------------------------------
+NÂº 22 - Concorso del 15 marzo 2003
+Numeri: 23 27 43 56 71 75
+Jolly: 58
+SuperStar: 
+--------------------------------------
+NÂº 21 - Concorso del 12 marzo 2003
+Numeri: 5 27 30 58 78 82
+Jolly: 68
+SuperStar: 
+--------------------------------------
+NÂº 20 - Concorso del 8 marzo 2003
+Numeri: 8 27 34 42 83 88
+Jolly: 24
+SuperStar: 
+--------------------------------------
+NÂº 19 - Concorso del 5 marzo 2003
+Numeri: 29 40 57 67 76 79
+Jolly: 87
+SuperStar: 
+--------------------------------------
+NÂº 18 - Concorso del 1 marzo 2003
+Numeri: 8 12 27 72 80 84
+Jolly: 19
+SuperStar: 
+--------------------------------------
+NÂº 17 - Concorso del 26 febbraio 2003
+Numeri: 1 41 48 49 84 87
+Jolly: 80
+SuperStar: 
+--------------------------------------
+NÂº 16 - Concorso del 22 febbraio 2003
+Numeri: 17 41 45 81 82 88
+Jolly: 39
+SuperStar: 
+--------------------------------------
+NÂº 15 - Concorso del 19 febbraio 2003
+Numeri: 12 19 51 61 62 90
+Jolly: 1
+SuperStar: 
+--------------------------------------
+NÂº 14 - Concorso del 15 febbraio 2003
+Numeri: 3 9 12 36 71 85
+Jolly: 8
+SuperStar: 
+--------------------------------------
+NÂº 13 - Concorso del 12 febbraio 2003
+Numeri: 14 22 24 34 60 85
+Jolly: 61
+SuperStar: 
+--------------------------------------
+NÂº 12 - Concorso del 8 febbraio 2003
+Numeri: 3 14 31 32 64 79
+Jolly: 50
+SuperStar: 
+--------------------------------------
+NÂº 11 - Concorso del 5 febbraio 2003
+Numeri: 12 18 54 71 80 85
+Jolly: 24
+SuperStar: 
+--------------------------------------
+NÂº 10 - Concorso del 1 febbraio 2003
+Numeri: 14 24 40 56 81 90
+Jolly: 20
+SuperStar: 
+--------------------------------------
+NÂº 9 - Concorso del 29 gennaio 2003
+Numeri: 5 11 22 27 36 90
+Jolly: 84
+SuperStar: 
+--------------------------------------
+NÂº 8 - Concorso del 25 gennaio 2003
+Numeri: 33 37 41 56 65 82
+Jolly: 10
+SuperStar: 
+--------------------------------------
+NÂº 7 - Concorso del 22 gennaio 2003
+Numeri: 51 57 58 69 86 89
+Jolly: 7
+SuperStar: 
+--------------------------------------
+NÂº 6 - Concorso del 18 gennaio 2003
+Numeri: 50 62 70 75 82 90
+Jolly: 74
+SuperStar: 
+--------------------------------------
+NÂº 5 - Concorso del 15 gennaio 2003
+Numeri: 2 46 49 56 82 84
+Jolly: 37
+SuperStar: 
+--------------------------------------
+NÂº 4 - Concorso del 11 gennaio 2003
+Numeri: 11 12 27 39 67 90
+Jolly: 34
+SuperStar: 
+--------------------------------------
+NÂº 3 - Concorso del 8 gennaio 2003
+Numeri: 5 26 49 50 73 90
+Jolly: 65
+SuperStar: 
+--------------------------------------
+NÂº 2 - Concorso del 4 gennaio 2003
+Numeri: 16 17 26 28 37 85
+Jolly: 55
+SuperStar: 
+--------------------------------------
+NÂº 1 - Concorso del 2 gennaio 2003
+Numeri: 6 18 34 43 58 80
+Jolly: 8
+SuperStar: 
+--------------------------------------
+

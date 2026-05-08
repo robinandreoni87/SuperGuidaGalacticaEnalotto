@@ -1,0 +1,1248 @@
+﻿NÂº 1 - Concorso del 2 Gennaio 2024
+Numeri: 2 9 16 35 46 63
+Jolly: 49
+SuperStar: 5
+--------------------------------------
+
+NÂº 2 - Concorso del 4 Gennaio 2024
+Numeri: 7 9 29 51 60 70
+Jolly: 59
+SuperStar: 41
+--------------------------------------
+
+NÂº 3 - Concorso del 8 Gennaio 2024
+Numeri: 20 28 42 48 51 62
+Jolly: 72
+SuperStar: 47
+--------------------------------------
+
+NÂº 4 - Concorso del 9 Gennaio 2024
+Numeri: 10 19 23 39 40 83
+Jolly: 73
+SuperStar: 13
+--------------------------------------
+
+NÂº 5 - Concorso del 11 Gennaio 2024
+Numeri: 45 56 59 69 73 77
+Jolly: 7
+SuperStar: 81
+--------------------------------------
+
+NÂº 6 - Concorso del 12 Gennaio 2024
+Numeri: 11 23 25 72 78 84
+Jolly: 20
+SuperStar: 40
+--------------------------------------
+
+NÂº 7 - Concorso del 13 Gennaio 2024
+Numeri: 4 43 45 55 56 60
+Jolly: 5
+SuperStar: 55
+--------------------------------------
+
+NÂº 8 - Concorso del 16 Gennaio 2024
+Numeri: 21 39 51 59 68 86
+Jolly: 63
+SuperStar: 48
+--------------------------------------
+
+NÂº 9 - Concorso del 18 Gennaio 2024
+Numeri: 14 26 36 60 62 84
+Jolly: 73
+SuperStar: 68
+--------------------------------------
+
+NÂº 10 - Concorso del 19 Gennaio 2024
+Numeri: 21 22 28 50 55 68
+Jolly: 38
+SuperStar: 35
+--------------------------------------
+
+NÂº 11 - Concorso del 20 Gennaio 2024
+Numeri: 2 19 56 58 63 71
+Jolly: 22
+SuperStar: 14
+--------------------------------------
+
+NÂº 12 - Concorso del 23 Gennaio 2024
+Numeri: 11 15 16 42 48 52
+Jolly: 1
+SuperStar: 16
+--------------------------------------
+
+NÂº 13 - Concorso del 25 Gennaio 2024
+Numeri: 27 29 30 53 54 86
+Jolly: 34
+SuperStar: 57
+--------------------------------------
+
+NÂº 14 - Concorso del 26 Gennaio 2024
+Numeri: 24 32 36 47 50 78
+Jolly: 62
+SuperStar: 72
+--------------------------------------
+
+NÂº 15 - Concorso del 27 Gennaio 2024
+Numeri: 17 33 38 43 49 80
+Jolly: 69
+SuperStar: 30
+--------------------------------------
+
+NÂº 16 - Concorso del 30 Gennaio 2024
+Numeri: 5 10 76 82 83 89
+Jolly: 25
+SuperStar: 49
+--------------------------------------
+
+NÂº 17 - Concorso del 1 Febbraio 2024
+Numeri: 3 44 74 81 87 89
+Jolly: 85
+SuperStar: 66
+--------------------------------------
+
+NÂº 18 - Concorso del 2 Febbraio 2024
+Numeri: 2 35 38 44 68 83
+Jolly: 50
+SuperStar: 73
+--------------------------------------
+
+NÂº 19 - Concorso del 3 Febbraio 2024
+Numeri: 6 10 12 34 66 77
+Jolly: 19
+SuperStar: 58
+--------------------------------------
+
+NÂº 20 - Concorso del 6 Febbraio 2024
+Numeri: 26 34 39 46 54 89
+Jolly: 13
+SuperStar: 11
+--------------------------------------
+
+NÂº 21 - Concorso del 8 Febbraio 2024
+Numeri: 2 4 24 62 73 75
+Jolly: 1
+SuperStar: 49
+--------------------------------------
+
+NÂº 22 - Concorso del 9 Febbraio 2024
+Numeri: 6 22 29 42 48 66
+Jolly: 56
+SuperStar: 81
+--------------------------------------
+
+NÂº 23 - Concorso del 10 Febbraio 2024
+Numeri: 43 62 72 73 85 86
+Jolly: 58
+SuperStar: 17
+--------------------------------------
+
+NÂº 24 - Concorso del 13 Febbraio 2024
+Numeri: 27 34 37 42 53 76
+Jolly: 60
+SuperStar: 55
+--------------------------------------
+
+NÂº 25 - Concorso del 15 Febbraio 2024
+Numeri: 34 38 61 71 74 83
+Jolly: 80
+SuperStar: 79
+--------------------------------------
+
+NÂº 26 - Concorso del 16 Febbraio 2024
+Numeri: 20 30 37 83 88 89
+Jolly: 77
+SuperStar: 66
+--------------------------------------
+
+NÂº 27 - Concorso del 17 Febbraio 2024
+Numeri: 3 11 25 34 46 64
+Jolly: 53
+SuperStar: 75
+--------------------------------------
+
+NÂº 28 - Concorso del 20 Febbraio 2024
+Numeri: 5 30 36 43 48 78
+Jolly: 79
+SuperStar: 51
+--------------------------------------
+
+NÂº 29 - Concorso del 22 Febbraio 2024
+Numeri: 29 30 43 44 75 87
+Jolly: 1
+SuperStar: 85
+--------------------------------------
+
+NÂº 30 - Concorso del 23 Febbraio 2024
+Numeri: 38 54 57 66 74 88
+Jolly: 75
+SuperStar: 57
+--------------------------------------
+
+NÂº 31 - Concorso del 24 Febbraio 2024
+Numeri: 41 43 46 47 63 87
+Jolly: 30
+SuperStar: 44
+--------------------------------------
+
+NÂº 32 - Concorso del 27 Febbraio 2024
+Numeri: 27 33 41 73 79 90
+Jolly: 34
+SuperStar: 39
+--------------------------------------
+
+NÂº 33 - Concorso del 29 Febbraio 2024
+Numeri: 13 28 36 41 79 88
+Jolly: 30
+SuperStar: 32
+--------------------------------------
+
+NÂº 34 - Concorso del 1 Marzo 2024
+Numeri: 5 16 44 61 80 90
+Jolly: 25
+SuperStar: 16
+--------------------------------------
+
+NÂº 35 - Concorso del 2 Marzo 2024
+Numeri: 26 50 51 55 85 87
+Jolly: 14
+SuperStar: 19
+--------------------------------------
+
+NÂº 36 - Concorso del 5 Marzo 2024
+Numeri: 16 43 53 79 80 82
+Jolly: 74
+SuperStar: 61
+--------------------------------------
+
+NÂº 37 - Concorso del 7 Marzo 2024
+Numeri: 3 13 24 60 70 75
+Jolly: 71
+SuperStar: 30
+--------------------------------------
+
+NÂº 38 - Concorso del 8 Marzo 2024
+Numeri: 9 16 23 50 53 79
+Jolly: 55
+SuperStar: 84
+--------------------------------------
+
+NÂº 39 - Concorso del 9 Marzo 2024
+Numeri: 10 30 36 49 55 62
+Jolly: 32
+SuperStar: 66
+--------------------------------------
+
+NÂº 40 - Concorso del 12 Marzo 2024
+Numeri: 7 25 46 67 69 86
+Jolly: 23
+SuperStar: 77
+--------------------------------------
+
+NÂº 41 - Concorso del 14 Marzo 2024
+Numeri: 14 23 51 55 68 76
+Jolly: 77
+SuperStar: 86
+--------------------------------------
+
+NÂº 42 - Concorso del 15 Marzo 2024
+Numeri: 5 6 7 50 72 74
+Jolly: 82
+SuperStar: 26
+--------------------------------------
+
+NÂº 43 - Concorso del 16 Marzo 2024
+Numeri: 12 38 45 66 70 73
+Jolly: 58
+SuperStar: 85
+--------------------------------------
+
+NÂº 44 - Concorso del 19 Marzo 2024
+Numeri: 4 19 58 60 67 82
+Jolly: 48
+SuperStar: 29
+--------------------------------------
+
+NÂº 45 - Concorso del 21 Marzo 2024
+Numeri: 2 8 17 73 77 84
+Jolly: 4
+SuperStar: 84
+--------------------------------------
+
+NÂº 46 - Concorso del 22 Marzo 2024
+Numeri: 13 16 59 66 77 79
+Jolly: 82
+SuperStar: 75
+--------------------------------------
+
+NÂº 47 - Concorso del 23 Marzo 2024
+Numeri: 32 34 57 58 67 79
+Jolly: 61
+SuperStar: 66
+--------------------------------------
+
+NÂº 48 - Concorso del 26 Marzo 2024
+Numeri: 2 24 43 74 81 85
+Jolly: 63
+SuperStar: 40
+--------------------------------------
+
+NÂº 49 - Concorso del 28 Marzo 2024
+Numeri: 5 9 22 69 74 84
+Jolly: 80
+SuperStar: 83
+--------------------------------------
+
+NÂº 50 - Concorso del 29 Marzo 2024
+Numeri: 20 30 32 38 61 67
+Jolly: 60
+SuperStar: 6
+--------------------------------------
+
+NÂº 51 - Concorso del 30 Marzo 2024
+Numeri: 8 25 28 45 54 66
+Jolly: 89
+SuperStar: 28
+--------------------------------------
+
+NÂº 52 - Concorso del 2 Aprile 2024
+Numeri: 28 39 40 44 72 76
+Jolly: 52
+SuperStar: 52
+--------------------------------------
+
+NÂº 53 - Concorso del 4 Aprile 2024
+Numeri: 8 33 36 41 51 68
+Jolly: 71
+SuperStar: 8
+--------------------------------------
+
+NÂº 54 - Concorso del 5 Aprile 2024
+Numeri: 23 40 42 60 62 63
+Jolly: 26
+SuperStar: 80
+--------------------------------------
+
+NÂº 55 - Concorso del 6 Aprile 2024
+Numeri: 14 33 53 54 64 78
+Jolly: 39
+SuperStar: 85
+--------------------------------------
+
+NÂº 56 - Concorso del 9 Aprile 2024
+Numeri: 15 23 31 45 51 58
+Jolly: 60
+SuperStar: 64
+--------------------------------------
+
+NÂº 57 - Concorso del 11 Aprile 2024
+Numeri: 8 31 67 77 81 86
+Jolly: 10
+SuperStar: 62
+--------------------------------------
+
+NÂº 58 - Concorso del 12 Aprile 2024
+Numeri: 10 23 47 49 84 85
+Jolly: 5
+SuperStar: 24
+--------------------------------------
+
+NÂº 59 - Concorso del 13 Aprile 2024
+Numeri: 1 6 7 11 79 88
+Jolly: 15
+SuperStar: 26
+--------------------------------------
+
+NÂº 60 - Concorso del 16 Aprile 2024
+Numeri: 1 3 11 53 75 81
+Jolly: 61
+SuperStar: 26
+--------------------------------------
+
+NÂº 61 - Concorso del 18 Aprile 2024
+Numeri: 15 27 42 53 65 85
+Jolly: 88
+SuperStar: 49
+--------------------------------------
+
+NÂº 62 - Concorso del 19 Aprile 2024
+Numeri: 9 18 65 70 75 87
+Jolly: 53
+SuperStar: 81
+--------------------------------------
+
+NÂº 63 - Concorso del 20 Aprile 2024
+Numeri: 26 34 40 53 60 68
+Jolly: 82
+SuperStar: 19
+--------------------------------------
+
+NÂº 64 - Concorso del 23 Aprile 2024
+Numeri: 8 12 20 24 45 73
+Jolly: 4
+SuperStar: 3
+--------------------------------------
+
+NÂº 65 - Concorso del 26 Aprile 2024
+Numeri: 9 13 51 61 81 83
+Jolly: 24
+SuperStar: 59
+--------------------------------------
+
+NÂº 66 - Concorso del 27 Aprile 2024
+Numeri: 24 27 41 54 62 63
+Jolly: 37
+SuperStar: 37
+--------------------------------------
+
+NÂº 67 - Concorso del 29 Aprile 2024
+Numeri: 17 27 44 50 66 85
+Jolly: 3
+SuperStar: 32
+--------------------------------------
+
+NÂº 68 - Concorso del 30 Aprile 2024
+Numeri: 6 7 11 20 33 81
+Jolly: 74
+SuperStar: 8
+--------------------------------------
+
+NÂº 69 - Concorso del 2 Maggio 2024
+Numeri: 14 43 54 69 80 90
+Jolly: 1
+SuperStar: 57
+--------------------------------------
+
+NÂº 70 - Concorso del 3 Maggio 2024
+Numeri: 17 23 43 48 52 66
+Jolly: 88
+SuperStar: 3
+--------------------------------------
+
+NÂº 71 - Concorso del 4 Maggio 2024
+Numeri: 5 18 22 34 52 66
+Jolly: 33
+SuperStar: 46
+--------------------------------------
+
+NÂº 72 - Concorso del 7 Maggio 2024
+Numeri: 21 23 30 45 68 85
+Jolly: 53
+SuperStar: 89
+--------------------------------------
+
+NÂº 73 - Concorso del 9 Maggio 2024
+Numeri: 23 36 38 62 75 81
+Jolly: 82
+SuperStar: 62
+--------------------------------------
+
+NÂº 74 - Concorso del 10 Maggio 2024
+Numeri: 6 20 40 55 71 80
+Jolly: 12
+SuperStar: 75
+--------------------------------------
+
+NÂº 75 - Concorso del 11 Maggio 2024
+Numeri: 21 29 34 36 46 51
+Jolly: 41
+SuperStar: 60
+--------------------------------------
+
+NÂº 76 - Concorso del 14 Maggio 2024
+Numeri: 11 27 39 43 61 85
+Jolly: 52
+SuperStar: 43
+--------------------------------------
+
+NÂº 77 - Concorso del 16 Maggio 2024
+Numeri: 10 11 27 31 66 83
+Jolly: 25
+SuperStar: 57
+--------------------------------------
+
+NÂº 78 - Concorso del 17 Maggio 2024
+Numeri: 13 14 41 53 60 65
+Jolly: 5
+SuperStar: 45
+--------------------------------------
+
+NÂº 79 - Concorso del 18 Maggio 2024
+Numeri: 2 20 31 48 58 59
+Jolly: 46
+SuperStar: 30
+--------------------------------------
+
+NÂº 80 - Concorso del 21 Maggio 2024
+Numeri: 3 28 49 72 83 84
+Jolly: 5
+SuperStar: 17
+--------------------------------------
+
+NÂº 81 - Concorso del 23 Maggio 2024
+Numeri: 4 10 19 50 71 83
+Jolly: 27
+SuperStar: 11
+--------------------------------------
+
+NÂº 82 - Concorso del 24 Maggio 2024
+Numeri: 2 36 39 50 59 64
+Jolly: 19
+SuperStar: 3
+--------------------------------------
+
+NÂº 83 - Concorso del 25 Maggio 2024
+Numeri: 2 10 28 37 56 75
+Jolly: 41
+SuperStar: 58
+--------------------------------------
+
+NÂº 84 - Concorso del 28 Maggio 2024
+Numeri: 19 41 67 76 82 85
+Jolly: 23
+SuperStar: 10
+--------------------------------------
+
+NÂº 85 - Concorso del 30 Maggio 2024
+Numeri: 10 14 16 40 50 55
+Jolly: 4
+SuperStar: 31
+--------------------------------------
+
+NÂº 86 - Concorso del 31 Maggio 2024
+Numeri: 14 20 24 49 83 84
+Jolly: 62
+SuperStar: 45
+--------------------------------------
+
+NÂº 87 - Concorso del 1 Giugno 2024
+Numeri: 4 13 47 75 80 82
+Jolly: 83
+SuperStar: 22
+--------------------------------------
+
+NÂº 88 - Concorso del 4 Giugno 2024
+Numeri: 4 18 28 41 61 75
+Jolly: 17
+SuperStar: 72
+--------------------------------------
+
+NÂº 89 - Concorso del 6 Giugno 2024
+Numeri: 43 44 45 50 67 76
+Jolly: 69
+SuperStar: 9
+--------------------------------------
+
+NÂº 90 - Concorso del 7 Giugno 2024
+Numeri: 39 51 52 58 72 84
+Jolly: 11
+SuperStar: 37
+--------------------------------------
+
+NÂº 91 - Concorso del 8 Giugno 2024
+Numeri: 6 8 14 15 59 79
+Jolly: 66
+SuperStar: 2
+--------------------------------------
+
+NÂº 92 - Concorso del 11 Giugno 2024
+Numeri: 14 27 34 47 73 88
+Jolly: 52
+SuperStar: 52
+--------------------------------------
+
+NÂº 93 - Concorso del 13 Giugno 2024
+Numeri: 5 22 47 54 63 84
+Jolly: 85
+SuperStar: 82
+--------------------------------------
+
+NÂº 94 - Concorso del 14 Giugno 2024
+Numeri: 15 60 82 85 86 87
+Jolly: 45
+SuperStar: 42
+--------------------------------------
+
+NÂº 95 - Concorso del 15 Giugno 2024
+Numeri: 6 16 22 69 73 78
+Jolly: 67
+SuperStar: 38
+--------------------------------------
+
+NÂº 96 - Concorso del 18 Giugno 2024
+Numeri: 20 32 49 50 51 58
+Jolly: 44
+SuperStar: 59
+--------------------------------------
+
+NÂº 97 - Concorso del 20 Giugno 2024
+Numeri: 19 31 39 60 72 80
+Jolly: 5
+SuperStar: 49
+--------------------------------------
+
+NÂº 98 - Concorso del 21 Giugno 2024
+Numeri: 21 23 28 59 79 82
+Jolly: 74
+SuperStar: 81
+--------------------------------------
+
+NÂº 99 - Concorso del 22 Giugno 2024
+Numeri: 3 25 57 69 71 87
+Jolly: 48
+SuperStar: 62
+--------------------------------------
+
+NÂº 100 - Concorso del 25 Giugno 2024
+Numeri: 3 18 49 63 68 82
+Jolly: 78
+SuperStar: 51
+--------------------------------------
+
+NÂº 101 - Concorso del 27 Giugno 2024
+Numeri: 13 28 63 76 80 85
+Jolly: 21
+SuperStar: 54
+--------------------------------------
+
+NÂº 102 - Concorso del 28 Giugno 2024
+Numeri: 21 26 33 34 45 86
+Jolly: 28
+SuperStar: 80
+--------------------------------------
+
+NÂº 103 - Concorso del 29 Giugno 2024
+Numeri: 11 18 25 26 54 84
+Jolly: 17
+SuperStar: 69
+--------------------------------------
+
+NÂº 104 - Concorso del 2 Luglio 2024
+Numeri: 4 7 39 71 79 89
+Jolly: 1
+SuperStar: 11
+--------------------------------------
+
+NÂº 105 - Concorso del 4 Luglio 2024
+Numeri: 15 25 42 53 56 73
+Jolly: 60
+SuperStar: 61
+--------------------------------------
+
+NÂº 106 - Concorso del 5 Luglio 2024
+Numeri: 10 21 23 26 35 50
+Jolly: 87
+SuperStar: 76
+--------------------------------------
+
+NÂº 107 - Concorso del 6 Luglio 2024
+Numeri: 18 24 26 33 34 47
+Jolly: 35
+SuperStar: 30
+--------------------------------------
+
+NÂº 108 - Concorso del 9 Luglio 2024
+Numeri: 8 26 32 34 53 58
+Jolly: 25
+SuperStar: 78
+--------------------------------------
+
+NÂº 109 - Concorso del 11 Luglio 2024
+Numeri: 10 31 40 59 80 85
+Jolly: 13
+SuperStar: 48
+--------------------------------------
+
+NÂº 110 - Concorso del 12 Luglio 2024
+Numeri: 43 54 60 70 75 89
+Jolly: 30
+SuperStar: 20
+--------------------------------------
+
+NÂº 111 - Concorso del 13 Luglio 2024
+Numeri: 6 9 54 63 64 68
+Jolly: 43
+SuperStar: 84
+--------------------------------------
+
+NÂº 112 - Concorso del 16 Luglio 2024
+Numeri: 3 18 26 54 61 72
+Jolly: 85
+SuperStar: 30
+--------------------------------------
+
+NÂº 113 - Concorso del 18 Luglio 2024
+Numeri: 13 23 35 36 57 64
+Jolly: 47
+SuperStar: 5
+--------------------------------------
+
+NÂº 114 - Concorso del 19 Luglio 2024
+Numeri: 13 20 39 48 74 89
+Jolly: 47
+SuperStar: 50
+--------------------------------------
+
+NÂº 115 - Concorso del 20 Luglio 2024
+Numeri: 45 48 50 57 70 71
+Jolly: 80
+SuperStar: 52
+--------------------------------------
+
+NÂº 116 - Concorso del 23 Luglio 2024
+Numeri: 24 59 63 64 82 90
+Jolly: 62
+SuperStar: 24
+--------------------------------------
+
+NÂº 117 - Concorso del 25 Luglio 2024
+Numeri: 2 21 23 56 69 87
+Jolly: 52
+SuperStar: 42
+--------------------------------------
+
+NÂº 118 - Concorso del 26 Luglio 2024
+Numeri: 1 14 21 35 64 85
+Jolly: 70
+SuperStar: 5
+--------------------------------------
+
+NÂº 119 - Concorso del 27 Luglio 2024
+Numeri: 13 14 25 34 59 84
+Jolly: 71
+SuperStar: 17
+--------------------------------------
+
+NÂº 120 - Concorso del 30 Luglio 2024
+Numeri: 11 13 22 34 54 77
+Jolly: 35
+SuperStar: 72
+--------------------------------------
+
+NÂº 121 - Concorso del 1 Agosto 2024
+Numeri: 33 39 78 79 83 84
+Jolly: 60
+SuperStar: 88
+--------------------------------------
+
+NÂº 122 - Concorso del 2 Agosto 2024
+Numeri: 34 42 69 76 81 85
+Jolly: 36
+SuperStar: 49
+--------------------------------------
+
+NÂº 123 - Concorso del 3 Agosto 2024
+Numeri: 6 37 69 73 79 88
+Jolly: 4
+SuperStar: 7
+--------------------------------------
+
+NÂº 124 - Concorso del 6 Agosto 2024
+Numeri: 4 11 85 86 87 88
+Jolly: 38
+SuperStar: 2
+--------------------------------------
+
+NÂº 125 - Concorso del 8 Agosto 2024
+Numeri: 3 16 17 54 61 90
+Jolly: 4
+SuperStar: 21
+--------------------------------------
+
+NÂº 126 - Concorso del 9 Agosto 2024
+Numeri: 23 40 60 79 80 87
+Jolly: 50
+SuperStar: 69
+--------------------------------------
+
+NÂº 127 - Concorso del 10 Agosto 2024
+Numeri: 13 14 49 55 71 77
+Jolly: 62
+SuperStar: 32
+--------------------------------------
+
+NÂº 128 - Concorso del 13 Agosto 2024
+Numeri: 41 43 55 65 80 85
+Jolly: 76
+SuperStar: 74
+--------------------------------------
+
+NÂº 129 - Concorso del 16 Agosto 2024
+Numeri: 1 6 13 20 73 85
+Jolly: 11
+SuperStar: 73
+--------------------------------------
+
+NÂº 130 - Concorso del 17 Agosto 2024
+Numeri: 6 22 43 60 66 73
+Jolly: 31
+SuperStar: 31
+--------------------------------------
+
+NÂº 131 - Concorso del 19 Agosto 2024
+Numeri: 4 7 15 24 36 78
+Jolly: 65
+SuperStar: 85
+--------------------------------------
+
+NÂº 132 - Concorso del 20 Agosto 2024
+Numeri: 17 23 45 57 64 89
+Jolly: 15
+SuperStar: 31
+--------------------------------------
+
+NÂº 133 - Concorso del 22 Agosto 2024
+Numeri: 17 18 24 34 57 82
+Jolly: 68
+SuperStar: 21
+--------------------------------------
+
+NÂº 134 - Concorso del 23 Agosto 2024
+Numeri: 5 7 59 70 72 73
+Jolly: 33
+SuperStar: 4
+--------------------------------------
+
+NÂº 135 - Concorso del 24 Agosto 2024
+Numeri: 17 28 63 72 75 81
+Jolly: 79
+SuperStar: 51
+--------------------------------------
+
+NÂº 136 - Concorso del 27 Agosto 2024
+Numeri: 12 23 36 42 50 71
+Jolly: 80
+SuperStar: 40
+--------------------------------------
+
+NÂº 137 - Concorso del 29 Agosto 2024
+Numeri: 5 23 46 52 60 80
+Jolly: 79
+SuperStar: 54
+--------------------------------------
+
+NÂº 138 - Concorso del 30 Agosto 2024
+Numeri: 7 34 47 52 74 86
+Jolly: 78
+SuperStar: 7
+--------------------------------------
+
+NÂº 139 - Concorso del 31 Agosto 2024
+Numeri: 1 20 27 41 60 77
+Jolly: 7
+SuperStar: 43
+--------------------------------------
+
+NÂº 140 - Concorso del 3 Settembre 2024
+Numeri: 6 38 55 71 80 85
+Jolly: 23
+SuperStar: 24
+--------------------------------------
+
+NÂº 141 - Concorso del 5 Settembre 2024
+Numeri: 4 5 29 32 69 89
+Jolly: 15
+SuperStar: 46
+--------------------------------------
+
+NÂº 142 - Concorso del 6 Settembre 2024
+Numeri: 2 26 37 38 69 85
+Jolly: 66
+SuperStar: 10
+--------------------------------------
+
+NÂº 143 - Concorso del 7 Settembre 2024
+Numeri: 1 16 64 70 72 82
+Jolly: 34
+SuperStar: 86
+--------------------------------------
+
+NÂº 144 - Concorso del 10 Settembre 2024
+Numeri: 9 11 27 53 63 78
+Jolly: 8
+SuperStar: 88
+--------------------------------------
+
+NÂº 145 - Concorso del 12 Settembre 2024
+Numeri: 29 35 65 67 70 80
+Jolly: 10
+SuperStar: 79
+--------------------------------------
+
+NÂº 146 - Concorso del 13 Settembre 2024
+Numeri: 2 12 16 18 59 61
+Jolly: 56
+SuperStar: 4
+--------------------------------------
+
+NÂº 147 - Concorso del 14 Settembre 2024
+Numeri: 1 31 55 65 76 88
+Jolly: 52
+SuperStar: 34
+--------------------------------------
+
+NÂº 148 - Concorso del 17 Settembre 2024
+Numeri: 17 28 62 64 74 84
+Jolly: 88
+SuperStar: 90
+--------------------------------------
+
+NÂº 149 - Concorso del 19 Settembre 2024
+Numeri: 3 13 44 45 56 61
+Jolly: 33
+SuperStar: 34
+--------------------------------------
+
+NÂº 150 - Concorso del 20 Settembre 2024
+Numeri: 14 22 42 44 47 79
+Jolly: 85
+SuperStar: 29
+--------------------------------------
+
+NÂº 151 - Concorso del 21 Settembre 2024
+Numeri: 8 33 35 39 78 83
+Jolly: 52
+SuperStar: 72
+--------------------------------------
+
+NÂº 152 - Concorso del 24 Settembre 2024
+Numeri: 2 25 27 50 88 90
+Jolly: 19
+SuperStar: 86
+--------------------------------------
+
+NÂº 153 - Concorso del 26 Settembre 2024
+Numeri: 2 13 14 41 52 79
+Jolly: 84
+SuperStar: 12
+--------------------------------------
+
+NÂº 154 - Concorso del 27 Settembre 2024
+Numeri: 4 14 42 46 53 60
+Jolly: 31
+SuperStar: 85
+--------------------------------------
+
+NÂº 155 - Concorso del 28 Settembre 2024
+Numeri: 4 8 28 33 34 57
+Jolly: 27
+SuperStar: 88
+--------------------------------------
+
+NÂº 156 - Concorso del 1 Ottobre 2024
+Numeri: 57 60 68 70 80 83
+Jolly: 25
+SuperStar: 64
+--------------------------------------
+
+NÂº 157 - Concorso del 3 Ottobre 2024
+Numeri: 26 27 40 51 67 86
+Jolly: 4
+SuperStar: 82
+--------------------------------------
+
+NÂº 158 - Concorso del 4 Ottobre 2024
+Numeri: 5 43 57 58 72 87
+Jolly: 3
+SuperStar: 72
+--------------------------------------
+
+NÂº 159 - Concorso del 5 Ottobre 2024
+Numeri: 13 41 47 58 81 84
+Jolly: 4
+SuperStar: 81
+--------------------------------------
+
+NÂº 160 - Concorso del 8 Ottobre 2024
+Numeri: 6 21 25 59 63 68
+Jolly: 8
+SuperStar: 70
+--------------------------------------
+
+NÂº 161 - Concorso del 10 Ottobre 2024
+Numeri: 6 48 64 80 87 89
+Jolly: 43
+SuperStar: 82
+--------------------------------------
+
+NÂº 162 - Concorso del 11 Ottobre 2024
+Numeri: 31 34 49 66 75 88
+Jolly: 1
+SuperStar: 16
+--------------------------------------
+
+NÂº 163 - Concorso del 12 Ottobre 2024
+Numeri: 11 13 16 22 42 51
+Jolly: 37
+SuperStar: 47
+--------------------------------------
+
+NÂº 164 - Concorso del 15 Ottobre 2024
+Numeri: 1 23 44 45 47 60
+Jolly: 14
+SuperStar: 19
+--------------------------------------
+
+NÂº 165 - Concorso del 17 Ottobre 2024
+Numeri: 2 23 24 42 46 88
+Jolly: 61
+SuperStar: 27
+--------------------------------------
+
+NÂº 166 - Concorso del 18 Ottobre 2024
+Numeri: 19 39 41 42 45 88
+Jolly: 40
+SuperStar: 27
+--------------------------------------
+
+NÂº 167 - Concorso del 19 Ottobre 2024
+Numeri: 14 67 73 86 89 90
+Jolly: 8
+SuperStar: 77
+--------------------------------------
+
+NÂº 168 - Concorso del 22 Ottobre 2024
+Numeri: 13 23 37 43 64 79
+Jolly: 84
+SuperStar: 20
+--------------------------------------
+
+NÂº 169 - Concorso del 24 Ottobre 2024
+Numeri: 7 21 23 28 29 31
+Jolly: 20
+SuperStar: 66
+--------------------------------------
+
+NÂº 170 - Concorso del 25 Ottobre 2024
+Numeri: 5 11 39 41 62 80
+Jolly: 78
+SuperStar: 33
+--------------------------------------
+
+NÂº 171 - Concorso del 26 Ottobre 2024
+Numeri: 14 31 40 42 52 65
+Jolly: 15
+SuperStar: 69
+--------------------------------------
+
+NÂº 172 - Concorso del 29 Ottobre 2024
+Numeri: 6 17 26 35 57 64
+Jolly: 14
+SuperStar: 23
+--------------------------------------
+
+NÂº 173 - Concorso del 31 Ottobre 2024
+Numeri: 18 40 55 58 71 85
+Jolly: 46
+SuperStar: 46
+--------------------------------------
+
+NÂº 174 - Concorso del 2 Novembre 2024
+Numeri: 3 19 27 43 61 77
+Jolly: 80
+SuperStar: 41
+--------------------------------------
+
+NÂº 175 - Concorso del 4 Novembre 2024
+Numeri: 27 32 33 44 60 89
+Jolly: 52
+SuperStar: 5
+--------------------------------------
+
+NÂº 176 - Concorso del 5 Novembre 2024
+Numeri: 32 43 53 75 77 88
+Jolly: 81
+SuperStar: 79
+--------------------------------------
+
+NÂº 177 - Concorso del 7 Novembre 2024
+Numeri: 1 50 68 75 81 84
+Jolly: 8
+SuperStar: 25
+--------------------------------------
+
+NÂº 178 - Concorso del 8 Novembre 2024
+Numeri: 13 22 49 58 64 75
+Jolly: 20
+SuperStar: 16
+--------------------------------------
+
+NÂº 179 - Concorso del 9 Novembre 2024
+Numeri: 26 36 43 51 63 89
+Jolly: 21
+SuperStar: 57
+--------------------------------------
+
+NÂº 180 - Concorso del 12 Novembre 2024
+Numeri: 13 28 29 32 39 81
+Jolly: 82
+SuperStar: 36
+--------------------------------------
+
+NÂº 181 - Concorso del 14 Novembre 2024
+Numeri: 36 46 69 70 73 82
+Jolly: 26
+SuperStar: 84
+--------------------------------------
+
+NÂº 182 - Concorso del 15 Novembre 2024
+Numeri: 2 4 5 42 53 83
+Jolly: 23
+SuperStar: 43
+--------------------------------------
+
+NÂº 183 - Concorso del 16 Novembre 2024
+Numeri: 52 56 66 68 70 73
+Jolly: 90
+SuperStar: 12
+--------------------------------------
+
+NÂº 184 - Concorso del 19 Novembre 2024
+Numeri: 20 34 36 68 72 74
+Jolly: 44
+SuperStar: 49
+--------------------------------------
+
+NÂº 185 - Concorso del 21 Novembre 2024
+Numeri: 4 7 20 24 41 67
+Jolly: 85
+SuperStar: 35
+--------------------------------------
+
+NÂº 186 - Concorso del 22 Novembre 2024
+Numeri: 6 26 51 53 78 89
+Jolly: 79
+SuperStar: 70
+--------------------------------------
+
+NÂº 187 - Concorso del 23 Novembre 2024
+Numeri: 15 22 29 32 35 67
+Jolly: 87
+SuperStar: 23
+--------------------------------------
+
+NÂº 188 - Concorso del 26 Novembre 2024
+Numeri: 13 23 26 31 46 89
+Jolly: 43
+SuperStar: 24
+--------------------------------------
+
+NÂº 189 - Concorso del 28 Novembre 2024
+Numeri: 3 8 37 54 74 84
+Jolly: 26
+SuperStar: 26
+--------------------------------------
+
+NÂº 190 - Concorso del 29 Novembre 2024
+Numeri: 21 33 44 55 75 80
+Jolly: 53
+SuperStar: 64
+--------------------------------------
+
+NÂº 191 - Concorso del 30 Novembre 2024
+Numeri: 27 48 50 69 74 81
+Jolly: 13
+SuperStar: 36
+--------------------------------------
+
+NÂº 192 - Concorso del 3 Dicembre 2024
+Numeri: 4 17 37 56 73 90
+Jolly: 46
+SuperStar: 11
+--------------------------------------
+
+NÂº 193 - Concorso del 5 Dicembre 2024
+Numeri: 4 42 45 72 82 84
+Jolly: 25
+SuperStar: 10
+--------------------------------------
+
+NÂº 194 - Concorso del 6 Dicembre 2024
+Numeri: 21 48 60 61 67 71
+Jolly: 86
+SuperStar: 22
+--------------------------------------
+
+NÂº 195 - Concorso del 7 Dicembre 2024
+Numeri: 21 30 55 60 70 75
+Jolly: 13
+SuperStar: 25
+--------------------------------------
+
+NÂº 196 - Concorso del 10 Dicembre 2024
+Numeri: 5 54 68 69 71 81
+Jolly: 30
+SuperStar: 56
+--------------------------------------
+
+NÂº 197 - Concorso del 12 Dicembre 2024
+Numeri: 20 61 76 78 85 87
+Jolly: 44
+SuperStar: 72
+--------------------------------------
+
+NÂº 198 - Concorso del 13 Dicembre 2024
+Numeri: 16 42 54 55 65 83
+Jolly: 27
+SuperStar: 90
+--------------------------------------
+
+NÂº 199 - Concorso del 14 Dicembre 2024
+Numeri: 34 50 52 59 70 83
+Jolly: 13
+SuperStar: 74
+--------------------------------------
+
+NÂº 200 - Concorso del 17 Dicembre 2024
+Numeri: 3 25 49 58 64 66
+Jolly: 46
+SuperStar: 77
+--------------------------------------
+
+NÂº 201 - Concorso del 19 Dicembre 2024
+Numeri: 2 4 8 20 22 76
+Jolly: 72
+SuperStar: 60
+--------------------------------------
+
+NÂº 202 - Concorso del 20 Dicembre 2024
+Numeri: 17 35 43 56 63 85
+Jolly: 23
+SuperStar: 74
+--------------------------------------
+
+NÂº 203 - Concorso del 21 Dicembre 2024
+Numeri: 23 25 53 55 71 79
+Jolly: 63
+SuperStar: 6
+--------------------------------------
+
+NÂº 204 - Concorso del 24 Dicembre 2024
+Numeri: 6 18 27 30 52 56
+Jolly: 83
+SuperStar: 80
+--------------------------------------
+
+NÂº 205 - Concorso del 27 Dicembre 2024
+Numeri: 9 13 15 43 53 68
+Jolly: 58
+SuperStar: 69
+--------------------------------------
+
+NÂº 206 - Concorso del 28 Dicembre 2024
+Numeri: 28 29 46 68 81 88
+Jolly: 79
+SuperStar: 40
+--------------------------------------
+
+NÂº 207 - Concorso del 30 Dicembre 2024
+Numeri: 3 8 18 25 58 75
+Jolly: 12
+SuperStar: 54
+--------------------------------------
+
+NÂº 208 - Concorso del 31 Dicembre 2024
+Numeri: 5 16 23 40 47 80
+Jolly: 17
+SuperStar: 13
+--------------------------------------
+

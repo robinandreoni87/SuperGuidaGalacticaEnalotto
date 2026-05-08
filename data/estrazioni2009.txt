@@ -1,0 +1,651 @@
+﻿NÂº 15 - Concorso del 3 Febbraio 2009
+Numeri: 11 13 17 49 51 61
+Jolly: 8
+SuperStar: 13
+--------------------------------------
+NÂº 16 - Concorso del 5 Febbraio 2009
+Numeri: 7 18 27 33 35 43
+Jolly: 28
+SuperStar: 56
+--------------------------------------
+NÂº 17 - Concorso del 7 Febbraio 2009
+Numeri: 8 23 58 61 76 79
+Jolly: 90
+SuperStar: 71
+--------------------------------------
+NÂº 18 - Concorso del 10 Febbraio 2009
+Numeri: 11 18 47 80 89 90
+Jolly: 70
+SuperStar: 9
+--------------------------------------
+NÂº 19 - Concorso del 12 Febbraio 2009
+Numeri: 3 24 31 32 61 85
+Jolly: 17
+SuperStar: 4
+--------------------------------------
+NÂº 20 - Concorso del 14 Febbraio 2009
+Numeri: 7 32 43 50 68 73
+Jolly: 31
+SuperStar: 13
+--------------------------------------
+NÂº 21 - Concorso del 17 Febbraio 2009
+Numeri: 17 20 63 78 82 85
+Jolly: 42
+SuperStar: 78
+--------------------------------------
+NÂº 22 - Concorso del 19 Febbraio 2009
+Numeri: 28 30 32 33 34 52
+Jolly: 14
+SuperStar: 17
+--------------------------------------
+NÂº 23 - Concorso del 21 Febbraio 2009
+Numeri: 6 39 40 41 50 54
+Jolly: 2
+SuperStar: 34
+--------------------------------------
+NÂº 24 - Concorso del 24 Febbraio 2009
+Numeri: 33 38 47 67 68 81
+Jolly: 51
+SuperStar: 90
+--------------------------------------
+NÂº 25 - Concorso del 26 Febbraio 2009
+Numeri: 10 19 25 35 51 73
+Jolly: 66
+SuperStar: 56
+--------------------------------------
+NÂº 26 - Concorso del 28 Febbraio 2009
+Numeri: 6 26 56 65 69 82
+Jolly: 19
+SuperStar: 14
+--------------------------------------
+NÂº 40 - Concorso del 2 Aprile 2009
+Numeri: 3 12 16 30 84 89
+Jolly: 18
+SuperStar: 3
+--------------------------------------
+NÂº 41 - Concorso del 4 Aprile 2009
+Numeri: 2 3 4 27 34 42
+Jolly: 59
+SuperStar: 55
+--------------------------------------
+NÂº 42 - Concorso del 7 Aprile 2009
+Numeri: 3 37 54 65 87 89
+Jolly: 58
+SuperStar: 16
+--------------------------------------
+NÂº 43 - Concorso del 9 Aprile 2009
+Numeri: 2 23 36 62 75 79
+Jolly: 48
+SuperStar: 21
+--------------------------------------
+NÂº 44 - Concorso del 11 Aprile 2009
+Numeri: 6 34 59 61 83 90
+Jolly: 53
+SuperStar: 60
+--------------------------------------
+NÂº 45 - Concorso del 14 Aprile 2009
+Numeri: 2 5 20 43 64 83
+Jolly: 66
+SuperStar: 4
+--------------------------------------
+NÂº 46 - Concorso del 16 Aprile 2009
+Numeri: 3 9 17 38 54 62
+Jolly: 64
+SuperStar: 28
+--------------------------------------
+NÂº 47 - Concorso del 18 Aprile 2009
+Numeri: 20 46 48 62 71 86
+Jolly: 44
+SuperStar: 80
+--------------------------------------
+NÂº 48 - Concorso del 21 Aprile 2009
+Numeri: 19 22 26 59 61 71
+Jolly: 57
+SuperStar: 88
+--------------------------------------
+NÂº 49 - Concorso del 23 Aprile 2009
+Numeri: 24 29 40 71 74 78
+Jolly: 21
+SuperStar: 57
+--------------------------------------
+NÂº 50 - Concorso del 27 Aprile 2009
+Numeri: 7 40 54 64 69 71
+Jolly: 67
+SuperStar: 70
+--------------------------------------
+NÂº 51 - Concorso del 28 Aprile 2009
+Numeri: 11 12 32 55 72 87
+Jolly: 88
+SuperStar: 36
+--------------------------------------
+NÂº 52 - Concorso del 30 Aprile 2009
+Numeri: 28 64 65 77 85 89
+Jolly: 47
+SuperStar: 22
+--------------------------------------
+NÂº 53 - Concorso del 2 Maggio 2009
+Numeri: 2 25 31 38 45 84
+Jolly: 24
+SuperStar: 62
+--------------------------------------
+NÂº 54 - Concorso del 5 Maggio 2009
+Numeri: 7 12 19 43 71 77
+Jolly: 44
+SuperStar: 36
+--------------------------------------
+NÂº 55 - Concorso del 7 Maggio 2009
+Numeri: 31 43 67 69 76 80
+Jolly: 1
+SuperStar: 67
+--------------------------------------
+NÂº 56 - Concorso del 9 Maggio 2009
+Numeri: 9 11 40 48 68 84
+Jolly: 6
+SuperStar: 47
+--------------------------------------
+NÂº 57 - Concorso del 12 Maggio 2009
+Numeri: 4 9 22 23 47 73
+Jolly: 45
+SuperStar: 2
+--------------------------------------
+NÂº 58 - Concorso del 14 Maggio 2009
+Numeri: 1 22 41 69 73 89
+Jolly: 39
+SuperStar: 54
+--------------------------------------
+NÂº 59 - Concorso del 16 Maggio 2009
+Numeri: 39 50 55 57 78 82
+Jolly: 81
+SuperStar: 52
+--------------------------------------
+NÂº 60 - Concorso del 19 Maggio 2009
+Numeri: 36 55 62 66 81 85
+Jolly: 9
+SuperStar: 33
+--------------------------------------
+NÂº 61 - Concorso del 21 Maggio 2009
+Numeri: 11 14 17 24 39 48
+Jolly: 64
+SuperStar: 15
+--------------------------------------
+NÂº 62 - Concorso del 23 Maggio 2009
+Numeri: 9 25 29 43 48 54
+Jolly: 65
+SuperStar: 12
+--------------------------------------
+NÂº 63 - Concorso del 26 Maggio 2009
+Numeri: 6 33 35 64 66 77
+Jolly: 85
+SuperStar: 50
+--------------------------------------
+NÂº 64 - Concorso del 28 Maggio 2009
+Numeri: 5 27 37 63 67 77
+Jolly: 75
+SuperStar: 49
+--------------------------------------
+NÂº 65 - Concorso del 30 Maggio 2009
+Numeri: 1 13 17 31 58 62
+Jolly: 74
+SuperStar: 2
+--------------------------------------
+NÂº 66 - Concorso del 3 Giugno 2009
+Numeri: 32 33 37 43 44 79
+Jolly: 74
+SuperStar: 71
+--------------------------------------
+NÂº 67 - Concorso del 4 Giugno 2009
+Numeri: 7 57 60 67 69 90
+Jolly: 14
+SuperStar: 22
+--------------------------------------
+NÂº 68 - Concorso del 6 Giugno 2009
+Numeri: 8 14 16 18 56 60
+Jolly: 69
+SuperStar: 20
+--------------------------------------
+NÂº 69 - Concorso del 9 Giugno 2009
+Numeri: 14 17 39 47 58 85
+Jolly: 61
+SuperStar: 45
+--------------------------------------
+NÂº 70 - Concorso del 11 Giugno 2009
+Numeri: 4 10 24 59 72 83
+Jolly: 47
+SuperStar: 15
+--------------------------------------
+NÂº 71 - Concorso del 13 Giugno 2009
+Numeri: 8 19 25 73 76 84
+Jolly: 33
+SuperStar: 78
+--------------------------------------
+NÂº 72 - Concorso del 16 Giugno 2009
+Numeri: 6 14 39 47 63 82
+Jolly: 74
+SuperStar: 61
+--------------------------------------
+NÂº 73 - Concorso del 18 Giugno 2009
+Numeri: 15 27 31 52 74 77
+Jolly: 54
+SuperStar: 46
+--------------------------------------
+NÂº 74 - Concorso del 20 Giugno 2009
+Numeri: 1 7 38 58 62 78
+Jolly: 79
+SuperStar: 74
+--------------------------------------
+NÂº 75 - Concorso del 23 Giugno 2009
+Numeri: 2 3 37 38 58 59
+Jolly: 24
+SuperStar: 53
+--------------------------------------
+NÂº 76 - Concorso del 25 Giugno 2009
+Numeri: 23 36 38 52 62 63
+Jolly: 43
+SuperStar: 81
+--------------------------------------
+NÂº 77 - Concorso del 27 Giugno 2009
+Numeri: 29 56 66 77 88 89
+Jolly: 45
+SuperStar: 39
+--------------------------------------
+NÂº 78 - Concorso del 30 Giugno 2009
+Numeri: 12 19 24 51 56 78
+Jolly: 3
+SuperStar: 87
+--------------------------------------
+NÂº 79 - Concorso del 2 Luglio 2009
+Numeri: 12 13 38 46 47 72
+Jolly: 5
+SuperStar: 17
+--------------------------------------
+NÂº 80 - Concorso del 4 Luglio 2009
+Numeri: 6 35 53 67 75 89
+Jolly: 2
+SuperStar: 66
+--------------------------------------
+NÂº 81 - Concorso del 7 Luglio 2009
+Numeri: 41 44 55 56 68 79
+Jolly: 40
+SuperStar: 17
+--------------------------------------
+NÂº 82 - Concorso del 9 Luglio 2009
+Numeri: 7 29 57 60 79 87
+Jolly: 84
+SuperStar: 11
+--------------------------------------
+NÂº 83 - Concorso del 11 Luglio 2009
+Numeri: 8 21 32 33 60 69
+Jolly: 48
+SuperStar: 64
+--------------------------------------
+NÂº 84 - Concorso del 14 Luglio 2009
+Numeri: 33 35 47 51 62 89
+Jolly: 5
+SuperStar: 74
+--------------------------------------
+NÂº 85 - Concorso del 16 Luglio 2009
+Numeri: 6 35 38 48 58 76
+Jolly: 26
+SuperStar: 79
+--------------------------------------
+NÂº 86 - Concorso del 18 Luglio 2009
+Numeri: 4 32 34 56 61 82
+Jolly: 81
+SuperStar: 6
+--------------------------------------
+NÂº 87 - Concorso del 21 Luglio 2009
+Numeri: 27 32 40 49 75 82
+Jolly: 5
+SuperStar: 84
+--------------------------------------
+NÂº 88 - Concorso del 23 Luglio 2009
+Numeri: 9 12 60 69 72 89
+Jolly: 2
+SuperStar: 80
+--------------------------------------
+NÂº 89 - Concorso del 25 Luglio 2009
+Numeri: 7 35 36 41 45 88
+Jolly: 52
+SuperStar: 46
+--------------------------------------
+NÂº 90 - Concorso del 28 Luglio 2009
+Numeri: 1 21 29 40 63 70
+Jolly: 39
+SuperStar: 26
+--------------------------------------
+NÂº 91 - Concorso del 30 Luglio 2009
+Numeri: 2 68 77 81 83 84
+Jolly: 19
+SuperStar: 7
+--------------------------------------
+NÂº 92 - Concorso del 1 Agosto 2009
+Numeri: 17 21 23 31 33 37
+Jolly: 79
+SuperStar: 51
+--------------------------------------
+NÂº 93 - Concorso del 4 Agosto 2009
+Numeri: 4 8 51 72 74 88
+Jolly: 85
+SuperStar: 41
+--------------------------------------
+NÂº 94 - Concorso del 6 Agosto 2009
+Numeri: 40 41 49 56 61 63
+Jolly: 2
+SuperStar: 67
+--------------------------------------
+NÂº 95 - Concorso del 8 Agosto 2009
+Numeri: 24 51 58 61 74 77
+Jolly: 43
+SuperStar: 20
+--------------------------------------
+NÂº 96 - Concorso del 11 Agosto 2009
+Numeri: 26 29 40 50 54 72
+Jolly: 78
+SuperStar: 85
+--------------------------------------
+NÂº 97 - Concorso del 13 Agosto 2009
+Numeri: 11 29 56 63 88 90
+Jolly: 22
+SuperStar: 8
+--------------------------------------
+NÂº 98 - Concorso del 17 Agosto 2009
+Numeri: 4 10 27 28 34 57
+Jolly: 71
+SuperStar: 58
+--------------------------------------
+NÂº 99 - Concorso del 18 Agosto 2009
+Numeri: 2 19 43 49 77 82
+Jolly: 50
+SuperStar: 7
+--------------------------------------
+NÂº 100 - Concorso del 20 Agosto 2009
+Numeri: 2 16 38 67 70 84
+Jolly: 4
+SuperStar: 44
+--------------------------------------
+NÂº 101 - Concorso del 22 Agosto 2009
+Numeri: 10 11 27 45 79 88
+Jolly: 42
+SuperStar: 63
+--------------------------------------
+NÂº 102 - Concorso del 25 Agosto 2009
+Numeri: 4 5 22 48 53 86
+Jolly: 41
+SuperStar: 10
+--------------------------------------
+NÂº 103 - Concorso del 27 Agosto 2009
+Numeri: 15 20 36 69 74 87
+Jolly: 86
+SuperStar: 53
+--------------------------------------
+NÂº 104 - Concorso del 29 Agosto 2009
+Numeri: 15 19 26 34 67 69
+Jolly: 50
+SuperStar: 77
+--------------------------------------
+NÂº 105 - Concorso del 1 Settembre 2009
+Numeri: 12 14 19 38 41 45
+Jolly: 31
+SuperStar: 28
+--------------------------------------
+NÂº 106 - Concorso del 3 Settembre 2009
+Numeri: 18 54 56 58 62 66
+Jolly: 32
+SuperStar: 45
+--------------------------------------
+NÂº 107 - Concorso del 5 Settembre 2009
+Numeri: 15 31 39 49 64 85
+Jolly: 56
+SuperStar: 44
+--------------------------------------
+NÂº 108 - Concorso del 8 Settembre 2009
+Numeri: 6 13 41 71 75 86
+Jolly: 58
+SuperStar: 36
+--------------------------------------
+NÂº 109 - Concorso del 10 Settembre 2009
+Numeri: 17 39 41 47 77 83
+Jolly: 63
+SuperStar: 34
+--------------------------------------
+NÂº 110 - Concorso del 12 Settembre 2009
+Numeri: 5 21 26 45 47 49
+Jolly: 11
+SuperStar: 29
+--------------------------------------
+NÂº 111 - Concorso del 15 Settembre 2009
+Numeri: 26 60 61 72 85 88
+Jolly: 73
+SuperStar: 54
+--------------------------------------
+NÂº 112 - Concorso del 17 Settembre 2009
+Numeri: 19 32 34 63 74 89
+Jolly: 55
+SuperStar: 85
+--------------------------------------
+NÂº 113 - Concorso del 19 Settembre 2009
+Numeri: 4 8 20 21 44 80
+Jolly: 77
+SuperStar: 18
+--------------------------------------
+NÂº 114 - Concorso del 22 Settembre 2009
+Numeri: 17 40 50 73 74 82
+Jolly: 19
+SuperStar: 28
+--------------------------------------
+NÂº 115 - Concorso del 24 Settembre 2009
+Numeri: 5 9 25 30 76 81
+Jolly: 6
+SuperStar: 68
+--------------------------------------
+NÂº 116 - Concorso del 26 Settembre 2009
+Numeri: 34 69 70 73 82 90
+Jolly: 80
+SuperStar: 77
+--------------------------------------
+NÂº 117 - Concorso del 29 Settembre 2009
+Numeri: 10 22 24 45 67 76
+Jolly: 71
+SuperStar: 48
+--------------------------------------
+NÂº 118 - Concorso del 1 Ottobre 2009
+Numeri: 4 19 34 52 68 77
+Jolly: 63
+SuperStar: 47
+--------------------------------------
+NÂº 119 - Concorso del 3 Ottobre 2009
+Numeri: 28 38 59 60 71 83
+Jolly: 54
+SuperStar: 33
+--------------------------------------
+NÂº 120 - Concorso del 6 Ottobre 2009
+Numeri: 23 24 49 69 70 72
+Jolly: 88
+SuperStar: 4
+--------------------------------------
+NÂº 121 - Concorso del 8 Ottobre 2009
+Numeri: 1 12 17 65 70 90
+Jolly: 24
+SuperStar: 9
+--------------------------------------
+NÂº 122 - Concorso del 10 Ottobre 2009
+Numeri: 9 33 34 52 82 83
+Jolly: 51
+SuperStar: 16
+--------------------------------------
+NÂº 123 - Concorso del 13 Ottobre 2009
+Numeri: 5 11 40 43 56 82
+Jolly: 7
+SuperStar: 23
+--------------------------------------
+NÂº 124 - Concorso del 15 Ottobre 2009
+Numeri: 3 29 51 55 73 81
+Jolly: 83
+SuperStar: 23
+--------------------------------------
+NÂº 125 - Concorso del 17 Ottobre 2009
+Numeri: 8 24 45 47 72 84
+Jolly: 78
+SuperStar: 27
+--------------------------------------
+NÂº 126 - Concorso del 20 Ottobre 2009
+Numeri: 41 47 49 55 77 90
+Jolly: 22
+SuperStar: 75
+--------------------------------------
+NÂº 127 - Concorso del 22 Ottobre 2009
+Numeri: 29 33 34 64 65 87
+Jolly: 37
+SuperStar: 42
+--------------------------------------
+NÂº 128 - Concorso del 24 Ottobre 2009
+Numeri: 6 26 37 38 55 73
+Jolly: 22
+SuperStar: 63
+--------------------------------------
+NÂº 129 - Concorso del 27 Ottobre 2009
+Numeri: 38 43 44 45 63 77
+Jolly: 42
+SuperStar: 49
+--------------------------------------
+NÂº 130 - Concorso del 29 Ottobre 2009
+Numeri: 29 37 42 52 54 59
+Jolly: 79
+SuperStar: 18
+--------------------------------------
+NÂº 131 - Concorso del 31 Ottobre 2009
+Numeri: 13 16 41 49 58 76
+Jolly: 47
+SuperStar: 23
+--------------------------------------
+NÂº 132 - Concorso del 3 Novembre 2009
+Numeri: 22 35 44 66 71 88
+Jolly: 76
+SuperStar: 44
+--------------------------------------
+NÂº 133 - Concorso del 5 Novembre 2009
+Numeri: 12 20 28 57 74 85
+Jolly: 41
+SuperStar: 6
+--------------------------------------
+NÂº 134 - Concorso del 7 Novembre 2009
+Numeri: 9 11 70 74 75 84
+Jolly: 80
+SuperStar: 7
+--------------------------------------
+NÂº 135 - Concorso del 10 Novembre 2009
+Numeri: 24 32 56 59 76 81
+Jolly: 55
+SuperStar: 85
+--------------------------------------
+NÂº 136 - Concorso del 12 Novembre 2009
+Numeri: 37 43 49 66 73 88
+Jolly: 10
+SuperStar: 82
+--------------------------------------
+NÂº 137 - Concorso del 14 Novembre 2009
+Numeri: 15 27 31 40 63 82
+Jolly: 53
+SuperStar: 88
+--------------------------------------
+NÂº 138 - Concorso del 17 Novembre 2009
+Numeri: 16 25 28 30 39 51
+Jolly: 9
+SuperStar: 51
+--------------------------------------
+NÂº 139 - Concorso del 19 Novembre 2009
+Numeri: 1 35 42 55 57 62
+Jolly: 87
+SuperStar: 14
+--------------------------------------
+NÂº 140 - Concorso del 21 Novembre 2009
+Numeri: 36 37 50 57 73 83
+Jolly: 69
+SuperStar: 19
+--------------------------------------
+NÂº 141 - Concorso del 24 Novembre 2009
+Numeri: 19 47 69 71 86 87
+Jolly: 17
+SuperStar: 49
+--------------------------------------
+NÂº 142 - Concorso del 26 Novembre 2009
+Numeri: 26 31 32 50 61 77
+Jolly: 55
+SuperStar: 51
+--------------------------------------
+NÂº 143 - Concorso del 28 Novembre 2009
+Numeri: 3 42 52 67 78 86
+Jolly: 57
+SuperStar: 44
+--------------------------------------
+NÂº 144 - Concorso del 1 Dicembre 2009
+Numeri: 21 25 36 51 82 90
+Jolly: 61
+SuperStar: 66
+--------------------------------------
+NÂº 145 - Concorso del 3 Dicembre 2009
+Numeri: 19 30 34 49 54 74
+Jolly: 2
+SuperStar: 16
+--------------------------------------
+NÂº 146 - Concorso del 5 Dicembre 2009
+Numeri: 20 63 66 74 75 77
+Jolly: 88
+SuperStar: 58
+--------------------------------------
+NÂº 147 - Concorso del 9 Dicembre 2009
+Numeri: 9 30 50 57 62 70
+Jolly: 31
+SuperStar: 41
+--------------------------------------
+NÂº 148 - Concorso del 10 Dicembre 2009
+Numeri: 33 36 39 50 65 70
+Jolly: 55
+SuperStar: 5
+--------------------------------------
+NÂº 149 - Concorso del 12 Dicembre 2009
+Numeri: 10 16 40 55 66 77
+Jolly: 36
+SuperStar: 47
+--------------------------------------
+NÂº 150 - Concorso del 15 Dicembre 2009
+Numeri: 1 4 48 53 61 85
+Jolly: 82
+SuperStar: 84
+--------------------------------------
+NÂº 151 - Concorso del 17 Dicembre 2009
+Numeri: 1 23 32 53 66 83
+Jolly: 56
+SuperStar: 21
+--------------------------------------
+NÂº 152 - Concorso del 19 Dicembre 2009
+Numeri: 9 15 17 34 73 83
+Jolly: 67
+SuperStar: 15
+--------------------------------------
+NÂº 153 - Concorso del 22 Dicembre 2009
+Numeri: 6 13 17 52 64 82
+Jolly: 24
+SuperStar: 35
+--------------------------------------
+NÂº 154 - Concorso del 24 Dicembre 2009
+Numeri: 5 25 37 52 62 79
+Jolly: 11
+SuperStar: 77
+--------------------------------------
+NÂº 155 - Concorso del 28 Dicembre 2009
+Numeri: 34 36 61 62 78 88
+Jolly: 55
+SuperStar: 20
+--------------------------------------
+NÂº 156 - Concorso del 29 Dicembre 2009
+Numeri: 11 16 21 62 70 84
+Jolly: 24
+SuperStar: 4
+--------------------------------------
+NÂº 157 - Concorso del 31 Dicembre 2009
+Numeri: 40 41 45 51 52 79
+Jolly: 31
+SuperStar: 76
+--------------------------------------
+

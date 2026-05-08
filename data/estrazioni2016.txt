@@ -1,0 +1,786 @@
+﻿NÂº 1 - Concorso del 2 Gennaio 2016
+Numeri: 1 17 39 41 56 65
+Jolly: 18
+SuperStar: 42
+--------------------------------------
+NÂº 2 - Concorso del 5 Gennaio 2016
+Numeri: 7 20 40 56 60 90
+Jolly: 76
+SuperStar: 51
+--------------------------------------
+NÂº 3 - Concorso del 7 Gennaio 2016
+Numeri: 10 38 61 62 74 86
+Jolly: 69
+SuperStar: 70
+--------------------------------------
+NÂº 4 - Concorso del 9 Gennaio 2016
+Numeri: 20 26 36 50 51 74
+Jolly: 83
+SuperStar: 60
+--------------------------------------
+NÂº 5 - Concorso del 12 Gennaio 2016
+Numeri: 3 9 28 42 50 79
+Jolly: 87
+SuperStar: 27
+--------------------------------------
+NÂº 6 - Concorso del 14 Gennaio 2016
+Numeri: 5 8 17 41 46 87
+Jolly: 30
+SuperStar: 57
+--------------------------------------
+NÂº 7 - Concorso del 16 Gennaio 2016
+Numeri: 11 17 48 52 70 90
+Jolly: 29
+SuperStar: 43
+--------------------------------------
+NÂº 8 - Concorso del 19 Gennaio 2016
+Numeri: 13 18 35 43 51 66
+Jolly: 72
+SuperStar: 27
+--------------------------------------
+NÂº 9 - Concorso del 21 Gennaio 2016
+Numeri: 2 12 32 57 61 81
+Jolly: 54
+SuperStar: 75
+--------------------------------------
+NÂº 10 - Concorso del 23 Gennaio 2016
+Numeri: 4 5 8 14 32 49
+Jolly: 18
+SuperStar: 1
+--------------------------------------
+NÂº 11 - Concorso del 26 Gennaio 2016
+Numeri: 24 45 50 60 63 87
+Jolly: 71
+SuperStar: 80
+--------------------------------------
+NÂº 12 - Concorso del 28 Gennaio 2016
+Numeri: 2 6 15 39 80 83
+Jolly: 47
+SuperStar: 48
+--------------------------------------
+NÂº 13 - Concorso del 30 Gennaio 2016
+Numeri: 13 24 51 68 77 81
+Jolly: 76
+SuperStar: 69
+--------------------------------------
+NÂº 14 - Concorso del 2 Febbraio 2016
+Numeri: 19 38 40 56 65 80
+Jolly: 35
+SuperStar: 1
+--------------------------------------
+NÂº 15 - Concorso del 4 Febbraio 2016
+Numeri: 7 21 31 39 46 69
+Jolly: 77
+SuperStar: 50
+--------------------------------------
+NÂº 16 - Concorso del 6 Febbraio 2016
+Numeri: 10 24 36 63 77 89
+Jolly: 81
+SuperStar: 39
+--------------------------------------
+NÂº 17 - Concorso del 9 Febbraio 2016
+Numeri: 11 26 46 56 58 78
+Jolly: 60
+SuperStar: 71
+--------------------------------------
+NÂº 18 - Concorso del 11 Febbraio 2016
+Numeri: 17 27 45 53 71 74
+Jolly: 21
+SuperStar: 59
+--------------------------------------
+NÂº 19 - Concorso del 13 Febbraio 2016
+Numeri: 2 30 49 66 74 80
+Jolly: 33
+SuperStar: 29
+--------------------------------------
+NÂº 20 - Concorso del 16 Febbraio 2016
+Numeri: 2 10 27 34 38 40
+Jolly: 72
+SuperStar: 46
+--------------------------------------
+NÂº 21 - Concorso del 18 Febbraio 2016
+Numeri: 12 26 30 51 57 89
+Jolly: 54
+SuperStar: 53
+--------------------------------------
+NÂº 22 - Concorso del 20 Febbraio 2016
+Numeri: 29 32 33 49 54 85
+Jolly: 16
+SuperStar: 44
+--------------------------------------
+NÂº 23 - Concorso del 23 Febbraio 2016
+Numeri: 2 14 58 74 80 82
+Jolly: 86
+SuperStar: 10
+--------------------------------------
+NÂº 24 - Concorso del 25 Febbraio 2016
+Numeri: 14 33 52 67 71 81
+Jolly: 80
+SuperStar: 35
+--------------------------------------
+NÂº 25 - Concorso del 27 Febbraio 2016
+Numeri: 19 22 28 48 49 85
+Jolly: 78
+SuperStar: 52
+--------------------------------------
+NÂº 26 - Concorso del 1 Marzo 2016
+Numeri: 15 20 25 30 45 55
+Jolly: 73
+SuperStar: 24
+--------------------------------------
+NÂº 27 - Concorso del 3 Marzo 2016
+Numeri: 8 16 29 49 56 62
+Jolly: 44
+SuperStar: 13
+--------------------------------------
+NÂº 28 - Concorso del 5 Marzo 2016
+Numeri: 6 8 68 77 80 86
+Jolly: 27
+SuperStar: 39
+--------------------------------------
+NÂº 29 - Concorso del 8 Marzo 2016
+Numeri: 8 27 32 51 52 89
+Jolly: 49
+SuperStar: 24
+--------------------------------------
+NÂº 30 - Concorso del 10 Marzo 2016
+Numeri: 9 16 18 22 65 71
+Jolly: 84
+SuperStar: 50
+--------------------------------------
+NÂº 31 - Concorso del 12 Marzo 2016
+Numeri: 29 37 52 67 80 82
+Jolly: 68
+SuperStar: 81
+--------------------------------------
+NÂº 32 - Concorso del 15 Marzo 2016
+Numeri: 2 4 17 19 38 56
+Jolly: 80
+SuperStar: 23
+--------------------------------------
+NÂº 33 - Concorso del 17 Marzo 2016
+Numeri: 1 12 65 67 76 86
+Jolly: 89
+SuperStar: 8
+--------------------------------------
+NÂº 34 - Concorso del 19 Marzo 2016
+Numeri: 18 41 51 56 72 76
+Jolly: 68
+SuperStar: 61
+--------------------------------------
+NÂº 35 - Concorso del 22 Marzo 2016
+Numeri: 17 31 32 43 59 71
+Jolly: 2
+SuperStar: 50
+--------------------------------------
+NÂº 36 - Concorso del 24 Marzo 2016
+Numeri: 14 24 26 57 67 89
+Jolly: 28
+SuperStar: 5
+--------------------------------------
+NÂº 37 - Concorso del 26 Marzo 2016
+Numeri: 28 43 67 68 72 79
+Jolly: 18
+SuperStar: 60
+--------------------------------------
+NÂº 38 - Concorso del 29 Marzo 2016
+Numeri: 29 55 65 71 73 77
+Jolly: 5
+SuperStar: 2
+--------------------------------------
+NÂº 39 - Concorso del 31 Marzo 2016
+Numeri: 17 28 63 78 84 88
+Jolly: 34
+SuperStar: 39
+--------------------------------------
+NÂº 40 - Concorso del 2 Aprile 2016
+Numeri: 2 24 65 75 81 88
+Jolly: 6
+SuperStar: 79
+--------------------------------------
+NÂº 41 - Concorso del 5 Aprile 2016
+Numeri: 12 23 28 32 42 85
+Jolly: 31
+SuperStar: 62
+--------------------------------------
+NÂº 42 - Concorso del 7 Aprile 2016
+Numeri: 38 42 45 59 66 87
+Jolly: 5
+SuperStar: 26
+--------------------------------------
+NÂº 43 - Concorso del 9 Aprile 2016
+Numeri: 2 5 12 33 54 59
+Jolly: 18
+SuperStar: 89
+--------------------------------------
+NÂº 44 - Concorso del 12 Aprile 2016
+Numeri: 34 50 55 72 79 89
+Jolly: 1
+SuperStar: 3
+--------------------------------------
+NÂº 45 - Concorso del 14 Aprile 2016
+Numeri: 1 2 6 42 67 83
+Jolly: 80
+SuperStar: 11
+--------------------------------------
+NÂº 46 - Concorso del 16 Aprile 2016
+Numeri: 8 12 23 58 86 89
+Jolly: 62
+SuperStar: 36
+--------------------------------------
+NÂº 47 - Concorso del 19 Aprile 2016
+Numeri: 14 30 61 86 88 90
+Jolly: 89
+SuperStar: 60
+--------------------------------------
+NÂº 48 - Concorso del 21 Aprile 2016
+Numeri: 1 15 30 50 54 62
+Jolly: 71
+SuperStar: 82
+--------------------------------------
+NÂº 49 - Concorso del 23 Aprile 2016
+Numeri: 10 11 15 33 79 83
+Jolly: 27
+SuperStar: 27
+--------------------------------------
+NÂº 50 - Concorso del 26 Aprile 2016
+Numeri: 38 49 51 59 77 90
+Jolly: 35
+SuperStar: 10
+--------------------------------------
+NÂº 51 - Concorso del 28 Aprile 2016
+Numeri: 10 11 24 30 48 63
+Jolly: 7
+SuperStar: 41
+--------------------------------------
+NÂº 52 - Concorso del 30 Aprile 2016
+Numeri: 22 38 47 51 61 85
+Jolly: 87
+SuperStar: 48
+--------------------------------------
+NÂº 53 - Concorso del 3 Maggio 2016
+Numeri: 14 29 58 72 75 85
+Jolly: 71
+SuperStar: 77
+--------------------------------------
+NÂº 54 - Concorso del 5 Maggio 2016
+Numeri: 7 20 25 32 75 90
+Jolly: 12
+SuperStar: 84
+--------------------------------------
+NÂº 55 - Concorso del 7 Maggio 2016
+Numeri: 3 32 34 36 82 87
+Jolly: 12
+SuperStar: 1
+--------------------------------------
+NÂº 56 - Concorso del 10 Maggio 2016
+Numeri: 25 26 49 54 55 66
+Jolly: 16
+SuperStar: 50
+--------------------------------------
+NÂº 57 - Concorso del 12 Maggio 2016
+Numeri: 10 25 52 54 59 84
+Jolly: 42
+SuperStar: 52
+--------------------------------------
+NÂº 58 - Concorso del 14 Maggio 2016
+Numeri: 11 19 56 72 73 75
+Jolly: 90
+SuperStar: 68
+--------------------------------------
+NÂº 59 - Concorso del 17 Maggio 2016
+Numeri: 1 10 19 44 68 74
+Jolly: 56
+SuperStar: 81
+--------------------------------------
+NÂº 60 - Concorso del 19 Maggio 2016
+Numeri: 15 39 54 62 71 74
+Jolly: 60
+SuperStar: 30
+--------------------------------------
+NÂº 61 - Concorso del 21 Maggio 2016
+Numeri: 9 11 20 35 66 68
+Jolly: 90
+SuperStar: 68
+--------------------------------------
+NÂº 62 - Concorso del 24 Maggio 2016
+Numeri: 14 16 45 47 48 86
+Jolly: 23
+SuperStar: 45
+--------------------------------------
+NÂº 63 - Concorso del 26 Maggio 2016
+Numeri: 1 32 34 58 64 86
+Jolly: 52
+SuperStar: 58
+--------------------------------------
+NÂº 64 - Concorso del 28 Maggio 2016
+Numeri: 3 5 12 17 44 51
+Jolly: 18
+SuperStar: 39
+--------------------------------------
+NÂº 65 - Concorso del 31 Maggio 2016
+Numeri: 8 18 33 41 62 71
+Jolly: 1
+SuperStar: 42
+--------------------------------------
+NÂº 66 - Concorso del 4 Giugno 2016
+Numeri: 8 10 18 64 85 87
+Jolly: 3
+SuperStar: 40
+--------------------------------------
+NÂº 67 - Concorso del 6 Giugno 2016
+Numeri: 3 54 56 57 75 90
+Jolly: 1
+SuperStar: 62
+--------------------------------------
+NÂº 68 - Concorso del 7 Giugno 2016
+Numeri: 24 29 45 63 65 70
+Jolly: 8
+SuperStar: 59
+--------------------------------------
+NÂº 69 - Concorso del 9 Giugno 2016
+Numeri: 9 14 61 76 80 83
+Jolly: 44
+SuperStar: 52
+--------------------------------------
+NÂº 70 - Concorso del 11 Giugno 2016
+Numeri: 27 30 34 40 52 68
+Jolly: 50
+SuperStar: 51
+--------------------------------------
+NÂº 71 - Concorso del 14 Giugno 2016
+Numeri: 25 31 33 42 58 86
+Jolly: 3
+SuperStar: 43
+--------------------------------------
+NÂº 72 - Concorso del 16 Giugno 2016
+Numeri: 18 19 29 47 59 68
+Jolly: 21
+SuperStar: 53
+--------------------------------------
+NÂº 73 - Concorso del 18 Giugno 2016
+Numeri: 24 25 45 51 52 63
+Jolly: 19
+SuperStar: 5
+--------------------------------------
+NÂº 74 - Concorso del 21 Giugno 2016
+Numeri: 4 30 31 45 49 85
+Jolly: 11
+SuperStar: 67
+--------------------------------------
+NÂº 75 - Concorso del 23 Giugno 2016
+Numeri: 17 18 25 43 66 87
+Jolly: 1
+SuperStar: 57
+--------------------------------------
+NÂº 76 - Concorso del 25 Giugno 2016
+Numeri: 11 14 44 54 85 87
+Jolly: 35
+SuperStar: 46
+--------------------------------------
+NÂº 77 - Concorso del 28 Giugno 2016
+Numeri: 5 23 44 59 60 83
+Jolly: 50
+SuperStar: 42
+--------------------------------------
+NÂº 78 - Concorso del 30 Giugno 2016
+Numeri: 30 31 32 34 50 51
+Jolly: 75
+SuperStar: 24
+--------------------------------------
+NÂº 79 - Concorso del 2 Luglio 2016
+Numeri: 8 9 22 43 50 56
+Jolly: 20
+SuperStar: 39
+--------------------------------------
+NÂº 80 - Concorso del 5 Luglio 2016
+Numeri: 22 26 43 50 59 65
+Jolly: 20
+SuperStar: 35
+--------------------------------------
+NÂº 81 - Concorso del 7 Luglio 2016
+Numeri: 1 4 32 59 70 86
+Jolly: 89
+SuperStar: 40
+--------------------------------------
+NÂº 82 - Concorso del 9 Luglio 2016
+Numeri: 12 34 44 45 53 68
+Jolly: 81
+SuperStar: 82
+--------------------------------------
+NÂº 83 - Concorso del 12 Luglio 2016
+Numeri: 1 41 59 63 81 85
+Jolly: 74
+SuperStar: 30
+--------------------------------------
+NÂº 84 - Concorso del 14 Luglio 2016
+Numeri: 38 56 61 67 72 82
+Jolly: 87
+SuperStar: 60
+--------------------------------------
+NÂº 85 - Concorso del 16 Luglio 2016
+Numeri: 26 37 43 67 75 78
+Jolly: 10
+SuperStar: 67
+--------------------------------------
+NÂº 86 - Concorso del 19 Luglio 2016
+Numeri: 4 10 28 29 48 52
+Jolly: 3
+SuperStar: 80
+--------------------------------------
+NÂº 87 - Concorso del 21 Luglio 2016
+Numeri: 19 27 35 56 60 89
+Jolly: 47
+SuperStar: 45
+--------------------------------------
+NÂº 88 - Concorso del 23 Luglio 2016
+Numeri: 1 30 42 61 76 88
+Jolly: 71
+SuperStar: 52
+--------------------------------------
+NÂº 89 - Concorso del 26 Luglio 2016
+Numeri: 4 13 15 18 72 76
+Jolly: 69
+SuperStar: 8
+--------------------------------------
+NÂº 90 - Concorso del 28 Luglio 2016
+Numeri: 29 37 38 61 63 85
+Jolly: 59
+SuperStar: 48
+--------------------------------------
+NÂº 91 - Concorso del 30 Luglio 2016
+Numeri: 15 22 26 45 48 82
+Jolly: 64
+SuperStar: 70
+--------------------------------------
+NÂº 92 - Concorso del 2 Agosto 2016
+Numeri: 34 54 57 84 89 90
+Jolly: 44
+SuperStar: 48
+--------------------------------------
+NÂº 93 - Concorso del 4 Agosto 2016
+Numeri: 25 37 40 61 65 77
+Jolly: 23
+SuperStar: 32
+--------------------------------------
+NÂº 94 - Concorso del 6 Agosto 2016
+Numeri: 23 34 58 61 71 77
+Jolly: 53
+SuperStar: 18
+--------------------------------------
+NÂº 95 - Concorso del 9 Agosto 2016
+Numeri: 12 27 34 76 77 85
+Jolly: 78
+SuperStar: 52
+--------------------------------------
+NÂº 96 - Concorso del 11 Agosto 2016
+Numeri: 31 65 78 85 89 90
+Jolly: 34
+SuperStar: 80
+--------------------------------------
+NÂº 97 - Concorso del 13 Agosto 2016
+Numeri: 2 25 43 72 87 89
+Jolly: 74
+SuperStar: 47
+--------------------------------------
+NÂº 98 - Concorso del 16 Agosto 2016
+Numeri: 9 12 18 63 64 73
+Jolly: 88
+SuperStar: 76
+--------------------------------------
+NÂº 99 - Concorso del 18 Agosto 2016
+Numeri: 8 39 59 65 82 83
+Jolly: 41
+SuperStar: 60
+--------------------------------------
+NÂº 100 - Concorso del 20 Agosto 2016
+Numeri: 10 29 35 44 49 65
+Jolly: 50
+SuperStar: 57
+--------------------------------------
+NÂº 101 - Concorso del 23 Agosto 2016
+Numeri: 4 28 48 67 68 84
+Jolly: 2
+SuperStar: 23
+--------------------------------------
+NÂº 102 - Concorso del 25 Agosto 2016
+Numeri: 16 28 40 43 57 61
+Jolly: 8
+SuperStar: 5
+--------------------------------------
+NÂº 103 - Concorso del 27 Agosto 2016
+Numeri: 1 32 37 54 66 81
+Jolly: 90
+SuperStar: 47
+--------------------------------------
+NÂº 104 - Concorso del 30 Agosto 2016
+Numeri: 6 9 17 47 66 86
+Jolly: 21
+SuperStar: 49
+--------------------------------------
+NÂº 105 - Concorso del 1 Settembre 2016
+Numeri: 4 18 43 60 69 85
+Jolly: 87
+SuperStar: 63
+--------------------------------------
+NÂº 106 - Concorso del 3 Settembre 2016
+Numeri: 4 29 35 46 82 85
+Jolly: 13
+SuperStar: 41
+--------------------------------------
+NÂº 107 - Concorso del 6 Settembre 2016
+Numeri: 7 30 34 61 84 88
+Jolly: 25
+SuperStar: 27
+--------------------------------------
+NÂº 108 - Concorso del 8 Settembre 2016
+Numeri: 6 12 47 51 60 79
+Jolly: 54
+SuperStar: 67
+--------------------------------------
+NÂº 109 - Concorso del 10 Settembre 2016
+Numeri: 9 13 16 49 64 65
+Jolly: 58
+SuperStar: 81
+--------------------------------------
+NÂº 110 - Concorso del 13 Settembre 2016
+Numeri: 9 22 48 66 68 83
+Jolly: 62
+SuperStar: 48
+--------------------------------------
+NÂº 111 - Concorso del 15 Settembre 2016
+Numeri: 14 18 30 48 53 86
+Jolly: 71
+SuperStar: 31
+--------------------------------------
+NÂº 112 - Concorso del 17 Settembre 2016
+Numeri: 2 4 10 59 68 88
+Jolly: 58
+SuperStar: 31
+--------------------------------------
+NÂº 113 - Concorso del 20 Settembre 2016
+Numeri: 45 46 48 52 77 78
+Jolly: 21
+SuperStar: 36
+--------------------------------------
+NÂº 114 - Concorso del 22 Settembre 2016
+Numeri: 4 11 34 49 55 83
+Jolly: 85
+SuperStar: 14
+--------------------------------------
+NÂº 115 - Concorso del 24 Settembre 2016
+Numeri: 3 16 22 31 45 56
+Jolly: 37
+SuperStar: 12
+--------------------------------------
+NÂº 116 - Concorso del 27 Settembre 2016
+Numeri: 36 41 55 81 83 85
+Jolly: 51
+SuperStar: 7
+--------------------------------------
+NÂº 117 - Concorso del 29 Settembre 2016
+Numeri: 11 40 41 44 67 70
+Jolly: 68
+SuperStar: 90
+--------------------------------------
+NÂº 118 - Concorso del 1 Ottobre 2016
+Numeri: 18 19 57 74 80 82
+Jolly: 29
+SuperStar: 89
+--------------------------------------
+NÂº 119 - Concorso del 4 Ottobre 2016
+Numeri: 47 49 67 80 84 85
+Jolly: 21
+SuperStar: 26
+--------------------------------------
+NÂº 120 - Concorso del 6 Ottobre 2016
+Numeri: 2 12 26 52 59 80
+Jolly: 16
+SuperStar: 4
+--------------------------------------
+NÂº 121 - Concorso del 8 Ottobre 2016
+Numeri: 18 25 37 47 62 87
+Jolly: 74
+SuperStar: 51
+--------------------------------------
+NÂº 122 - Concorso del 11 Ottobre 2016
+Numeri: 11 12 17 53 71 76
+Jolly: 90
+SuperStar: 62
+--------------------------------------
+NÂº 123 - Concorso del 13 Ottobre 2016
+Numeri: 4 34 39 60 61 77
+Jolly: 85
+SuperStar: 58
+--------------------------------------
+NÂº 124 - Concorso del 15 Ottobre 2016
+Numeri: 4 7 36 72 78 81
+Jolly: 20
+SuperStar: 40
+--------------------------------------
+NÂº 125 - Concorso del 18 Ottobre 2016
+Numeri: 24 44 48 61 73 87
+Jolly: 88
+SuperStar: 24
+--------------------------------------
+NÂº 126 - Concorso del 20 Ottobre 2016
+Numeri: 2 43 65 66 67 90
+Jolly: 44
+SuperStar: 27
+--------------------------------------
+NÂº 127 - Concorso del 22 Ottobre 2016
+Numeri: 1 6 45 48 64 78
+Jolly: 33
+SuperStar: 32
+--------------------------------------
+NÂº 128 - Concorso del 25 Ottobre 2016
+Numeri: 4 40 54 65 83 85
+Jolly: 73
+SuperStar: 82
+--------------------------------------
+NÂº 129 - Concorso del 27 Ottobre 2016
+Numeri: 3 12 23 71 76 83
+Jolly: 56
+SuperStar: 35
+--------------------------------------
+NÂº 130 - Concorso del 29 Ottobre 2016
+Numeri: 1 7 13 17 40 49
+Jolly: 80
+SuperStar: 46
+--------------------------------------
+NÂº 131 - Concorso del 31 Ottobre 2016
+Numeri: 3 14 18 25 47 75
+Jolly: 72
+SuperStar: 13
+--------------------------------------
+NÂº 132 - Concorso del 3 Novembre 2016
+Numeri: 21 35 56 66 68 79
+Jolly: 15
+SuperStar: 77
+--------------------------------------
+NÂº 133 - Concorso del 5 Novembre 2016
+Numeri: 21 22 26 35 47 85
+Jolly: 18
+SuperStar: 83
+--------------------------------------
+NÂº 134 - Concorso del 8 Novembre 2016
+Numeri: 31 32 60 75 81 84
+Jolly: 62
+SuperStar: 24
+--------------------------------------
+NÂº 135 - Concorso del 10 Novembre 2016
+Numeri: 26 41 50 55 69 86
+Jolly: 47
+SuperStar: 50
+--------------------------------------
+NÂº 136 - Concorso del 12 Novembre 2016
+Numeri: 9 12 20 22 75 90
+Jolly: 77
+SuperStar: 44
+--------------------------------------
+NÂº 137 - Concorso del 15 Novembre 2016
+Numeri: 9 18 25 31 78 81
+Jolly: 33
+SuperStar: 85
+--------------------------------------
+NÂº 138 - Concorso del 17 Novembre 2016
+Numeri: 2 20 23 41 44 59
+Jolly: 29
+SuperStar: 38
+--------------------------------------
+NÂº 139 - Concorso del 19 Novembre 2016
+Numeri: 28 29 37 43 51 78
+Jolly: 90
+SuperStar: 44
+--------------------------------------
+NÂº 140 - Concorso del 22 Novembre 2016
+Numeri: 8 21 44 77 80 86
+Jolly: 62
+SuperStar: 51
+--------------------------------------
+NÂº 141 - Concorso del 24 Novembre 2016
+Numeri: 53 68 75 79 82 84
+Jolly: 42
+SuperStar: 27
+--------------------------------------
+NÂº 142 - Concorso del 26 Novembre 2016
+Numeri: 41 42 44 47 68 69
+Jolly: 80
+SuperStar: 5
+--------------------------------------
+NÂº 143 - Concorso del 29 Novembre 2016
+Numeri: 5 24 35 49 62 77
+Jolly: 90
+SuperStar: 81
+--------------------------------------
+NÂº 144 - Concorso del 1 Dicembre 2016
+Numeri: 11 20 31 56 63 72
+Jolly: 28
+SuperStar: 48
+--------------------------------------
+NÂº 145 - Concorso del 3 Dicembre 2016
+Numeri: 2 10 15 26 68 71
+Jolly: 64
+SuperStar: 47
+--------------------------------------
+NÂº 146 - Concorso del 6 Dicembre 2016
+Numeri: 24 51 56 64 65 73
+Jolly: 34
+SuperStar: 1
+--------------------------------------
+NÂº 147 - Concorso del 10 Dicembre 2016
+Numeri: 54 65 66 68 70 85
+Jolly: 52
+SuperStar: 29
+--------------------------------------
+NÂº 148 - Concorso del 12 Dicembre 2016
+Numeri: 6 39 52 65 68 86
+Jolly: 30
+SuperStar: 66
+--------------------------------------
+NÂº 149 - Concorso del 13 Dicembre 2016
+Numeri: 17 21 35 48 60 76
+Jolly: 23
+SuperStar: 80
+--------------------------------------
+NÂº 150 - Concorso del 15 Dicembre 2016
+Numeri: 9 30 31 53 67 86
+Jolly: 42
+SuperStar: 74
+--------------------------------------
+NÂº 151 - Concorso del 17 Dicembre 2016
+Numeri: 7 15 31 39 41 45
+Jolly: 50
+SuperStar: 14
+--------------------------------------
+NÂº 152 - Concorso del 20 Dicembre 2016
+Numeri: 10 11 29 47 58 73
+Jolly: 43
+SuperStar: 69
+--------------------------------------
+NÂº 153 - Concorso del 22 Dicembre 2016
+Numeri: 14 23 24 44 77 86
+Jolly: 74
+SuperStar: 56
+--------------------------------------
+NÂº 154 - Concorso del 24 Dicembre 2016
+Numeri: 1 19 21 32 48 86
+Jolly: 3
+SuperStar: 5
+--------------------------------------
+NÂº 155 - Concorso del 27 Dicembre 2016
+Numeri: 13 25 30 57 58 64
+Jolly: 14
+SuperStar: 75
+--------------------------------------
+NÂº 156 - Concorso del 29 Dicembre 2016
+Numeri: 31 33 38 58 76 85
+Jolly: 25
+SuperStar: 37
+--------------------------------------
+NÂº 157 - Concorso del 31 Dicembre 2016
+Numeri: 12 14 18 22 28 33
+Jolly: 66
+SuperStar: 16
+--------------------------------------
+

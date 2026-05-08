@@ -1,0 +1,781 @@
+﻿NÂº 1 - Concorso del 2 Gennaio 2010
+Numeri: 10 23 47 63 70 81
+Jolly: 19
+SuperStar: 51
+--------------------------------------
+NÂº 2 - Concorso del 5 Gennaio 2010
+Numeri: 44 48 49 68 86 87
+Jolly: 62
+SuperStar: 84
+--------------------------------------
+NÂº 3 - Concorso del 7 Gennaio 2010
+Numeri: 13 24 26 34 76 77
+Jolly: 80
+SuperStar: 75
+--------------------------------------
+NÂº 4 - Concorso del 9 Gennaio 2010
+Numeri: 1 30 32 45 69 83
+Jolly: 49
+SuperStar: 89
+--------------------------------------
+NÂº 5 - Concorso del 12 Gennaio 2010
+Numeri: 26 27 39 55 59 63
+Jolly: 71
+SuperStar: 57
+--------------------------------------
+NÂº 6 - Concorso del 14 Gennaio 2010
+Numeri: 4 24 47 66 74 77
+Jolly: 81
+SuperStar: 50
+--------------------------------------
+NÂº 7 - Concorso del 16 Gennaio 2010
+Numeri: 14 18 32 33 46 88
+Jolly: 35
+SuperStar: 62
+--------------------------------------
+NÂº 8 - Concorso del 19 Gennaio 2010
+Numeri: 5 18 55 59 65 74
+Jolly: 53
+SuperStar: 20
+--------------------------------------
+NÂº 9 - Concorso del 21 Gennaio 2010
+Numeri: 11 21 53 62 63 68
+Jolly: 10
+SuperStar: 85
+--------------------------------------
+NÂº 10 - Concorso del 23 Gennaio 2010
+Numeri: 2 23 24 70 81 90
+Jolly: 35
+SuperStar: 27
+--------------------------------------
+NÂº 11 - Concorso del 26 Gennaio 2010
+Numeri: 6 15 18 23 53 62
+Jolly: 80
+SuperStar: 74
+--------------------------------------
+NÂº 12 - Concorso del 28 Gennaio 2010
+Numeri: 21 23 25 27 36 84
+Jolly: 80
+SuperStar: 80
+--------------------------------------
+NÂº 13 - Concorso del 30 Gennaio 2010
+Numeri: 4 17 52 55 56 67
+Jolly: 26
+SuperStar: 13
+--------------------------------------
+NÂº 14 - Concorso del 2 Febbraio 2010
+Numeri: 8 26 32 40 62 88
+Jolly: 87
+SuperStar: 18
+--------------------------------------
+NÂº 15 - Concorso del 4 Febbraio 2010
+Numeri: 11 25 36 49 53 85
+Jolly: 55
+SuperStar: 49
+--------------------------------------
+NÂº 16 - Concorso del 6 Febbraio 2010
+Numeri: 24 40 43 51 53 88
+Jolly: 31
+SuperStar: 68
+--------------------------------------
+NÂº 17 - Concorso del 9 Febbraio 2010
+Numeri: 20 22 24 40 51 80
+Jolly: 60
+SuperStar: 82
+--------------------------------------
+NÂº 18 - Concorso del 11 Febbraio 2010
+Numeri: 4 19 32 58 73 87
+Jolly: 29
+SuperStar: 35
+--------------------------------------
+NÂº 19 - Concorso del 13 Febbraio 2010
+Numeri: 1 14 26 49 71 89
+Jolly: 40
+SuperStar: 4
+--------------------------------------
+NÂº 20 - Concorso del 16 Febbraio 2010
+Numeri: 46 48 63 68 83 85
+Jolly: 13
+SuperStar: 29
+--------------------------------------
+NÂº 21 - Concorso del 18 Febbraio 2010
+Numeri: 7 34 49 51 58 86
+Jolly: 69
+SuperStar: 83
+--------------------------------------
+NÂº 22 - Concorso del 20 Febbraio 2010
+Numeri: 19 26 63 67 68 83
+Jolly: 6
+SuperStar: 5
+--------------------------------------
+NÂº 23 - Concorso del 23 Febbraio 2010
+Numeri: 12 30 35 44 49 62
+Jolly: 22
+SuperStar: 30
+--------------------------------------
+NÂº 24 - Concorso del 25 Febbraio 2010
+Numeri: 1 64 67 68 79 90
+Jolly: 59
+SuperStar: 25
+--------------------------------------
+NÂº 25 - Concorso del 27 Febbraio 2010
+Numeri: 13 43 47 55 67 70
+Jolly: 82
+SuperStar: 71
+--------------------------------------
+NÂº 26 - Concorso del 2 Marzo 2010
+Numeri: 4 5 18 35 40 90
+Jolly: 38
+SuperStar: 18
+--------------------------------------
+NÂº 27 - Concorso del 4 Marzo 2010
+Numeri: 17 24 34 48 61 87
+Jolly: 39
+SuperStar: 75
+--------------------------------------
+NÂº 28 - Concorso del 6 Marzo 2010
+Numeri: 16 21 30 35 57 78
+Jolly: 36
+SuperStar: 38
+--------------------------------------
+NÂº 29 - Concorso del 9 Marzo 2010
+Numeri: 26 28 48 52 55 90
+Jolly: 64
+SuperStar: 49
+--------------------------------------
+NÂº 30 - Concorso del 11 Marzo 2010
+Numeri: 7 8 25 46 65 78
+Jolly: 74
+SuperStar: 45
+--------------------------------------
+NÂº 31 - Concorso del 13 Marzo 2010
+Numeri: 8 9 11 14 79 90
+Jolly: 82
+SuperStar: 90
+--------------------------------------
+NÂº 32 - Concorso del 16 Marzo 2010
+Numeri: 6 15 21 27 49 85
+Jolly: 66
+SuperStar: 81
+--------------------------------------
+NÂº 33 - Concorso del 18 Marzo 2010
+Numeri: 4 5 29 58 71 84
+Jolly: 49
+SuperStar: 35
+--------------------------------------
+NÂº 34 - Concorso del 20 Marzo 2010
+Numeri: 4 18 26 47 61 80
+Jolly: 35
+SuperStar: 15
+--------------------------------------
+NÂº 35 - Concorso del 23 Marzo 2010
+Numeri: 20 29 44 54 64 69
+Jolly: 23
+SuperStar: 59
+--------------------------------------
+NÂº 36 - Concorso del 25 Marzo 2010
+Numeri: 6 50 67 69 77 88
+Jolly: 32
+SuperStar: 75
+--------------------------------------
+NÂº 37 - Concorso del 27 Marzo 2010
+Numeri: 44 45 58 65 66 85
+Jolly: 16
+SuperStar: 35
+--------------------------------------
+NÂº 38 - Concorso del 30 Marzo 2010
+Numeri: 8 30 64 69 80 88
+Jolly: 35
+SuperStar: 5
+--------------------------------------
+NÂº 39 - Concorso del 1 Aprile 2010
+Numeri: 23 25 37 38 50 86
+Jolly: 43
+SuperStar: 31
+--------------------------------------
+NÂº 40 - Concorso del 3 Aprile 2010
+Numeri: 2 16 19 47 49 57
+Jolly: 27
+SuperStar: 23
+--------------------------------------
+NÂº 41 - Concorso del 6 Aprile 2010
+Numeri: 1 30 67 68 71 80
+Jolly: 56
+SuperStar: 84
+--------------------------------------
+NÂº 42 - Concorso del 8 Aprile 2010
+Numeri: 7 29 36 50 56 75
+Jolly: 25
+SuperStar: 51
+--------------------------------------
+NÂº 43 - Concorso del 10 Aprile 2010
+Numeri: 6 31 58 64 74 82
+Jolly: 33
+SuperStar: 36
+--------------------------------------
+NÂº 44 - Concorso del 13 Aprile 2010
+Numeri: 33 42 46 55 69 90
+Jolly: 83
+SuperStar: 45
+--------------------------------------
+NÂº 45 - Concorso del 15 Aprile 2010
+Numeri: 34 37 38 39 59 90
+Jolly: 42
+SuperStar: 86
+--------------------------------------
+NÂº 46 - Concorso del 17 Aprile 2010
+Numeri: 30 54 66 67 76 90
+Jolly: 14
+SuperStar: 5
+--------------------------------------
+NÂº 47 - Concorso del 20 Aprile 2010
+Numeri: 4 14 40 41 54 79
+Jolly: 50
+SuperStar: 55
+--------------------------------------
+NÂº 48 - Concorso del 22 Aprile 2010
+Numeri: 6 25 29 44 68 74
+Jolly: 76
+SuperStar: 88
+--------------------------------------
+NÂº 49 - Concorso del 24 Aprile 2010
+Numeri: 6 7 45 46 67 85
+Jolly: 31
+SuperStar: 21
+--------------------------------------
+NÂº 50 - Concorso del 27 Aprile 2010
+Numeri: 4 26 28 59 61 68
+Jolly: 60
+SuperStar: 42
+--------------------------------------
+NÂº 51 - Concorso del 29 Aprile 2010
+Numeri: 31 38 49 54 62 76
+Jolly: 60
+SuperStar: 87
+--------------------------------------
+NÂº 52 - Concorso del 3 Maggio 2010
+Numeri: 19 33 45 55 82 84
+Jolly: 86
+SuperStar: 2
+--------------------------------------
+NÂº 53 - Concorso del 4 Maggio 2010
+Numeri: 5 15 23 39 43 49
+Jolly: 29
+SuperStar: 87
+--------------------------------------
+NÂº 54 - Concorso del 6 Maggio 2010
+Numeri: 2 4 25 34 61 66
+Jolly: 47
+SuperStar: 87
+--------------------------------------
+NÂº 55 - Concorso del 8 Maggio 2010
+Numeri: 18 26 45 67 70 90
+Jolly: 32
+SuperStar: 55
+--------------------------------------
+NÂº 56 - Concorso del 11 Maggio 2010
+Numeri: 13 28 39 45 68 81
+Jolly: 8
+SuperStar: 40
+--------------------------------------
+NÂº 57 - Concorso del 13 Maggio 2010
+Numeri: 19 29 37 46 64 75
+Jolly: 70
+SuperStar: 4
+--------------------------------------
+NÂº 58 - Concorso del 15 Maggio 2010
+Numeri: 22 32 34 70 78 90
+Jolly: 61
+SuperStar: 73
+--------------------------------------
+NÂº 59 - Concorso del 18 Maggio 2010
+Numeri: 50 55 57 62 78 83
+Jolly: 23
+SuperStar: 29
+--------------------------------------
+NÂº 60 - Concorso del 20 Maggio 2010
+Numeri: 19 38 48 54 71 84
+Jolly: 28
+SuperStar: 31
+--------------------------------------
+NÂº 61 - Concorso del 22 Maggio 2010
+Numeri: 31 32 57 59 78 79
+Jolly: 10
+SuperStar: 73
+--------------------------------------
+NÂº 62 - Concorso del 25 Maggio 2010
+Numeri: 6 34 43 60 71 73
+Jolly: 81
+SuperStar: 71
+--------------------------------------
+NÂº 63 - Concorso del 27 Maggio 2010
+Numeri: 9 39 49 64 65 72
+Jolly: 52
+SuperStar: 7
+--------------------------------------
+NÂº 64 - Concorso del 29 Maggio 2010
+Numeri: 22 68 75 83 85 89
+Jolly: 10
+SuperStar: 72
+--------------------------------------
+NÂº 65 - Concorso del 1 Giugno 2010
+Numeri: 3 15 46 67 75 78
+Jolly: 5
+SuperStar: 51
+--------------------------------------
+NÂº 66 - Concorso del 3 Giugno 2010
+Numeri: 30 38 46 47 62 67
+Jolly: 68
+SuperStar: 63
+--------------------------------------
+NÂº 67 - Concorso del 5 Giugno 2010
+Numeri: 1 6 13 24 46 89
+Jolly: 8
+SuperStar: 86
+--------------------------------------
+NÂº 68 - Concorso del 8 Giugno 2010
+Numeri: 24 33 54 69 79 86
+Jolly: 52
+SuperStar: 41
+--------------------------------------
+NÂº 69 - Concorso del 10 Giugno 2010
+Numeri: 16 19 48 51 65 85
+Jolly: 40
+SuperStar: 58
+--------------------------------------
+NÂº 70 - Concorso del 12 Giugno 2010
+Numeri: 16 27 43 46 62 85
+Jolly: 52
+SuperStar: 62
+--------------------------------------
+NÂº 71 - Concorso del 15 Giugno 2010
+Numeri: 48 54 64 75 79 87
+Jolly: 27
+SuperStar: 35
+--------------------------------------
+NÂº 72 - Concorso del 17 Giugno 2010
+Numeri: 20 46 50 52 69 86
+Jolly: 64
+SuperStar: 20
+--------------------------------------
+NÂº 73 - Concorso del 19 Giugno 2010
+Numeri: 3 8 10 22 32 50
+Jolly: 58
+SuperStar: 63
+--------------------------------------
+NÂº 74 - Concorso del 22 Giugno 2010
+Numeri: 9 19 54 73 83 90
+Jolly: 47
+SuperStar: 42
+--------------------------------------
+NÂº 75 - Concorso del 24 Giugno 2010
+Numeri: 12 18 49 51 66 69
+Jolly: 50
+SuperStar: 77
+--------------------------------------
+NÂº 76 - Concorso del 26 Giugno 2010
+Numeri: 9 28 33 38 50 55
+Jolly: 47
+SuperStar: 49
+--------------------------------------
+NÂº 77 - Concorso del 29 Giugno 2010
+Numeri: 1 13 18 41 68 84
+Jolly: 64
+SuperStar: 22
+--------------------------------------
+NÂº 78 - Concorso del 1 Luglio 2010
+Numeri: 1 14 38 77 80 89
+Jolly: 57
+SuperStar: 39
+--------------------------------------
+NÂº 79 - Concorso del 3 Luglio 2010
+Numeri: 14 18 48 52 64 75
+Jolly: 26
+SuperStar: 76
+--------------------------------------
+NÂº 80 - Concorso del 6 Luglio 2010
+Numeri: 9 34 57 72 84 88
+Jolly: 43
+SuperStar: 72
+--------------------------------------
+NÂº 81 - Concorso del 8 Luglio 2010
+Numeri: 23 25 43 50 51 61
+Jolly: 30
+SuperStar: 77
+--------------------------------------
+NÂº 82 - Concorso del 10 Luglio 2010
+Numeri: 10 25 34 79 85 86
+Jolly: 15
+SuperStar: 87
+--------------------------------------
+NÂº 83 - Concorso del 13 Luglio 2010
+Numeri: 9 20 33 48 55 84
+Jolly: 10
+SuperStar: 74
+--------------------------------------
+NÂº 84 - Concorso del 15 Luglio 2010
+Numeri: 4 5 11 15 20 46
+Jolly: 82
+SuperStar: 75
+--------------------------------------
+NÂº 85 - Concorso del 17 Luglio 2010
+Numeri: 1 9 32 56 71 79
+Jolly: 10
+SuperStar: 39
+--------------------------------------
+NÂº 86 - Concorso del 20 Luglio 2010
+Numeri: 19 33 45 50 54 86
+Jolly: 63
+SuperStar: 89
+--------------------------------------
+NÂº 87 - Concorso del 22 Luglio 2010
+Numeri: 30 37 41 45 47 57
+Jolly: 82
+SuperStar: 24
+--------------------------------------
+NÂº 88 - Concorso del 24 Luglio 2010
+Numeri: 37 47 51 54 78 82
+Jolly: 26
+SuperStar: 70
+--------------------------------------
+NÂº 89 - Concorso del 27 Luglio 2010
+Numeri: 37 47 69 75 86 88
+Jolly: 6
+SuperStar: 65
+--------------------------------------
+NÂº 90 - Concorso del 29 Luglio 2010
+Numeri: 6 7 11 19 34 49
+Jolly: 73
+SuperStar: 21
+--------------------------------------
+NÂº 91 - Concorso del 31 Luglio 2010
+Numeri: 14 15 16 27 56 57
+Jolly: 21
+SuperStar: 76
+--------------------------------------
+NÂº 92 - Concorso del 3 Agosto 2010
+Numeri: 8 38 48 66 70 86
+Jolly: 75
+SuperStar: 58
+--------------------------------------
+NÂº 93 - Concorso del 5 Agosto 2010
+Numeri: 11 17 47 57 79 86
+Jolly: 70
+SuperStar: 82
+--------------------------------------
+NÂº 94 - Concorso del 7 Agosto 2010
+Numeri: 1 7 19 65 67 74
+Jolly: 87
+SuperStar: 78
+--------------------------------------
+NÂº 95 - Concorso del 10 Agosto 2010
+Numeri: 1 10 17 31 58 80
+Jolly: 40
+SuperStar: 63
+--------------------------------------
+NÂº 96 - Concorso del 12 Agosto 2010
+Numeri: 2 40 47 54 66 83
+Jolly: 25
+SuperStar: 20
+--------------------------------------
+NÂº 97 - Concorso del 14 Agosto 2010
+Numeri: 6 10 69 78 83 86
+Jolly: 26
+SuperStar: 52
+--------------------------------------
+NÂº 98 - Concorso del 17 Agosto 2010
+Numeri: 4 19 52 67 82 90
+Jolly: 45
+SuperStar: 7
+--------------------------------------
+NÂº 99 - Concorso del 19 Agosto 2010
+Numeri: 9 17 37 51 70 78
+Jolly: 56
+SuperStar: 88
+--------------------------------------
+NÂº 100 - Concorso del 21 Agosto 2010
+Numeri: 14 59 64 75 80 83
+Jolly: 42
+SuperStar: 15
+--------------------------------------
+NÂº 101 - Concorso del 24 Agosto 2010
+Numeri: 50 53 66 69 70 90
+Jolly: 51
+SuperStar: 36
+--------------------------------------
+NÂº 102 - Concorso del 26 Agosto 2010
+Numeri: 13 28 36 45 59 65
+Jolly: 41
+SuperStar: 9
+--------------------------------------
+NÂº 103 - Concorso del 28 Agosto 2010
+Numeri: 6 11 13 48 72 77
+Jolly: 85
+SuperStar: 78
+--------------------------------------
+NÂº 104 - Concorso del 31 Agosto 2010
+Numeri: 10 21 35 40 63 79
+Jolly: 80
+SuperStar: 76
+--------------------------------------
+NÂº 105 - Concorso del 2 Settembre 2010
+Numeri: 18 30 40 64 88 89
+Jolly: 69
+SuperStar: 79
+--------------------------------------
+NÂº 106 - Concorso del 4 Settembre 2010
+Numeri: 13 54 56 67 82 90
+Jolly: 25
+SuperStar: 29
+--------------------------------------
+NÂº 107 - Concorso del 7 Settembre 2010
+Numeri: 3 7 48 67 87 90
+Jolly: 31
+SuperStar: 60
+--------------------------------------
+NÂº 108 - Concorso del 9 Settembre 2010
+Numeri: 8 26 32 44 82 86
+Jolly: 37
+SuperStar: 4
+--------------------------------------
+NÂº 109 - Concorso del 11 Settembre 2010
+Numeri: 10 16 36 70 71 73
+Jolly: 66
+SuperStar: 85
+--------------------------------------
+NÂº 110 - Concorso del 14 Settembre 2010
+Numeri: 6 29 54 62 72 80
+Jolly: 5
+SuperStar: 29
+--------------------------------------
+NÂº 111 - Concorso del 16 Settembre 2010
+Numeri: 5 49 71 83 85 88
+Jolly: 74
+SuperStar: 28
+--------------------------------------
+NÂº 112 - Concorso del 18 Settembre 2010
+Numeri: 4 23 24 35 77 79
+Jolly: 17
+SuperStar: 11
+--------------------------------------
+NÂº 113 - Concorso del 21 Settembre 2010
+Numeri: 46 49 61 69 74 82
+Jolly: 66
+SuperStar: 41
+--------------------------------------
+NÂº 114 - Concorso del 23 Settembre 2010
+Numeri: 25 32 64 74 85 90
+Jolly: 6
+SuperStar: 29
+--------------------------------------
+NÂº 115 - Concorso del 25 Settembre 2010
+Numeri: 13 16 45 58 63 72
+Jolly: 74
+SuperStar: 69
+--------------------------------------
+NÂº 116 - Concorso del 28 Settembre 2010
+Numeri: 18 20 46 54 57 65
+Jolly: 58
+SuperStar: 20
+--------------------------------------
+NÂº 117 - Concorso del 30 Settembre 2010
+Numeri: 6 24 55 67 70 75
+Jolly: 19
+SuperStar: 74
+--------------------------------------
+NÂº 118 - Concorso del 2 Ottobre 2010
+Numeri: 9 16 31 43 49 83
+Jolly: 61
+SuperStar: 10
+--------------------------------------
+NÂº 119 - Concorso del 5 Ottobre 2010
+Numeri: 17 38 42 50 68 86
+Jolly: 62
+SuperStar: 1
+--------------------------------------
+NÂº 120 - Concorso del 7 Ottobre 2010
+Numeri: 19 22 49 65 70 87
+Jolly: 60
+SuperStar: 61
+--------------------------------------
+NÂº 121 - Concorso del 9 Ottobre 2010
+Numeri: 24 30 42 54 84 85
+Jolly: 75
+SuperStar: 9
+--------------------------------------
+NÂº 122 - Concorso del 12 Ottobre 2010
+Numeri: 18 23 31 38 47 51
+Jolly: 35
+SuperStar: 88
+--------------------------------------
+NÂº 123 - Concorso del 14 Ottobre 2010
+Numeri: 9 15 19 38 48 77
+Jolly: 75
+SuperStar: 53
+--------------------------------------
+NÂº 124 - Concorso del 16 Ottobre 2010
+Numeri: 16 31 41 61 65 77
+Jolly: 25
+SuperStar: 34
+--------------------------------------
+NÂº 125 - Concorso del 19 Ottobre 2010
+Numeri: 31 49 54 57 80 88
+Jolly: 22
+SuperStar: 25
+--------------------------------------
+NÂº 126 - Concorso del 21 Ottobre 2010
+Numeri: 3 13 33 42 56 85
+Jolly: 68
+SuperStar: 71
+--------------------------------------
+NÂº 127 - Concorso del 23 Ottobre 2010
+Numeri: 12 26 46 69 72 87
+Jolly: 18
+SuperStar: 71
+--------------------------------------
+NÂº 128 - Concorso del 26 Ottobre 2010
+Numeri: 30 32 49 53 72 84
+Jolly: 86
+SuperStar: 44
+--------------------------------------
+NÂº 129 - Concorso del 28 Ottobre 2010
+Numeri: 16 29 32 53 61 72
+Jolly: 88
+SuperStar: 23
+--------------------------------------
+NÂº 130 - Concorso del 30 Ottobre 2010
+Numeri: 4 26 40 54 55 67
+Jolly: 41
+SuperStar: 78
+--------------------------------------
+NÂº 131 - Concorso del 2 Novembre 2010
+Numeri: 31 39 53 56 68 90
+Jolly: 66
+SuperStar: 18
+--------------------------------------
+NÂº 132 - Concorso del 4 Novembre 2010
+Numeri: 1 10 47 50 52 74
+Jolly: 23
+SuperStar: 18
+--------------------------------------
+NÂº 133 - Concorso del 6 Novembre 2010
+Numeri: 13 35 41 44 59 79
+Jolly: 74
+SuperStar: 84
+--------------------------------------
+NÂº 134 - Concorso del 9 Novembre 2010
+Numeri: 23 37 41 51 62 74
+Jolly: 33
+SuperStar: 43
+--------------------------------------
+NÂº 135 - Concorso del 11 Novembre 2010
+Numeri: 28 49 50 54 66 68
+Jolly: 77
+SuperStar: 63
+--------------------------------------
+NÂº 136 - Concorso del 13 Novembre 2010
+Numeri: 2 34 45 47 54 74
+Jolly: 48
+SuperStar: 20
+--------------------------------------
+NÂº 137 - Concorso del 16 Novembre 2010
+Numeri: 26 38 40 66 76 81
+Jolly: 33
+SuperStar: 50
+--------------------------------------
+NÂº 138 - Concorso del 18 Novembre 2010
+Numeri: 23 32 33 47 63 81
+Jolly: 77
+SuperStar: 67
+--------------------------------------
+NÂº 139 - Concorso del 20 Novembre 2010
+Numeri: 5 7 46 65 73 82
+Jolly: 1
+SuperStar: 20
+--------------------------------------
+NÂº 140 - Concorso del 23 Novembre 2010
+Numeri: 46 54 65 70 82 85
+Jolly: 23
+SuperStar: 37
+--------------------------------------
+NÂº 141 - Concorso del 25 Novembre 2010
+Numeri: 5 14 48 52 57 90
+Jolly: 61
+SuperStar: 50
+--------------------------------------
+NÂº 142 - Concorso del 27 Novembre 2010
+Numeri: 21 38 41 43 52 77
+Jolly: 5
+SuperStar: 41
+--------------------------------------
+NÂº 143 - Concorso del 30 Novembre 2010
+Numeri: 19 20 32 64 87 89
+Jolly: 69
+SuperStar: 37
+--------------------------------------
+NÂº 144 - Concorso del 2 Dicembre 2010
+Numeri: 10 35 39 57 61 75
+Jolly: 12
+SuperStar: 11
+--------------------------------------
+NÂº 145 - Concorso del 4 Dicembre 2010
+Numeri: 16 20 36 39 42 51
+Jolly: 80
+SuperStar: 61
+--------------------------------------
+NÂº 146 - Concorso del 7 Dicembre 2010
+Numeri: 27 31 45 61 74 79
+Jolly: 70
+SuperStar: 22
+--------------------------------------
+NÂº 147 - Concorso del 9 Dicembre 2010
+Numeri: 12 32 54 60 89 90
+Jolly: 71
+SuperStar: 25
+--------------------------------------
+NÂº 148 - Concorso del 11 Dicembre 2010
+Numeri: 3 17 35 52 69 83
+Jolly: 68
+SuperStar: 5
+--------------------------------------
+NÂº 149 - Concorso del 14 Dicembre 2010
+Numeri: 3 17 48 76 77 90
+Jolly: 83
+SuperStar: 3
+--------------------------------------
+NÂº 150 - Concorso del 16 Dicembre 2010
+Numeri: 9 15 27 54 76 86
+Jolly: 56
+SuperStar: 8
+--------------------------------------
+NÂº 151 - Concorso del 18 Dicembre 2010
+Numeri: 30 38 52 63 74 89
+Jolly: 10
+SuperStar: 36
+--------------------------------------
+NÂº 152 - Concorso del 21 Dicembre 2010
+Numeri: 8 9 19 48 51 81
+Jolly: 26
+SuperStar: 50
+--------------------------------------
+NÂº 153 - Concorso del 23 Dicembre 2010
+Numeri: 5 12 16 44 71 75
+Jolly: 21
+SuperStar: 28
+--------------------------------------
+NÂº 154 - Concorso del 27 Dicembre 2010
+Numeri: 4 39 62 67 69 78
+Jolly: 65
+SuperStar: 5
+--------------------------------------
+NÂº 155 - Concorso del 28 Dicembre 2010
+Numeri: 1 4 21 56 69 75
+Jolly: 59
+SuperStar: 10
+--------------------------------------
+NÂº 156 - Concorso del 30 Dicembre 2010
+Numeri: 5 29 35 39 41 45
+Jolly: 46
+SuperStar: 44
+--------------------------------------
+

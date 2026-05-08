@@ -1,0 +1,526 @@
+﻿NÂº 105 - Concorso del 30 dicembre 2000
+Numeri: 1 8 26 33 47 70
+Jolly: 72
+SuperStar: 
+--------------------------------------
+NÂº 104 - Concorso del 27 dicembre 2000
+Numeri: 1 5 14 20 39 58
+Jolly: 76
+SuperStar: 
+--------------------------------------
+NÂº 103 - Concorso del 23 dicembre 2000
+Numeri: 11 33 59 68 84 85
+Jolly: 62
+SuperStar: 
+--------------------------------------
+NÂº 102 - Concorso del 20 dicembre 2000
+Numeri: 26 36 43 47 64 90
+Jolly: 23
+SuperStar: 
+--------------------------------------
+NÂº 101 - Concorso del 16 dicembre 2000
+Numeri: 23 33 36 55 76 79
+Jolly: 44
+SuperStar: 
+--------------------------------------
+NÂº 100 - Concorso del 13 dicembre 2000
+Numeri: 8 54 62 63 66 84
+Jolly: 45
+SuperStar: 
+--------------------------------------
+NÂº 99 - Concorso del 9 dicembre 2000
+Numeri: 39 55 62 77 82 88
+Jolly: 78
+SuperStar: 
+--------------------------------------
+NÂº 98 - Concorso del 6 dicembre 2000
+Numeri: 9 16 48 70 75 77
+Jolly: 64
+SuperStar: 
+--------------------------------------
+NÂº 97 - Concorso del 2 dicembre 2000
+Numeri: 6 11 17 18 20 59
+Jolly: 55
+SuperStar: 
+--------------------------------------
+NÂº 96 - Concorso del 29 novembre 2000
+Numeri: 13 17 29 32 35 49
+Jolly: 56
+SuperStar: 
+--------------------------------------
+NÂº 95 - Concorso del 25 novembre 2000
+Numeri: 3 14 49 52 65 81
+Jolly: 42
+SuperStar: 
+--------------------------------------
+NÂº 94 - Concorso del 22 novembre 2000
+Numeri: 14 25 39 50 72 89
+Jolly: 59
+SuperStar: 
+--------------------------------------
+NÂº 93 - Concorso del 18 novembre 2000
+Numeri: 3 21 42 49 64 85
+Jolly: 66
+SuperStar: 
+--------------------------------------
+NÂº 92 - Concorso del 15 novembre 2000
+Numeri: 1 25 26 28 53 79
+Jolly: 73
+SuperStar: 
+--------------------------------------
+NÂº 91 - Concorso del 11 novembre 2000
+Numeri: 9 27 45 66 68 71
+Jolly: 83
+SuperStar: 
+--------------------------------------
+NÂº 90 - Concorso del 8 novembre 2000
+Numeri: 22 42 50 53 78 83
+Jolly: 40
+SuperStar: 
+--------------------------------------
+NÂº 89 - Concorso del 4 novembre 2000
+Numeri: 19 21 28 50 53 62
+Jolly: 64
+SuperStar: 
+--------------------------------------
+NÂº 88 - Concorso del 2 novembre 2000
+Numeri: 2 55 76 78 81 85
+Jolly: 71
+SuperStar: 
+--------------------------------------
+NÂº 87 - Concorso del 28 ottobre 2000
+Numeri: 6 21 29 43 80 89
+Jolly: 5
+SuperStar: 
+--------------------------------------
+NÂº 86 - Concorso del 25 ottobre 2000
+Numeri: 2 38 39 41 61 76
+Jolly: 21
+SuperStar: 
+--------------------------------------
+NÂº 85 - Concorso del 21 ottobre 2000
+Numeri: 1 10 23 40 68 75
+Jolly: 14
+SuperStar: 
+--------------------------------------
+NÂº 84 - Concorso del 18 ottobre 2000
+Numeri: 15 33 41 48 52 56
+Jolly: 82
+SuperStar: 
+--------------------------------------
+NÂº 83 - Concorso del 14 ottobre 2000
+Numeri: 24 35 37 63 81 85
+Jolly: 25
+SuperStar: 
+--------------------------------------
+NÂº 82 - Concorso del 11 ottobre 2000
+Numeri: 11 54 64 70 73 77
+Jolly: 66
+SuperStar: 
+--------------------------------------
+NÂº 81 - Concorso del 7 ottobre 2000
+Numeri: 8 10 16 21 39 65
+Jolly: 2
+SuperStar: 
+--------------------------------------
+NÂº 80 - Concorso del 4 ottobre 2000
+Numeri: 2 3 15 16 24 67
+Jolly: 7
+SuperStar: 
+--------------------------------------
+NÂº 79 - Concorso del 30 settembre 2000
+Numeri: 25 35 52 55 60 68
+Jolly: 75
+SuperStar: 
+--------------------------------------
+NÂº 78 - Concorso del 27 settembre 2000
+Numeri: 5 48 71 84 85 87
+Jolly: 22
+SuperStar: 
+--------------------------------------
+NÂº 77 - Concorso del 23 settembre 2000
+Numeri: 12 51 56 73 85 88
+Jolly: 25
+SuperStar: 
+--------------------------------------
+NÂº 76 - Concorso del 20 settembre 2000
+Numeri: 12 14 29 49 62 82
+Jolly: 79
+SuperStar: 
+--------------------------------------
+NÂº 75 - Concorso del 16 settembre 2000
+Numeri: 8 9 17 37 49 86
+Jolly: 30
+SuperStar: 
+--------------------------------------
+NÂº 74 - Concorso del 13 settembre 2000
+Numeri: 1 45 48 69 70 89
+Jolly: 26
+SuperStar: 
+--------------------------------------
+NÂº 73 - Concorso del 9 settembre 2000
+Numeri: 3 6 10 26 43 72
+Jolly: 89
+SuperStar: 
+--------------------------------------
+NÂº 72 - Concorso del 6 settembre 2000
+Numeri: 7 11 48 49 64 72
+Jolly: 8
+SuperStar: 
+--------------------------------------
+NÂº 71 - Concorso del 2 settembre 2000
+Numeri: 28 44 49 57 64 89
+Jolly: 87
+SuperStar: 
+--------------------------------------
+NÂº 70 - Concorso del 30 agosto 2000
+Numeri: 8 16 59 61 78 90
+Jolly: 45
+SuperStar: 
+--------------------------------------
+NÂº 69 - Concorso del 26 agosto 2000
+Numeri: 4 14 15 19 76 85
+Jolly: 89
+SuperStar: 
+--------------------------------------
+NÂº 68 - Concorso del 23 agosto 2000
+Numeri: 11 13 20 41 76 89
+Jolly: 29
+SuperStar: 
+--------------------------------------
+NÂº 67 - Concorso del 19 agosto 2000
+Numeri: 5 30 32 35 55 87
+Jolly: 86
+SuperStar: 
+--------------------------------------
+NÂº 66 - Concorso del 16 agosto 2000
+Numeri: 14 21 27 49 82 83
+Jolly: 36
+SuperStar: 
+--------------------------------------
+NÂº 65 - Concorso del 12 agosto 2000
+Numeri: 9 19 52 68 70 74
+Jolly: 88
+SuperStar: 
+--------------------------------------
+NÂº 64 - Concorso del 9 agosto 2000
+Numeri: 18 36 47 62 75 80
+Jolly: 41
+SuperStar: 
+--------------------------------------
+NÂº 63 - Concorso del 5 agosto 2000
+Numeri: 23 36 56 78 80 83
+Jolly: 40
+SuperStar: 
+--------------------------------------
+NÂº 62 - Concorso del 2 agosto 2000
+Numeri: 4 39 56 59 65 78
+Jolly: 61
+SuperStar: 
+--------------------------------------
+NÂº 61 - Concorso del 29 luglio 2000
+Numeri: 29 31 56 57 76 79
+Jolly: 43
+SuperStar: 
+--------------------------------------
+NÂº 60 - Concorso del 26 luglio 2000
+Numeri: 3 37 40 49 53 83
+Jolly: 44
+SuperStar: 
+--------------------------------------
+NÂº 59 - Concorso del 22 luglio 2000
+Numeri: 10 13 42 54 66 81
+Jolly: 1
+SuperStar: 
+--------------------------------------
+NÂº 58 - Concorso del 19 luglio 2000
+Numeri: 6 37 53 60 66 72
+Jolly: 26
+SuperStar: 
+--------------------------------------
+NÂº 57 - Concorso del 15 luglio 2000
+Numeri: 5 18 24 51 55 74
+Jolly: 17
+SuperStar: 
+--------------------------------------
+NÂº 56 - Concorso del 12 luglio 2000
+Numeri: 11 15 16 43 49 84
+Jolly: 48
+SuperStar: 
+--------------------------------------
+NÂº 55 - Concorso del 8 luglio 2000
+Numeri: 4 6 8 41 76 80
+Jolly: 60
+SuperStar: 
+--------------------------------------
+NÂº 54 - Concorso del 5 luglio 2000
+Numeri: 12 34 35 50 63 88
+Jolly: 69
+SuperStar: 
+--------------------------------------
+NÂº 53 - Concorso del 1 luglio 2000
+Numeri: 19 39 43 48 62 76
+Jolly: 5
+SuperStar: 
+--------------------------------------
+NÂº 52 - Concorso del 28 giugno 2000
+Numeri: 3 17 18 41 63 89
+Jolly: 48
+SuperStar: 
+--------------------------------------
+NÂº 51 - Concorso del 24 giugno 2000
+Numeri: 1 28 52 53 63 77
+Jolly: 11
+SuperStar: 
+--------------------------------------
+NÂº 50 - Concorso del 21 giugno 2000
+Numeri: 12 15 34 43 55 75
+Jolly: 70
+SuperStar: 
+--------------------------------------
+NÂº 49 - Concorso del 17 giugno 2000
+Numeri: 29 32 35 49 69 71
+Jolly: 70
+SuperStar: 
+--------------------------------------
+NÂº 48 - Concorso del 14 giugno 2000
+Numeri: 15 25 50 64 80 89
+Jolly: 72
+SuperStar: 
+--------------------------------------
+NÂº 47 - Concorso del 10 giugno 2000
+Numeri: 3 16 37 56 58 79
+Jolly: 18
+SuperStar: 
+--------------------------------------
+NÂº 46 - Concorso del 7 giugno 2000
+Numeri: 2 4 23 38 53 59
+Jolly: 17
+SuperStar: 
+--------------------------------------
+NÂº 45 - Concorso del 3 giugno 2000
+Numeri: 6 17 31 33 43 66
+Jolly: 78
+SuperStar: 
+--------------------------------------
+NÂº 44 - Concorso del 31 maggio 2000
+Numeri: 4 8 19 39 63 70
+Jolly: 66
+SuperStar: 
+--------------------------------------
+NÂº 43 - Concorso del 27 maggio 2000
+Numeri: 3 25 39 50 53 67
+Jolly: 51
+SuperStar: 
+--------------------------------------
+NÂº 42 - Concorso del 24 maggio 2000
+Numeri: 8 10 22 72 87 90
+Jolly: 39
+SuperStar: 
+--------------------------------------
+NÂº 41 - Concorso del 20 maggio 2000
+Numeri: 19 32 41 42 67 77
+Jolly: 79
+SuperStar: 
+--------------------------------------
+NÂº 40 - Concorso del 17 maggio 2000
+Numeri: 11 14 19 32 78 89
+Jolly: 9
+SuperStar: 
+--------------------------------------
+NÂº 39 - Concorso del 13 maggio 2000
+Numeri: 32 38 40 59 62 79
+Jolly: 2
+SuperStar: 
+--------------------------------------
+NÂº 38 - Concorso del 10 maggio 2000
+Numeri: 9 12 19 39 82 86
+Jolly: 69
+SuperStar: 
+--------------------------------------
+NÂº 37 - Concorso del 6 maggio 2000
+Numeri: 23 26 34 56 66 85
+Jolly: 44
+SuperStar: 
+--------------------------------------
+NÂº 36 - Concorso del 3 maggio 2000
+Numeri: 1 13 37 53 62 71
+Jolly: 9
+SuperStar: 
+--------------------------------------
+NÂº 35 - Concorso del 29 aprile 2000
+Numeri: 8 42 45 59 68 88
+Jolly: 9
+SuperStar: 
+--------------------------------------
+NÂº 34 - Concorso del 26 aprile 2000
+Numeri: 17 51 67 70 82 86
+Jolly: 49
+SuperStar: 
+--------------------------------------
+NÂº 33 - Concorso del 22 aprile 2000
+Numeri: 24 35 39 48 82 85
+Jolly: 66
+SuperStar: 
+--------------------------------------
+NÂº 32 - Concorso del 19 aprile 2000
+Numeri: 5 53 64 74 77 88
+Jolly: 78
+SuperStar: 
+--------------------------------------
+NÂº 31 - Concorso del 15 aprile 2000
+Numeri: 2 27 33 47 53 86
+Jolly: 65
+SuperStar: 
+--------------------------------------
+NÂº 30 - Concorso del 12 aprile 2000
+Numeri: 18 24 45 58 62 80
+Jolly: 4
+SuperStar: 
+--------------------------------------
+NÂº 29 - Concorso del 8 aprile 2000
+Numeri: 3 12 26 47 54 87
+Jolly: 90
+SuperStar: 
+--------------------------------------
+NÂº 28 - Concorso del 5 aprile 2000
+Numeri: 10 17 33 38 67 71
+Jolly: 73
+SuperStar: 
+--------------------------------------
+NÂº 27 - Concorso del 1 aprile 2000
+Numeri: 3 9 30 58 60 88
+Jolly: 37
+SuperStar: 
+--------------------------------------
+NÂº 26 - Concorso del 29 marzo 2000
+Numeri: 1 6 12 26 57 70
+Jolly: 28
+SuperStar: 
+--------------------------------------
+NÂº 25 - Concorso del 25 marzo 2000
+Numeri: 15 27 47 51 62 63
+Jolly: 20
+SuperStar: 
+--------------------------------------
+NÂº 24 - Concorso del 22 marzo 2000
+Numeri: 2 19 22 57 65 89
+Jolly: 61
+SuperStar: 
+--------------------------------------
+NÂº 23 - Concorso del 18 marzo 2000
+Numeri: 8 58 76 81 85 87
+Jolly: 65
+SuperStar: 
+--------------------------------------
+NÂº 22 - Concorso del 15 marzo 2000
+Numeri: 8 17 35 61 78 89
+Jolly: 9
+SuperStar: 
+--------------------------------------
+NÂº 21 - Concorso del 11 marzo 2000
+Numeri: 28 42 46 56 74 87
+Jolly: 43
+SuperStar: 
+--------------------------------------
+NÂº 20 - Concorso del 8 marzo 2000
+Numeri: 4 13 15 20 32 41
+Jolly: 28
+SuperStar: 
+--------------------------------------
+NÂº 19 - Concorso del 4 marzo 2000
+Numeri: 7 19 29 33 40 88
+Jolly: 80
+SuperStar: 
+--------------------------------------
+NÂº 18 - Concorso del 1 marzo 2000
+Numeri: 27 32 37 70 82 88
+Jolly: 52
+SuperStar: 
+--------------------------------------
+NÂº 17 - Concorso del 26 febbraio 2000
+Numeri: 4 35 48 57 69 90
+Jolly: 34
+SuperStar: 
+--------------------------------------
+NÂº 16 - Concorso del 23 febbraio 2000
+Numeri: 44 53 61 65 86 89
+Jolly: 49
+SuperStar: 
+--------------------------------------
+NÂº 15 - Concorso del 19 febbraio 2000
+Numeri: 25 28 37 51 54 81
+Jolly: 4
+SuperStar: 
+--------------------------------------
+NÂº 14 - Concorso del 16 febbraio 2000
+Numeri: 8 27 39 51 54 90
+Jolly: 71
+SuperStar: 
+--------------------------------------
+NÂº 13 - Concorso del 12 febbraio 2000
+Numeri: 4 33 67 71 81 82
+Jolly: 72
+SuperStar: 
+--------------------------------------
+NÂº 12 - Concorso del 9 febbraio 2000
+Numeri: 6 36 49 51 52 76
+Jolly: 35
+SuperStar: 
+--------------------------------------
+NÂº 11 - Concorso del 5 febbraio 2000
+Numeri: 17 48 52 64 86 87
+Jolly: 60
+SuperStar: 
+--------------------------------------
+NÂº 10 - Concorso del 2 febbraio 2000
+Numeri: 12 13 28 30 47 63
+Jolly: 35
+SuperStar: 
+--------------------------------------
+NÂº 9 - Concorso del 29 gennaio 2000
+Numeri: 55 65 68 70 73 80
+Jolly: 89
+SuperStar: 
+--------------------------------------
+NÂº 8 - Concorso del 26 gennaio 2000
+Numeri: 2 57 62 63 73 87
+Jolly: 55
+SuperStar: 
+--------------------------------------
+NÂº 7 - Concorso del 22 gennaio 2000
+Numeri: 15 21 55 60 70 90
+Jolly: 34
+SuperStar: 
+--------------------------------------
+NÂº 6 - Concorso del 19 gennaio 2000
+Numeri: 20 29 39 54 57 71
+Jolly: 28
+SuperStar: 
+--------------------------------------
+NÂº 5 - Concorso del 15 gennaio 2000
+Numeri: 11 21 22 50 59 63
+Jolly: 42
+SuperStar: 
+--------------------------------------
+NÂº 4 - Concorso del 12 gennaio 2000
+Numeri: 3 15 48 74 76 81
+Jolly: 34
+SuperStar: 
+--------------------------------------
+NÂº 3 - Concorso del 8 gennaio 2000
+Numeri: 6 15 47 71 75 86
+Jolly: 78
+SuperStar: 
+--------------------------------------
+NÂº 2 - Concorso del 5 gennaio 2000
+Numeri: 2 13 31 37 38 82
+Jolly: 39
+SuperStar: 
+--------------------------------------
+NÂº 1 - Concorso del 3 gennaio 2000
+Numeri: 17 38 48 51 55 62
+Jolly: 59
+SuperStar: 
+--------------------------------------
+

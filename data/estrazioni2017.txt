@@ -1,0 +1,781 @@
+﻿NÂº 1 - Concorso del 3 Gennaio 2017
+Numeri: 9 12 27 32 45 77
+Jolly: 3
+SuperStar: 64
+--------------------------------------
+NÂº 2 - Concorso del 5 Gennaio 2017
+Numeri: 1 7 21 27 39 78
+Jolly: 40
+SuperStar: 18
+--------------------------------------
+NÂº 3 - Concorso del 7 Gennaio 2017
+Numeri: 2 8 62 79 81 88
+Jolly: 32
+SuperStar: 35
+--------------------------------------
+NÂº 4 - Concorso del 10 Gennaio 2017
+Numeri: 1 9 22 25 58 84
+Jolly: 12
+SuperStar: 46
+--------------------------------------
+NÂº 5 - Concorso del 12 Gennaio 2017
+Numeri: 14 16 30 34 52 73
+Jolly: 28
+SuperStar: 44
+--------------------------------------
+NÂº 6 - Concorso del 14 Gennaio 2017
+Numeri: 12 17 24 45 67 84
+Jolly: 32
+SuperStar: 64
+--------------------------------------
+NÂº 7 - Concorso del 17 Gennaio 2017
+Numeri: 16 44 49 57 60 81
+Jolly: 51
+SuperStar: 78
+--------------------------------------
+NÂº 8 - Concorso del 19 Gennaio 2017
+Numeri: 32 51 74 79 80 81
+Jolly: 64
+SuperStar: 3
+--------------------------------------
+NÂº 9 - Concorso del 21 Gennaio 2017
+Numeri: 6 55 63 68 76 80
+Jolly: 37
+SuperStar: 21
+--------------------------------------
+NÂº 10 - Concorso del 24 Gennaio 2017
+Numeri: 63 67 74 77 83 85
+Jolly: 21
+SuperStar: 69
+--------------------------------------
+NÂº 11 - Concorso del 26 Gennaio 2017
+Numeri: 43 48 49 51 60 75
+Jolly: 29
+SuperStar: 70
+--------------------------------------
+NÂº 12 - Concorso del 28 Gennaio 2017
+Numeri: 9 13 15 51 73 74
+Jolly: 7
+SuperStar: 14
+--------------------------------------
+NÂº 13 - Concorso del 31 Gennaio 2017
+Numeri: 14 15 16 43 49 77
+Jolly: 8
+SuperStar: 86
+--------------------------------------
+NÂº 14 - Concorso del 2 Febbraio 2017
+Numeri: 11 27 56 57 64 66
+Jolly: 33
+SuperStar: 82
+--------------------------------------
+NÂº 15 - Concorso del 4 Febbraio 2017
+Numeri: 13 18 34 51 62 81
+Jolly: 20
+SuperStar: 67
+--------------------------------------
+NÂº 16 - Concorso del 7 Febbraio 2017
+Numeri: 2 21 38 74 79 83
+Jolly: 88
+SuperStar: 4
+--------------------------------------
+NÂº 17 - Concorso del 9 Febbraio 2017
+Numeri: 18 25 35 38 45 75
+Jolly: 20
+SuperStar: 44
+--------------------------------------
+NÂº 18 - Concorso del 11 Febbraio 2017
+Numeri: 6 9 11 32 63 83
+Jolly: 42
+SuperStar: 80
+--------------------------------------
+NÂº 19 - Concorso del 14 Febbraio 2017
+Numeri: 9 14 19 35 48 65
+Jolly: 2
+SuperStar: 65
+--------------------------------------
+NÂº 20 - Concorso del 16 Febbraio 2017
+Numeri: 13 17 26 33 60 78
+Jolly: 69
+SuperStar: 30
+--------------------------------------
+NÂº 21 - Concorso del 18 Febbraio 2017
+Numeri: 7 13 24 36 37 86
+Jolly: 33
+SuperStar: 61
+--------------------------------------
+NÂº 22 - Concorso del 21 Febbraio 2017
+Numeri: 4 22 36 60 66 90
+Jolly: 11
+SuperStar: 49
+--------------------------------------
+NÂº 23 - Concorso del 23 Febbraio 2017
+Numeri: 9 11 21 37 86 90
+Jolly: 17
+SuperStar: 12
+--------------------------------------
+NÂº 24 - Concorso del 25 Febbraio 2017
+Numeri: 11 17 40 69 84 85
+Jolly: 82
+SuperStar: 62
+--------------------------------------
+NÂº 25 - Concorso del 28 Febbraio 2017
+Numeri: 19 22 44 45 71 76
+Jolly: 3
+SuperStar: 87
+--------------------------------------
+NÂº 26 - Concorso del 2 Marzo 2017
+Numeri: 34 37 52 58 65 89
+Jolly: 86
+SuperStar: 28
+--------------------------------------
+NÂº 27 - Concorso del 4 Marzo 2017
+Numeri: 2 11 26 51 64 87
+Jolly: 37
+SuperStar: 37
+--------------------------------------
+NÂº 28 - Concorso del 7 Marzo 2017
+Numeri: 8 19 28 33 71 89
+Jolly: 17
+SuperStar: 85
+--------------------------------------
+NÂº 29 - Concorso del 9 Marzo 2017
+Numeri: 4 17 39 40 50 58
+Jolly: 15
+SuperStar: 52
+--------------------------------------
+NÂº 30 - Concorso del 11 Marzo 2017
+Numeri: 3 6 46 48 63 76
+Jolly: 66
+SuperStar: 71
+--------------------------------------
+NÂº 31 - Concorso del 14 Marzo 2017
+Numeri: 16 21 53 74 79 80
+Jolly: 27
+SuperStar: 10
+--------------------------------------
+NÂº 32 - Concorso del 16 Marzo 2017
+Numeri: 16 21 31 62 69 85
+Jolly: 12
+SuperStar: 28
+--------------------------------------
+NÂº 33 - Concorso del 18 Marzo 2017
+Numeri: 14 41 60 74 79 80
+Jolly: 18
+SuperStar: 79
+--------------------------------------
+NÂº 34 - Concorso del 21 Marzo 2017
+Numeri: 32 35 58 63 76 79
+Jolly: 14
+SuperStar: 53
+--------------------------------------
+NÂº 35 - Concorso del 23 Marzo 2017
+Numeri: 25 39 48 74 86 89
+Jolly: 67
+SuperStar: 18
+--------------------------------------
+NÂº 36 - Concorso del 25 Marzo 2017
+Numeri: 3 50 60 64 85 86
+Jolly: 58
+SuperStar: 76
+--------------------------------------
+NÂº 37 - Concorso del 28 Marzo 2017
+Numeri: 3 6 20 54 72 90
+Jolly: 71
+SuperStar: 71
+--------------------------------------
+NÂº 38 - Concorso del 30 Marzo 2017
+Numeri: 5 16 40 70 74 76
+Jolly: 85
+SuperStar: 69
+--------------------------------------
+NÂº 39 - Concorso del 1 Aprile 2017
+Numeri: 8 46 68 70 76 86
+Jolly: 39
+SuperStar: 66
+--------------------------------------
+NÂº 40 - Concorso del 4 Aprile 2017
+Numeri: 3 16 29 34 37 57
+Jolly: 62
+SuperStar: 41
+--------------------------------------
+NÂº 41 - Concorso del 6 Aprile 2017
+Numeri: 15 16 21 24 53 89
+Jolly: 31
+SuperStar: 15
+--------------------------------------
+NÂº 42 - Concorso del 8 Aprile 2017
+Numeri: 4 6 27 76 80 86
+Jolly: 48
+SuperStar: 43
+--------------------------------------
+NÂº 43 - Concorso del 11 Aprile 2017
+Numeri: 5 57 59 69 81 86
+Jolly: 77
+SuperStar: 83
+--------------------------------------
+NÂº 44 - Concorso del 13 Aprile 2017
+Numeri: 16 24 56 69 85 87
+Jolly: 51
+SuperStar: 82
+--------------------------------------
+NÂº 45 - Concorso del 15 Aprile 2017
+Numeri: 6 20 35 36 55 59
+Jolly: 52
+SuperStar: 31
+--------------------------------------
+NÂº 46 - Concorso del 18 Aprile 2017
+Numeri: 18 29 52 74 76 88
+Jolly: 31
+SuperStar: 63
+--------------------------------------
+NÂº 47 - Concorso del 20 Aprile 2017
+Numeri: 3 14 52 67 72 82
+Jolly: 61
+SuperStar: 20
+--------------------------------------
+NÂº 48 - Concorso del 22 Aprile 2017
+Numeri: 1 4 9 10 36 79
+Jolly: 56
+SuperStar: 83
+--------------------------------------
+NÂº 49 - Concorso del 24 Aprile 2017
+Numeri: 8 17 28 35 74 82
+Jolly: 13
+SuperStar: 61
+--------------------------------------
+NÂº 50 - Concorso del 27 Aprile 2017
+Numeri: 8 27 54 62 82 83
+Jolly: 17
+SuperStar: 4
+--------------------------------------
+NÂº 51 - Concorso del 29 Aprile 2017
+Numeri: 8 14 25 41 79 84
+Jolly: 85
+SuperStar: 70
+--------------------------------------
+NÂº 52 - Concorso del 2 Maggio 2017
+Numeri: 28 43 59 60 78 80
+Jolly: 2
+SuperStar: 26
+--------------------------------------
+NÂº 53 - Concorso del 4 Maggio 2017
+Numeri: 15 20 33 39 65 75
+Jolly: 7
+SuperStar: 71
+--------------------------------------
+NÂº 54 - Concorso del 6 Maggio 2017
+Numeri: 57 60 73 77 82 86
+Jolly: 72
+SuperStar: 51
+--------------------------------------
+NÂº 55 - Concorso del 9 Maggio 2017
+Numeri: 3 25 63 70 75 78
+Jolly: 65
+SuperStar: 13
+--------------------------------------
+NÂº 56 - Concorso del 11 Maggio 2017
+Numeri: 19 37 45 51 82 83
+Jolly: 58
+SuperStar: 29
+--------------------------------------
+NÂº 57 - Concorso del 13 Maggio 2017
+Numeri: 4 15 21 22 44 77
+Jolly: 54
+SuperStar: 84
+--------------------------------------
+NÂº 58 - Concorso del 16 Maggio 2017
+Numeri: 29 38 75 79 80 90
+Jolly: 67
+SuperStar: 5
+--------------------------------------
+NÂº 59 - Concorso del 18 Maggio 2017
+Numeri: 1 19 47 61 70 87
+Jolly: 37
+SuperStar: 60
+--------------------------------------
+NÂº 60 - Concorso del 20 Maggio 2017
+Numeri: 6 37 46 53 73 78
+Jolly: 69
+SuperStar: 84
+--------------------------------------
+NÂº 61 - Concorso del 23 Maggio 2017
+Numeri: 10 18 23 34 61 75
+Jolly: 35
+SuperStar: 79
+--------------------------------------
+NÂº 62 - Concorso del 25 Maggio 2017
+Numeri: 10 33 40 42 46 77
+Jolly: 63
+SuperStar: 30
+--------------------------------------
+NÂº 63 - Concorso del 27 Maggio 2017
+Numeri: 16 34 57 64 65 78
+Jolly: 49
+SuperStar: 47
+--------------------------------------
+NÂº 64 - Concorso del 30 Maggio 2017
+Numeri: 21 26 35 59 66 70
+Jolly: 69
+SuperStar: 90
+--------------------------------------
+NÂº 65 - Concorso del 1 Giugno 2017
+Numeri: 7 15 27 37 56 58
+Jolly: 32
+SuperStar: 18
+--------------------------------------
+NÂº 66 - Concorso del 3 Giugno 2017
+Numeri: 2 22 36 77 83 90
+Jolly: 47
+SuperStar: 64
+--------------------------------------
+NÂº 67 - Concorso del 6 Giugno 2017
+Numeri: 7 12 26 46 56 70
+Jolly: 13
+SuperStar: 18
+--------------------------------------
+NÂº 68 - Concorso del 8 Giugno 2017
+Numeri: 11 28 32 48 54 59
+Jolly: 73
+SuperStar: 19
+--------------------------------------
+NÂº 69 - Concorso del 10 Giugno 2017
+Numeri: 19 54 56 57 67 69
+Jolly: 21
+SuperStar: 79
+--------------------------------------
+NÂº 70 - Concorso del 13 Giugno 2017
+Numeri: 41 50 69 71 77 81
+Jolly: 26
+SuperStar: 49
+--------------------------------------
+NÂº 71 - Concorso del 15 Giugno 2017
+Numeri: 6 24 28 32 78 83
+Jolly: 13
+SuperStar: 66
+--------------------------------------
+NÂº 72 - Concorso del 17 Giugno 2017
+Numeri: 45 48 71 75 80 83
+Jolly: 40
+SuperStar: 17
+--------------------------------------
+NÂº 73 - Concorso del 20 Giugno 2017
+Numeri: 38 46 54 76 82 86
+Jolly: 17
+SuperStar: 12
+--------------------------------------
+NÂº 74 - Concorso del 22 Giugno 2017
+Numeri: 9 18 24 42 59 71
+Jolly: 69
+SuperStar: 4
+--------------------------------------
+NÂº 75 - Concorso del 24 Giugno 2017
+Numeri: 2 18 20 23 30 75
+Jolly: 26
+SuperStar: 41
+--------------------------------------
+NÂº 76 - Concorso del 27 Giugno 2017
+Numeri: 9 14 62 64 78 82
+Jolly: 24
+SuperStar: 41
+--------------------------------------
+NÂº 77 - Concorso del 29 Giugno 2017
+Numeri: 16 19 38 40 58 79
+Jolly: 26
+SuperStar: 50
+--------------------------------------
+NÂº 78 - Concorso del 1 Luglio 2017
+Numeri: 15 20 45 59 81 85
+Jolly: 72
+SuperStar: 80
+--------------------------------------
+NÂº 79 - Concorso del 4 Luglio 2017
+Numeri: 21 37 58 75 81 85
+Jolly: 12
+SuperStar: 11
+--------------------------------------
+NÂº 80 - Concorso del 6 Luglio 2017
+Numeri: 36 37 46 48 51 74
+Jolly: 54
+SuperStar: 19
+--------------------------------------
+NÂº 81 - Concorso del 8 Luglio 2017
+Numeri: 6 8 32 54 80 82
+Jolly: 75
+SuperStar: 62
+--------------------------------------
+NÂº 82 - Concorso del 11 Luglio 2017
+Numeri: 6 12 38 42 49 83
+Jolly: 53
+SuperStar: 42
+--------------------------------------
+NÂº 83 - Concorso del 13 Luglio 2017
+Numeri: 2 11 26 62 74 78
+Jolly: 88
+SuperStar: 63
+--------------------------------------
+NÂº 84 - Concorso del 15 Luglio 2017
+Numeri: 27 37 44 47 73 86
+Jolly: 68
+SuperStar: 50
+--------------------------------------
+NÂº 85 - Concorso del 18 Luglio 2017
+Numeri: 17 34 42 47 75 85
+Jolly: 49
+SuperStar: 36
+--------------------------------------
+NÂº 86 - Concorso del 20 Luglio 2017
+Numeri: 22 32 45 60 61 80
+Jolly: 67
+SuperStar: 46
+--------------------------------------
+NÂº 87 - Concorso del 22 Luglio 2017
+Numeri: 6 22 26 33 51 88
+Jolly: 68
+SuperStar: 87
+--------------------------------------
+NÂº 88 - Concorso del 25 Luglio 2017
+Numeri: 4 29 30 47 52 59
+Jolly: 79
+SuperStar: 73
+--------------------------------------
+NÂº 89 - Concorso del 27 Luglio 2017
+Numeri: 5 15 52 60 77 84
+Jolly: 28
+SuperStar: 10
+--------------------------------------
+NÂº 90 - Concorso del 29 Luglio 2017
+Numeri: 5 11 58 75 78 81
+Jolly: 79
+SuperStar: 21
+--------------------------------------
+NÂº 91 - Concorso del 1 Agosto 2017
+Numeri: 1 8 28 54 82 90
+Jolly: 5
+SuperStar: 25
+--------------------------------------
+NÂº 92 - Concorso del 3 Agosto 2017
+Numeri: 20 25 39 49 69 71
+Jolly: 2
+SuperStar: 71
+--------------------------------------
+NÂº 93 - Concorso del 5 Agosto 2017
+Numeri: 14 19 50 69 75 90
+Jolly: 67
+SuperStar: 18
+--------------------------------------
+NÂº 94 - Concorso del 8 Agosto 2017
+Numeri: 17 24 33 41 63 66
+Jolly: 83
+SuperStar: 62
+--------------------------------------
+NÂº 95 - Concorso del 10 Agosto 2017
+Numeri: 3 5 24 41 48 80
+Jolly: 71
+SuperStar: 30
+--------------------------------------
+NÂº 96 - Concorso del 12 Agosto 2017
+Numeri: 6 17 32 40 44 67
+Jolly: 21
+SuperStar: 30
+--------------------------------------
+NÂº 97 - Concorso del 14 Agosto 2017
+Numeri: 34 44 46 47 64 88
+Jolly: 72
+SuperStar: 83
+--------------------------------------
+NÂº 98 - Concorso del 17 Agosto 2017
+Numeri: 22 28 46 52 69 86
+Jolly: 68
+SuperStar: 47
+--------------------------------------
+NÂº 99 - Concorso del 19 Agosto 2017
+Numeri: 18 29 34 47 48 60
+Jolly: 25
+SuperStar: 45
+--------------------------------------
+NÂº 100 - Concorso del 22 Agosto 2017
+Numeri: 34 46 50 52 67 86
+Jolly: 58
+SuperStar: 23
+--------------------------------------
+NÂº 101 - Concorso del 24 Agosto 2017
+Numeri: 40 45 54 72 85 88
+Jolly: 50
+SuperStar: 79
+--------------------------------------
+NÂº 102 - Concorso del 26 Agosto 2017
+Numeri: 28 29 36 54 55 68
+Jolly: 8
+SuperStar: 53
+--------------------------------------
+NÂº 103 - Concorso del 29 Agosto 2017
+Numeri: 21 23 54 73 84 88
+Jolly: 33
+SuperStar: 1
+--------------------------------------
+NÂº 104 - Concorso del 31 Agosto 2017
+Numeri: 5 29 32 33 72 89
+Jolly: 70
+SuperStar: 26
+--------------------------------------
+NÂº 105 - Concorso del 2 Settembre 2017
+Numeri: 2 49 57 60 71 77
+Jolly: 40
+SuperStar: 11
+--------------------------------------
+NÂº 106 - Concorso del 5 Settembre 2017
+Numeri: 7 12 66 68 73 76
+Jolly: 59
+SuperStar: 44
+--------------------------------------
+NÂº 107 - Concorso del 7 Settembre 2017
+Numeri: 11 29 64 68 70 85
+Jolly: 48
+SuperStar: 17
+--------------------------------------
+NÂº 108 - Concorso del 9 Settembre 2017
+Numeri: 29 39 49 56 83 85
+Jolly: 11
+SuperStar: 73
+--------------------------------------
+NÂº 109 - Concorso del 12 Settembre 2017
+Numeri: 7 10 25 26 37 68
+Jolly: 41
+SuperStar: 4
+--------------------------------------
+NÂº 110 - Concorso del 14 Settembre 2017
+Numeri: 18 25 29 30 33 69
+Jolly: 38
+SuperStar: 89
+--------------------------------------
+NÂº 111 - Concorso del 16 Settembre 2017
+Numeri: 22 35 36 55 63 86
+Jolly: 47
+SuperStar: 3
+--------------------------------------
+NÂº 112 - Concorso del 19 Settembre 2017
+Numeri: 38 45 46 55 65 73
+Jolly: 53
+SuperStar: 64
+--------------------------------------
+NÂº 113 - Concorso del 21 Settembre 2017
+Numeri: 13 16 27 48 67 77
+Jolly: 8
+SuperStar: 45
+--------------------------------------
+NÂº 114 - Concorso del 23 Settembre 2017
+Numeri: 8 46 48 69 72 81
+Jolly: 66
+SuperStar: 23
+--------------------------------------
+NÂº 115 - Concorso del 26 Settembre 2017
+Numeri: 13 18 19 46 58 60
+Jolly: 57
+SuperStar: 10
+--------------------------------------
+NÂº 116 - Concorso del 28 Settembre 2017
+Numeri: 6 15 39 68 80 89
+Jolly: 60
+SuperStar: 50
+--------------------------------------
+NÂº 117 - Concorso del 30 Settembre 2017
+Numeri: 7 12 21 22 39 90
+Jolly: 71
+SuperStar: 45
+--------------------------------------
+NÂº 118 - Concorso del 3 Ottobre 2017
+Numeri: 6 21 38 48 79 90
+Jolly: 35
+SuperStar: 23
+--------------------------------------
+NÂº 119 - Concorso del 5 Ottobre 2017
+Numeri: 14 33 48 61 65 80
+Jolly: 46
+SuperStar: 79
+--------------------------------------
+NÂº 120 - Concorso del 7 Ottobre 2017
+Numeri: 14 17 35 37 55 83
+Jolly: 43
+SuperStar: 55
+--------------------------------------
+NÂº 121 - Concorso del 10 Ottobre 2017
+Numeri: 4 26 52 65 66 72
+Jolly: 1
+SuperStar: 87
+--------------------------------------
+NÂº 122 - Concorso del 12 Ottobre 2017
+Numeri: 9 16 19 35 41 59
+Jolly: 68
+SuperStar: 72
+--------------------------------------
+NÂº 123 - Concorso del 14 Ottobre 2017
+Numeri: 2 13 50 75 85 90
+Jolly: 44
+SuperStar: 1
+--------------------------------------
+NÂº 124 - Concorso del 17 Ottobre 2017
+Numeri: 10 17 30 55 62 78
+Jolly: 76
+SuperStar: 6
+--------------------------------------
+NÂº 125 - Concorso del 19 Ottobre 2017
+Numeri: 16 17 58 66 71 72
+Jolly: 12
+SuperStar: 57
+--------------------------------------
+NÂº 126 - Concorso del 21 Ottobre 2017
+Numeri: 21 22 31 32 33 81
+Jolly: 48
+SuperStar: 4
+--------------------------------------
+NÂº 127 - Concorso del 24 Ottobre 2017
+Numeri: 6 45 47 61 74 80
+Jolly: 32
+SuperStar: 61
+--------------------------------------
+NÂº 128 - Concorso del 26 Ottobre 2017
+Numeri: 14 38 43 57 65 72
+Jolly: 30
+SuperStar: 51
+--------------------------------------
+NÂº 129 - Concorso del 28 Ottobre 2017
+Numeri: 7 11 17 28 32 79
+Jolly: 80
+SuperStar: 41
+--------------------------------------
+NÂº 130 - Concorso del 31 Ottobre 2017
+Numeri: 19 24 35 69 80 89
+Jolly: 62
+SuperStar: 89
+--------------------------------------
+NÂº 131 - Concorso del 2 Novembre 2017
+Numeri: 11 31 46 48 65 68
+Jolly: 28
+SuperStar: 76
+--------------------------------------
+NÂº 132 - Concorso del 4 Novembre 2017
+Numeri: 6 7 8 38 45 78
+Jolly: 26
+SuperStar: 55
+--------------------------------------
+NÂº 133 - Concorso del 7 Novembre 2017
+Numeri: 2 6 34 69 77 86
+Jolly: 15
+SuperStar: 12
+--------------------------------------
+NÂº 134 - Concorso del 9 Novembre 2017
+Numeri: 8 12 41 42 46 51
+Jolly: 67
+SuperStar: 73
+--------------------------------------
+NÂº 135 - Concorso del 11 Novembre 2017
+Numeri: 16 31 33 51 75 80
+Jolly: 21
+SuperStar: 74
+--------------------------------------
+NÂº 136 - Concorso del 14 Novembre 2017
+Numeri: 1 11 40 45 46 57
+Jolly: 60
+SuperStar: 59
+--------------------------------------
+NÂº 137 - Concorso del 16 Novembre 2017
+Numeri: 2 12 16 26 51 73
+Jolly: 46
+SuperStar: 32
+--------------------------------------
+NÂº 138 - Concorso del 18 Novembre 2017
+Numeri: 3 16 24 27 44 88
+Jolly: 80
+SuperStar: 1
+--------------------------------------
+NÂº 139 - Concorso del 21 Novembre 2017
+Numeri: 32 40 41 47 56 72
+Jolly: 58
+SuperStar: 59
+--------------------------------------
+NÂº 140 - Concorso del 23 Novembre 2017
+Numeri: 14 38 40 51 53 64
+Jolly: 71
+SuperStar: 36
+--------------------------------------
+NÂº 141 - Concorso del 25 Novembre 2017
+Numeri: 16 20 22 42 54 62
+Jolly: 52
+SuperStar: 6
+--------------------------------------
+NÂº 142 - Concorso del 28 Novembre 2017
+Numeri: 27 28 48 61 87 88
+Jolly: 86
+SuperStar: 80
+--------------------------------------
+NÂº 143 - Concorso del 30 Novembre 2017
+Numeri: 5 17 19 33 43 63
+Jolly: 15
+SuperStar: 3
+--------------------------------------
+NÂº 144 - Concorso del 2 Dicembre 2017
+Numeri: 4 12 25 27 35 69
+Jolly: 67
+SuperStar: 78
+--------------------------------------
+NÂº 145 - Concorso del 5 Dicembre 2017
+Numeri: 10 34 45 63 81 83
+Jolly: 41
+SuperStar: 88
+--------------------------------------
+NÂº 146 - Concorso del 7 Dicembre 2017
+Numeri: 14 15 65 68 82 85
+Jolly: 42
+SuperStar: 88
+--------------------------------------
+NÂº 147 - Concorso del 9 Dicembre 2017
+Numeri: 21 24 48 51 60 82
+Jolly: 88
+SuperStar: 34
+--------------------------------------
+NÂº 148 - Concorso del 12 Dicembre 2017
+Numeri: 2 30 44 52 58 69
+Jolly: 76
+SuperStar: 64
+--------------------------------------
+NÂº 149 - Concorso del 14 Dicembre 2017
+Numeri: 25 33 39 59 72 74
+Jolly: 22
+SuperStar: 69
+--------------------------------------
+NÂº 150 - Concorso del 16 Dicembre 2017
+Numeri: 3 7 53 65 66 73
+Jolly: 11
+SuperStar: 65
+--------------------------------------
+NÂº 151 - Concorso del 18 Dicembre 2017
+Numeri: 24 55 71 73 85 90
+Jolly: 2
+SuperStar: 41
+--------------------------------------
+NÂº 152 - Concorso del 19 Dicembre 2017
+Numeri: 22 39 43 65 77 89
+Jolly: 18
+SuperStar: 49
+--------------------------------------
+NÂº 153 - Concorso del 21 Dicembre 2017
+Numeri: 12 25 50 59 67 88
+Jolly: 24
+SuperStar: 22
+--------------------------------------
+NÂº 154 - Concorso del 23 Dicembre 2017
+Numeri: 35 39 48 71 88 89
+Jolly: 10
+SuperStar: 4
+--------------------------------------
+NÂº 155 - Concorso del 28 Dicembre 2017
+Numeri: 10 28 33 43 50 80
+Jolly: 34
+SuperStar: 21
+--------------------------------------
+NÂº 156 - Concorso del 30 Dicembre 2017
+Numeri: 6 17 23 46 52 53
+Jolly: 85
+SuperStar: 52
+--------------------------------------
+

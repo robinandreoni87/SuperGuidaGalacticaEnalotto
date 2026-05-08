@@ -1,0 +1,781 @@
+﻿NÂº 1 - Concorso del 3 Gennaio 2012
+Numeri: 35 47 54 68 71 78
+Jolly: 33
+SuperStar: 79
+--------------------------------------
+NÂº 2 - Concorso del 5 Gennaio 2012
+Numeri: 10 11 12 24 56 71
+Jolly: 38
+SuperStar: 28
+--------------------------------------
+NÂº 3 - Concorso del 7 Gennaio 2012
+Numeri: 7 15 60 72 77 90
+Jolly: 13
+SuperStar: 48
+--------------------------------------
+NÂº 4 - Concorso del 10 Gennaio 2012
+Numeri: 14 22 27 28 34 66
+Jolly: 69
+SuperStar: 23
+--------------------------------------
+NÂº 5 - Concorso del 12 Gennaio 2012
+Numeri: 20 49 53 63 73 84
+Jolly: 88
+SuperStar: 49
+--------------------------------------
+NÂº 6 - Concorso del 14 Gennaio 2012
+Numeri: 4 12 15 37 53 83
+Jolly: 41
+SuperStar: 65
+--------------------------------------
+NÂº 7 - Concorso del 17 Gennaio 2012
+Numeri: 9 27 32 51 53 71
+Jolly: 62
+SuperStar: 82
+--------------------------------------
+NÂº 8 - Concorso del 19 Gennaio 2012
+Numeri: 24 41 44 56 73 90
+Jolly: 60
+SuperStar: 66
+--------------------------------------
+NÂº 9 - Concorso del 21 Gennaio 2012
+Numeri: 12 19 33 38 62 80
+Jolly: 84
+SuperStar: 12
+--------------------------------------
+NÂº 10 - Concorso del 24 Gennaio 2012
+Numeri: 27 32 55 68 72 75
+Jolly: 84
+SuperStar: 61
+--------------------------------------
+NÂº 11 - Concorso del 26 Gennaio 2012
+Numeri: 13 16 22 30 52 87
+Jolly: 42
+SuperStar: 37
+--------------------------------------
+NÂº 12 - Concorso del 28 Gennaio 2012
+Numeri: 2 17 25 50 52 84
+Jolly: 28
+SuperStar: 35
+--------------------------------------
+NÂº 13 - Concorso del 31 Gennaio 2012
+Numeri: 16 23 28 33 43 86
+Jolly: 30
+SuperStar: 51
+--------------------------------------
+NÂº 14 - Concorso del 2 Febbraio 2012
+Numeri: 25 37 43 50 58 60
+Jolly: 89
+SuperStar: 6
+--------------------------------------
+NÂº 15 - Concorso del 4 Febbraio 2012
+Numeri: 1 17 30 43 67 82
+Jolly: 2
+SuperStar: 40
+--------------------------------------
+NÂº 16 - Concorso del 7 Febbraio 2012
+Numeri: 27 30 69 75 81 83
+Jolly: 68
+SuperStar: 36
+--------------------------------------
+NÂº 17 - Concorso del 9 Febbraio 2012
+Numeri: 43 51 54 71 73 85
+Jolly: 25
+SuperStar: 56
+--------------------------------------
+NÂº 18 - Concorso del 11 Febbraio 2012
+Numeri: 23 30 46 64 70 86
+Jolly: 31
+SuperStar: 26
+--------------------------------------
+NÂº 19 - Concorso del 14 Febbraio 2012
+Numeri: 12 25 41 79 86 88
+Jolly: 37
+SuperStar: 66
+--------------------------------------
+NÂº 20 - Concorso del 16 Febbraio 2012
+Numeri: 5 21 23 41 74 84
+Jolly: 81
+SuperStar: 48
+--------------------------------------
+NÂº 21 - Concorso del 18 Febbraio 2012
+Numeri: 8 21 39 56 74 81
+Jolly: 19
+SuperStar: 30
+--------------------------------------
+NÂº 22 - Concorso del 21 Febbraio 2012
+Numeri: 28 29 30 39 75 87
+Jolly: 65
+SuperStar: 16
+--------------------------------------
+NÂº 23 - Concorso del 23 Febbraio 2012
+Numeri: 20 28 56 62 63 76
+Jolly: 35
+SuperStar: 31
+--------------------------------------
+NÂº 24 - Concorso del 25 Febbraio 2012
+Numeri: 14 30 64 75 79 89
+Jolly: 31
+SuperStar: 11
+--------------------------------------
+NÂº 25 - Concorso del 28 Febbraio 2012
+Numeri: 25 34 43 57 67 77
+Jolly: 3
+SuperStar: 73
+--------------------------------------
+NÂº 26 - Concorso del 1 Marzo 2012
+Numeri: 6 14 19 26 51 53
+Jolly: 83
+SuperStar: 31
+--------------------------------------
+NÂº 27 - Concorso del 3 Marzo 2012
+Numeri: 16 19 31 46 69 74
+Jolly: 62
+SuperStar: 82
+--------------------------------------
+NÂº 28 - Concorso del 6 Marzo 2012
+Numeri: 31 42 49 51 68 79
+Jolly: 70
+SuperStar: 69
+--------------------------------------
+NÂº 29 - Concorso del 8 Marzo 2012
+Numeri: 23 37 47 79 80 83
+Jolly: 53
+SuperStar: 46
+--------------------------------------
+NÂº 30 - Concorso del 10 Marzo 2012
+Numeri: 1 8 40 54 69 81
+Jolly: 61
+SuperStar: 53
+--------------------------------------
+NÂº 31 - Concorso del 13 Marzo 2012
+Numeri: 15 17 53 67 75 81
+Jolly: 37
+SuperStar: 18
+--------------------------------------
+NÂº 32 - Concorso del 15 Marzo 2012
+Numeri: 1 13 14 34 67 83
+Jolly: 61
+SuperStar: 17
+--------------------------------------
+NÂº 33 - Concorso del 17 Marzo 2012
+Numeri: 12 23 54 68 84 89
+Jolly: 86
+SuperStar: 76
+--------------------------------------
+NÂº 34 - Concorso del 20 Marzo 2012
+Numeri: 21 39 44 49 65 87
+Jolly: 54
+SuperStar: 57
+--------------------------------------
+NÂº 35 - Concorso del 22 Marzo 2012
+Numeri: 6 21 37 55 84 88
+Jolly: 89
+SuperStar: 53
+--------------------------------------
+NÂº 36 - Concorso del 24 Marzo 2012
+Numeri: 39 45 49 66 75 80
+Jolly: 77
+SuperStar: 74
+--------------------------------------
+NÂº 37 - Concorso del 27 Marzo 2012
+Numeri: 9 26 27 40 51 69
+Jolly: 11
+SuperStar: 8
+--------------------------------------
+NÂº 38 - Concorso del 29 Marzo 2012
+Numeri: 11 45 50 54 57 62
+Jolly: 18
+SuperStar: 62
+--------------------------------------
+NÂº 39 - Concorso del 31 Marzo 2012
+Numeri: 11 23 38 47 57 83
+Jolly: 61
+SuperStar: 38
+--------------------------------------
+NÂº 40 - Concorso del 3 Aprile 2012
+Numeri: 11 34 55 63 87 89
+Jolly: 6
+SuperStar: 83
+--------------------------------------
+NÂº 41 - Concorso del 5 Aprile 2012
+Numeri: 10 37 44 56 60 89
+Jolly: 7
+SuperStar: 25
+--------------------------------------
+NÂº 42 - Concorso del 7 Aprile 2012
+Numeri: 37 46 54 55 65 87
+Jolly: 1
+SuperStar: 59
+--------------------------------------
+NÂº 43 - Concorso del 10 Aprile 2012
+Numeri: 9 22 41 49 52 53
+Jolly: 77
+SuperStar: 36
+--------------------------------------
+NÂº 44 - Concorso del 12 Aprile 2012
+Numeri: 15 25 34 54 70 88
+Jolly: 33
+SuperStar: 45
+--------------------------------------
+NÂº 45 - Concorso del 14 Aprile 2012
+Numeri: 5 22 24 36 85 86
+Jolly: 29
+SuperStar: 2
+--------------------------------------
+NÂº 46 - Concorso del 17 Aprile 2012
+Numeri: 6 28 39 46 60 78
+Jolly: 57
+SuperStar: 56
+--------------------------------------
+NÂº 47 - Concorso del 19 Aprile 2012
+Numeri: 12 26 27 47 63 77
+Jolly: 3
+SuperStar: 45
+--------------------------------------
+NÂº 48 - Concorso del 21 Aprile 2012
+Numeri: 9 11 33 69 73 82
+Jolly: 44
+SuperStar: 48
+--------------------------------------
+NÂº 49 - Concorso del 24 Aprile 2012
+Numeri: 24 28 54 68 78 81
+Jolly: 74
+SuperStar: 26
+--------------------------------------
+NÂº 50 - Concorso del 26 Aprile 2012
+Numeri: 19 61 62 65 85 89
+Jolly: 67
+SuperStar: 39
+--------------------------------------
+NÂº 51 - Concorso del 28 Aprile 2012
+Numeri: 6 11 34 51 59 82
+Jolly: 75
+SuperStar: 6
+--------------------------------------
+NÂº 52 - Concorso del 2 Maggio 2012
+Numeri: 9 22 61 67 84 85
+Jolly: 6
+SuperStar: 36
+--------------------------------------
+NÂº 53 - Concorso del 3 Maggio 2012
+Numeri: 8 16 25 28 57 68
+Jolly: 55
+SuperStar: 10
+--------------------------------------
+NÂº 54 - Concorso del 5 Maggio 2012
+Numeri: 13 14 19 57 77 79
+Jolly: 65
+SuperStar: 52
+--------------------------------------
+NÂº 55 - Concorso del 8 Maggio 2012
+Numeri: 13 19 35 38 52 64
+Jolly: 57
+SuperStar: 66
+--------------------------------------
+NÂº 56 - Concorso del 10 Maggio 2012
+Numeri: 6 16 30 53 60 71
+Jolly: 86
+SuperStar: 11
+--------------------------------------
+NÂº 57 - Concorso del 12 Maggio 2012
+Numeri: 10 45 58 66 83 85
+Jolly: 51
+SuperStar: 20
+--------------------------------------
+NÂº 58 - Concorso del 15 Maggio 2012
+Numeri: 5 38 56 76 77 89
+Jolly: 71
+SuperStar: 64
+--------------------------------------
+NÂº 59 - Concorso del 17 Maggio 2012
+Numeri: 14 38 41 58 65 75
+Jolly: 86
+SuperStar: 70
+--------------------------------------
+NÂº 60 - Concorso del 19 Maggio 2012
+Numeri: 1 23 27 33 37 85
+Jolly: 56
+SuperStar: 16
+--------------------------------------
+NÂº 61 - Concorso del 22 Maggio 2012
+Numeri: 1 6 31 45 58 85
+Jolly: 55
+SuperStar: 81
+--------------------------------------
+NÂº 62 - Concorso del 24 Maggio 2012
+Numeri: 10 29 32 43 56 90
+Jolly: 71
+SuperStar: 84
+--------------------------------------
+NÂº 63 - Concorso del 26 Maggio 2012
+Numeri: 3 33 51 55 73 84
+Jolly: 47
+SuperStar: 88
+--------------------------------------
+NÂº 64 - Concorso del 29 Maggio 2012
+Numeri: 38 39 42 49 55 81
+Jolly: 2
+SuperStar: 10
+--------------------------------------
+NÂº 65 - Concorso del 31 Maggio 2012
+Numeri: 12 25 66 72 75 89
+Jolly: 6
+SuperStar: 57
+--------------------------------------
+NÂº 66 - Concorso del 4 Giugno 2012
+Numeri: 8 16 20 23 47 56
+Jolly: 50
+SuperStar: 79
+--------------------------------------
+NÂº 67 - Concorso del 5 Giugno 2012
+Numeri: 15 29 38 44 67 74
+Jolly: 63
+SuperStar: 2
+--------------------------------------
+NÂº 68 - Concorso del 7 Giugno 2012
+Numeri: 32 58 63 70 75 81
+Jolly: 4
+SuperStar: 59
+--------------------------------------
+NÂº 69 - Concorso del 9 Giugno 2012
+Numeri: 31 34 52 54 78 82
+Jolly: 74
+SuperStar: 81
+--------------------------------------
+NÂº 70 - Concorso del 12 Giugno 2012
+Numeri: 20 30 47 69 77 83
+Jolly: 86
+SuperStar: 17
+--------------------------------------
+NÂº 71 - Concorso del 14 Giugno 2012
+Numeri: 3 13 39 40 49 75
+Jolly: 24
+SuperStar: 26
+--------------------------------------
+NÂº 72 - Concorso del 16 Giugno 2012
+Numeri: 1 9 37 69 71 83
+Jolly: 48
+SuperStar: 40
+--------------------------------------
+NÂº 73 - Concorso del 19 Giugno 2012
+Numeri: 52 62 65 77 87 90
+Jolly: 13
+SuperStar: 31
+--------------------------------------
+NÂº 74 - Concorso del 21 Giugno 2012
+Numeri: 9 24 39 48 69 75
+Jolly: 36
+SuperStar: 80
+--------------------------------------
+NÂº 75 - Concorso del 23 Giugno 2012
+Numeri: 2 6 26 42 55 86
+Jolly: 3
+SuperStar: 15
+--------------------------------------
+NÂº 76 - Concorso del 26 Giugno 2012
+Numeri: 13 30 46 48 70 88
+Jolly: 10
+SuperStar: 9
+--------------------------------------
+NÂº 77 - Concorso del 28 Giugno 2012
+Numeri: 6 20 25 42 57 80
+Jolly: 49
+SuperStar: 63
+--------------------------------------
+NÂº 78 - Concorso del 30 Giugno 2012
+Numeri: 17 20 21 39 44 89
+Jolly: 75
+SuperStar: 83
+--------------------------------------
+NÂº 79 - Concorso del 3 Luglio 2012
+Numeri: 2 12 17 60 63 78
+Jolly: 61
+SuperStar: 56
+--------------------------------------
+NÂº 80 - Concorso del 5 Luglio 2012
+Numeri: 15 59 64 65 76 79
+Jolly: 17
+SuperStar: 26
+--------------------------------------
+NÂº 81 - Concorso del 7 Luglio 2012
+Numeri: 15 25 26 53 74 76
+Jolly: 28
+SuperStar: 25
+--------------------------------------
+NÂº 82 - Concorso del 10 Luglio 2012
+Numeri: 19 32 33 66 75 78
+Jolly: 21
+SuperStar: 36
+--------------------------------------
+NÂº 83 - Concorso del 12 Luglio 2012
+Numeri: 40 42 54 66 77 86
+Jolly: 39
+SuperStar: 47
+--------------------------------------
+NÂº 84 - Concorso del 14 Luglio 2012
+Numeri: 27 38 70 75 78 82
+Jolly: 69
+SuperStar: 28
+--------------------------------------
+NÂº 85 - Concorso del 17 Luglio 2012
+Numeri: 8 28 35 53 57 61
+Jolly: 36
+SuperStar: 14
+--------------------------------------
+NÂº 86 - Concorso del 19 Luglio 2012
+Numeri: 5 36 51 55 69 79
+Jolly: 48
+SuperStar: 86
+--------------------------------------
+NÂº 87 - Concorso del 21 Luglio 2012
+Numeri: 22 24 49 58 72 85
+Jolly: 25
+SuperStar: 52
+--------------------------------------
+NÂº 88 - Concorso del 24 Luglio 2012
+Numeri: 2 45 55 77 84 88
+Jolly: 65
+SuperStar: 7
+--------------------------------------
+NÂº 89 - Concorso del 26 Luglio 2012
+Numeri: 11 18 30 59 76 77
+Jolly: 5
+SuperStar: 54
+--------------------------------------
+NÂº 90 - Concorso del 28 Luglio 2012
+Numeri: 9 17 67 68 80 81
+Jolly: 1
+SuperStar: 87
+--------------------------------------
+NÂº 91 - Concorso del 31 Luglio 2012
+Numeri: 29 82 83 84 87 89
+Jolly: 13
+SuperStar: 49
+--------------------------------------
+NÂº 92 - Concorso del 2 Agosto 2012
+Numeri: 2 8 55 66 73 83
+Jolly: 32
+SuperStar: 83
+--------------------------------------
+NÂº 93 - Concorso del 4 Agosto 2012
+Numeri: 12 35 47 56 74 87
+Jolly: 67
+SuperStar: 13
+--------------------------------------
+NÂº 94 - Concorso del 7 Agosto 2012
+Numeri: 24 50 57 62 72 77
+Jolly: 38
+SuperStar: 75
+--------------------------------------
+NÂº 95 - Concorso del 9 Agosto 2012
+Numeri: 19 30 32 39 47 71
+Jolly: 35
+SuperStar: 42
+--------------------------------------
+NÂº 96 - Concorso del 11 Agosto 2012
+Numeri: 4 11 13 42 54 75
+Jolly: 82
+SuperStar: 50
+--------------------------------------
+NÂº 97 - Concorso del 14 Agosto 2012
+Numeri: 19 22 23 28 41 74
+Jolly: 61
+SuperStar: 84
+--------------------------------------
+NÂº 98 - Concorso del 16 Agosto 2012
+Numeri: 38 39 46 74 85 89
+Jolly: 82
+SuperStar: 21
+--------------------------------------
+NÂº 99 - Concorso del 18 Agosto 2012
+Numeri: 3 5 11 34 43 49
+Jolly: 2
+SuperStar: 24
+--------------------------------------
+NÂº 100 - Concorso del 21 Agosto 2012
+Numeri: 35 42 62 67 76 78
+Jolly: 49
+SuperStar: 85
+--------------------------------------
+NÂº 101 - Concorso del 23 Agosto 2012
+Numeri: 5 27 36 40 46 64
+Jolly: 4
+SuperStar: 52
+--------------------------------------
+NÂº 102 - Concorso del 25 Agosto 2012
+Numeri: 7 38 66 67 71 88
+Jolly: 43
+SuperStar: 40
+--------------------------------------
+NÂº 103 - Concorso del 28 Agosto 2012
+Numeri: 15 27 30 34 75 80
+Jolly: 70
+SuperStar: 71
+--------------------------------------
+NÂº 104 - Concorso del 30 Agosto 2012
+Numeri: 17 20 22 40 52 62
+Jolly: 14
+SuperStar: 43
+--------------------------------------
+NÂº 105 - Concorso del 1 Settembre 2012
+Numeri: 6 20 31 33 63 74
+Jolly: 75
+SuperStar: 57
+--------------------------------------
+NÂº 106 - Concorso del 4 Settembre 2012
+Numeri: 34 42 58 60 82 83
+Jolly: 72
+SuperStar: 28
+--------------------------------------
+NÂº 107 - Concorso del 6 Settembre 2012
+Numeri: 16 29 39 49 59 64
+Jolly: 18
+SuperStar: 41
+--------------------------------------
+NÂº 108 - Concorso del 8 Settembre 2012
+Numeri: 5 13 31 42 43 73
+Jolly: 60
+SuperStar: 21
+--------------------------------------
+NÂº 109 - Concorso del 11 Settembre 2012
+Numeri: 8 33 42 44 48 89
+Jolly: 43
+SuperStar: 9
+--------------------------------------
+NÂº 110 - Concorso del 13 Settembre 2012
+Numeri: 12 26 27 46 65 77
+Jolly: 15
+SuperStar: 50
+--------------------------------------
+NÂº 111 - Concorso del 15 Settembre 2012
+Numeri: 21 23 32 35 36 72
+Jolly: 4
+SuperStar: 68
+--------------------------------------
+NÂº 112 - Concorso del 18 Settembre 2012
+Numeri: 3 10 18 25 50 68
+Jolly: 66
+SuperStar: 45
+--------------------------------------
+NÂº 113 - Concorso del 20 Settembre 2012
+Numeri: 10 17 50 65 75 86
+Jolly: 57
+SuperStar: 8
+--------------------------------------
+NÂº 114 - Concorso del 22 Settembre 2012
+Numeri: 1 28 29 68 84 85
+Jolly: 27
+SuperStar: 81
+--------------------------------------
+NÂº 115 - Concorso del 25 Settembre 2012
+Numeri: 21 23 33 46 61 76
+Jolly: 10
+SuperStar: 32
+--------------------------------------
+NÂº 116 - Concorso del 27 Settembre 2012
+Numeri: 3 8 10 31 77 79
+Jolly: 61
+SuperStar: 58
+--------------------------------------
+NÂº 117 - Concorso del 29 Settembre 2012
+Numeri: 6 7 33 53 64 90
+Jolly: 38
+SuperStar: 17
+--------------------------------------
+NÂº 118 - Concorso del 2 Ottobre 2012
+Numeri: 36 52 69 71 78 84
+Jolly: 1
+SuperStar: 16
+--------------------------------------
+NÂº 119 - Concorso del 4 Ottobre 2012
+Numeri: 21 25 47 62 79 87
+Jolly: 37
+SuperStar: 51
+--------------------------------------
+NÂº 120 - Concorso del 6 Ottobre 2012
+Numeri: 13 40 41 56 82 87
+Jolly: 74
+SuperStar: 47
+--------------------------------------
+NÂº 121 - Concorso del 9 Ottobre 2012
+Numeri: 6 9 37 67 83 88
+Jolly: 26
+SuperStar: 19
+--------------------------------------
+NÂº 122 - Concorso del 11 Ottobre 2012
+Numeri: 16 34 50 58 80 90
+Jolly: 33
+SuperStar: 71
+--------------------------------------
+NÂº 123 - Concorso del 13 Ottobre 2012
+Numeri: 14 17 38 58 60 81
+Jolly: 79
+SuperStar: 57
+--------------------------------------
+NÂº 124 - Concorso del 16 Ottobre 2012
+Numeri: 1 20 24 27 46 60
+Jolly: 18
+SuperStar: 1
+--------------------------------------
+NÂº 125 - Concorso del 18 Ottobre 2012
+Numeri: 7 41 56 61 68 84
+Jolly: 89
+SuperStar: 6
+--------------------------------------
+NÂº 126 - Concorso del 20 Ottobre 2012
+Numeri: 2 5 28 36 69 81
+Jolly: 29
+SuperStar: 61
+--------------------------------------
+NÂº 127 - Concorso del 23 Ottobre 2012
+Numeri: 45 50 65 67 78 79
+Jolly: 43
+SuperStar: 77
+--------------------------------------
+NÂº 128 - Concorso del 25 Ottobre 2012
+Numeri: 15 23 51 52 77 90
+Jolly: 19
+SuperStar: 19
+--------------------------------------
+NÂº 129 - Concorso del 27 Ottobre 2012
+Numeri: 15 33 34 43 49 75
+Jolly: 9
+SuperStar: 13
+--------------------------------------
+NÂº 130 - Concorso del 30 Ottobre 2012
+Numeri: 10 32 46 61 70 75
+Jolly: 73
+SuperStar: 13
+--------------------------------------
+NÂº 131 - Concorso del 3 Novembre 2012
+Numeri: 1 4 8 47 74 87
+Jolly: 26
+SuperStar: 69
+--------------------------------------
+NÂº 132 - Concorso del 5 Novembre 2012
+Numeri: 7 14 15 17 57 66
+Jolly: 8
+SuperStar: 38
+--------------------------------------
+NÂº 133 - Concorso del 6 Novembre 2012
+Numeri: 18 20 22 76 82 84
+Jolly: 89
+SuperStar: 57
+--------------------------------------
+NÂº 134 - Concorso del 8 Novembre 2012
+Numeri: 9 31 39 44 72 81
+Jolly: 67
+SuperStar: 16
+--------------------------------------
+NÂº 135 - Concorso del 10 Novembre 2012
+Numeri: 1 34 46 51 60 75
+Jolly: 23
+SuperStar: 18
+--------------------------------------
+NÂº 136 - Concorso del 13 Novembre 2012
+Numeri: 3 20 57 62 79 84
+Jolly: 61
+SuperStar: 72
+--------------------------------------
+NÂº 137 - Concorso del 15 Novembre 2012
+Numeri: 12 24 53 66 74 83
+Jolly: 86
+SuperStar: 69
+--------------------------------------
+NÂº 138 - Concorso del 17 Novembre 2012
+Numeri: 8 10 39 60 77 84
+Jolly: 23
+SuperStar: 90
+--------------------------------------
+NÂº 139 - Concorso del 20 Novembre 2012
+Numeri: 9 11 29 41 67 70
+Jolly: 69
+SuperStar: 1
+--------------------------------------
+NÂº 140 - Concorso del 22 Novembre 2012
+Numeri: 20 25 51 59 77 88
+Jolly: 37
+SuperStar: 13
+--------------------------------------
+NÂº 141 - Concorso del 24 Novembre 2012
+Numeri: 12 26 34 42 48 63
+Jolly: 33
+SuperStar: 42
+--------------------------------------
+NÂº 142 - Concorso del 27 Novembre 2012
+Numeri: 5 13 56 65 78 82
+Jolly: 74
+SuperStar: 58
+--------------------------------------
+NÂº 143 - Concorso del 29 Novembre 2012
+Numeri: 1 13 17 29 54 63
+Jolly: 60
+SuperStar: 28
+--------------------------------------
+NÂº 144 - Concorso del 1 Dicembre 2012
+Numeri: 6 20 25 45 56 60
+Jolly: 48
+SuperStar: 66
+--------------------------------------
+NÂº 145 - Concorso del 4 Dicembre 2012
+Numeri: 19 33 35 42 49 83
+Jolly: 9
+SuperStar: 24
+--------------------------------------
+NÂº 146 - Concorso del 6 Dicembre 2012
+Numeri: 15 18 47 70 74 89
+Jolly: 62
+SuperStar: 88
+--------------------------------------
+NÂº 147 - Concorso del 10 Dicembre 2012
+Numeri: 11 28 38 49 66 77
+Jolly: 2
+SuperStar: 79
+--------------------------------------
+NÂº 148 - Concorso del 11 Dicembre 2012
+Numeri: 6 8 10 11 16 61
+Jolly: 26
+SuperStar: 87
+--------------------------------------
+NÂº 149 - Concorso del 13 Dicembre 2012
+Numeri: 9 25 48 61 73 82
+Jolly: 16
+SuperStar: 84
+--------------------------------------
+NÂº 150 - Concorso del 15 Dicembre 2012
+Numeri: 15 26 35 39 53 59
+Jolly: 11
+SuperStar: 66
+--------------------------------------
+NÂº 151 - Concorso del 18 Dicembre 2012
+Numeri: 22 56 60 62 79 87
+Jolly: 61
+SuperStar: 2
+--------------------------------------
+NÂº 152 - Concorso del 20 Dicembre 2012
+Numeri: 6 19 26 27 52 65
+Jolly: 32
+SuperStar: 48
+--------------------------------------
+NÂº 153 - Concorso del 22 Dicembre 2012
+Numeri: 24 50 53 59 80 85
+Jolly: 32
+SuperStar: 3
+--------------------------------------
+NÂº 154 - Concorso del 24 Dicembre 2012
+Numeri: 6 22 31 37 38 51
+Jolly: 35
+SuperStar: 50
+--------------------------------------
+NÂº 155 - Concorso del 27 Dicembre 2012
+Numeri: 28 52 57 71 81 87
+Jolly: 7
+SuperStar: 28
+--------------------------------------
+NÂº 156 - Concorso del 29 Dicembre 2012
+Numeri: 31 39 51 84 86 89
+Jolly: 45
+SuperStar: 48
+--------------------------------------
+

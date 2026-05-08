@@ -1,0 +1,656 @@
+﻿NÂº 1 - Concorso del 2 Gennaio 2014
+Numeri: 49 55 57 64 70 77
+Jolly: 85
+SuperStar: 45
+--------------------------------------
+NÂº 2 - Concorso del 4 Gennaio 2014
+Numeri: 19 26 30 47 69 81
+Jolly: 90
+SuperStar: 30
+--------------------------------------
+NÂº 3 - Concorso del 7 Gennaio 2014
+Numeri: 14 47 48 58 60 69
+Jolly: 26
+SuperStar: 41
+--------------------------------------
+NÂº 4 - Concorso del 9 Gennaio 2014
+Numeri: 15 17 24 41 70 87
+Jolly: 71
+SuperStar: 7
+--------------------------------------
+NÂº 5 - Concorso del 11 Gennaio 2014
+Numeri: 11 37 39 52 68 90
+Jolly: 12
+SuperStar: 56
+--------------------------------------
+NÂº 6 - Concorso del 14 Gennaio 2014
+Numeri: 4 7 25 74 82 87
+Jolly: 3
+SuperStar: 33
+--------------------------------------
+NÂº 7 - Concorso del 16 Gennaio 2014
+Numeri: 3 18 34 37 40 47
+Jolly: 55
+SuperStar: 85
+--------------------------------------
+NÂº 8 - Concorso del 18 Gennaio 2014
+Numeri: 14 18 38 41 74 78
+Jolly: 58
+SuperStar: 70
+--------------------------------------
+NÂº 9 - Concorso del 21 Gennaio 2014
+Numeri: 5 23 35 54 56 62
+Jolly: 53
+SuperStar: 88
+--------------------------------------
+NÂº 10 - Concorso del 23 Gennaio 2014
+Numeri: 3 6 12 13 19 67
+Jolly: 39
+SuperStar: 24
+--------------------------------------
+NÂº 11 - Concorso del 25 Gennaio 2014
+Numeri: 22 34 53 59 62 88
+Jolly: 36
+SuperStar: 57
+--------------------------------------
+NÂº 12 - Concorso del 28 Gennaio 2014
+Numeri: 9 17 27 29 59 67
+Jolly: 34
+SuperStar: 70
+--------------------------------------
+NÂº 13 - Concorso del 30 Gennaio 2014
+Numeri: 7 21 28 45 59 90
+Jolly: 74
+SuperStar: 65
+--------------------------------------
+NÂº 26 - Concorso del 1 Marzo 2014
+Numeri: 7 8 47 56 79 90
+Jolly: 9
+SuperStar: 18
+--------------------------------------
+NÂº 27 - Concorso del 4 Marzo 2014
+Numeri: 40 46 51 61 65 76
+Jolly: 71
+SuperStar: 65
+--------------------------------------
+NÂº 28 - Concorso del 6 Marzo 2014
+Numeri: 15 61 66 67 76 79
+Jolly: 68
+SuperStar: 40
+--------------------------------------
+NÂº 29 - Concorso del 8 Marzo 2014
+Numeri: 35 45 50 51 82 87
+Jolly: 30
+SuperStar: 38
+--------------------------------------
+NÂº 30 - Concorso del 11 Marzo 2014
+Numeri: 49 51 53 56 58 81
+Jolly: 12
+SuperStar: 37
+--------------------------------------
+NÂº 31 - Concorso del 13 Marzo 2014
+Numeri: 10 28 40 57 58 78
+Jolly: 60
+SuperStar: 33
+--------------------------------------
+NÂº 32 - Concorso del 15 Marzo 2014
+Numeri: 1 5 22 24 41 43
+Jolly: 38
+SuperStar: 71
+--------------------------------------
+NÂº 33 - Concorso del 18 Marzo 2014
+Numeri: 38 39 46 58 66 83
+Jolly: 55
+SuperStar: 44
+--------------------------------------
+NÂº 34 - Concorso del 20 Marzo 2014
+Numeri: 15 18 28 49 51 77
+Jolly: 65
+SuperStar: 70
+--------------------------------------
+NÂº 35 - Concorso del 22 Marzo 2014
+Numeri: 19 22 31 38 87 89
+Jolly: 46
+SuperStar: 49
+--------------------------------------
+NÂº 36 - Concorso del 25 Marzo 2014
+Numeri: 28 36 42 70 74 78
+Jolly: 32
+SuperStar: 5
+--------------------------------------
+NÂº 37 - Concorso del 27 Marzo 2014
+Numeri: 8 12 47 64 83 88
+Jolly: 41
+SuperStar: 56
+--------------------------------------
+NÂº 38 - Concorso del 29 Marzo 2014
+Numeri: 12 21 57 68 86 88
+Jolly: 82
+SuperStar: 21
+--------------------------------------
+NÂº 39 - Concorso del 1 Aprile 2014
+Numeri: 7 56 66 72 73 90
+Jolly: 78
+SuperStar: 73
+--------------------------------------
+NÂº 40 - Concorso del 3 Aprile 2014
+Numeri: 40 47 59 64 79 89
+Jolly: 66
+SuperStar: 18
+--------------------------------------
+NÂº 41 - Concorso del 5 Aprile 2014
+Numeri: 9 31 33 37 79 86
+Jolly: 12
+SuperStar: 50
+--------------------------------------
+NÂº 42 - Concorso del 8 Aprile 2014
+Numeri: 11 61 64 76 82 87
+Jolly: 15
+SuperStar: 76
+--------------------------------------
+NÂº 43 - Concorso del 10 Aprile 2014
+Numeri: 22 25 46 52 54 65
+Jolly: 51
+SuperStar: 61
+--------------------------------------
+NÂº 44 - Concorso del 12 Aprile 2014
+Numeri: 14 29 34 62 65 89
+Jolly: 63
+SuperStar: 31
+--------------------------------------
+NÂº 45 - Concorso del 15 Aprile 2014
+Numeri: 3 26 33 44 48 49
+Jolly: 57
+SuperStar: 70
+--------------------------------------
+NÂº 46 - Concorso del 17 Aprile 2014
+Numeri: 11 20 51 63 68 88
+Jolly: 28
+SuperStar: 40
+--------------------------------------
+NÂº 47 - Concorso del 19 Aprile 2014
+Numeri: 42 45 56 75 79 90
+Jolly: 88
+SuperStar: 17
+--------------------------------------
+NÂº 48 - Concorso del 22 Aprile 2014
+Numeri: 14 16 21 24 62 78
+Jolly: 1
+SuperStar: 75
+--------------------------------------
+NÂº 49 - Concorso del 24 Aprile 2014
+Numeri: 5 7 11 67 70 85
+Jolly: 20
+SuperStar: 17
+--------------------------------------
+NÂº 50 - Concorso del 26 Aprile 2014
+Numeri: 3 9 13 25 42 81
+Jolly: 24
+SuperStar: 5
+--------------------------------------
+NÂº 51 - Concorso del 29 Aprile 2014
+Numeri: 27 33 40 52 76 86
+Jolly: 62
+SuperStar: 17
+--------------------------------------
+NÂº 52 - Concorso del 3 Maggio 2014
+Numeri: 15 33 45 60 72 85
+Jolly: 44
+SuperStar: 60
+--------------------------------------
+NÂº 53 - Concorso del 5 Maggio 2014
+Numeri: 27 44 46 50 54 69
+Jolly: 36
+SuperStar: 15
+--------------------------------------
+NÂº 54 - Concorso del 6 Maggio 2014
+Numeri: 1 3 4 60 70 73
+Jolly: 57
+SuperStar: 36
+--------------------------------------
+NÂº 55 - Concorso del 8 Maggio 2014
+Numeri: 6 9 54 70 78 79
+Jolly: 22
+SuperStar: 90
+--------------------------------------
+NÂº 56 - Concorso del 10 Maggio 2014
+Numeri: 8 39 40 57 69 81
+Jolly: 28
+SuperStar: 88
+--------------------------------------
+NÂº 57 - Concorso del 13 Maggio 2014
+Numeri: 3 5 16 54 58 68
+Jolly: 82
+SuperStar: 41
+--------------------------------------
+NÂº 58 - Concorso del 15 Maggio 2014
+Numeri: 20 47 56 64 66 67
+Jolly: 24
+SuperStar: 24
+--------------------------------------
+NÂº 59 - Concorso del 17 Maggio 2014
+Numeri: 5 31 36 68 75 90
+Jolly: 52
+SuperStar: 35
+--------------------------------------
+NÂº 60 - Concorso del 20 Maggio 2014
+Numeri: 10 17 41 45 69 78
+Jolly: 2
+SuperStar: 32
+--------------------------------------
+NÂº 61 - Concorso del 22 Maggio 2014
+Numeri: 8 23 48 56 59 78
+Jolly: 6
+SuperStar: 77
+--------------------------------------
+NÂº 62 - Concorso del 24 Maggio 2014
+Numeri: 3 22 38 70 77 81
+Jolly: 32
+SuperStar: 22
+--------------------------------------
+NÂº 63 - Concorso del 27 Maggio 2014
+Numeri: 32 37 52 53 66 83
+Jolly: 87
+SuperStar: 38
+--------------------------------------
+NÂº 64 - Concorso del 29 Maggio 2014
+Numeri: 27 32 33 52 73 84
+Jolly: 63
+SuperStar: 10
+--------------------------------------
+NÂº 65 - Concorso del 31 Maggio 2014
+Numeri: 1 6 7 10 14 56
+Jolly: 16
+SuperStar: 49
+--------------------------------------
+NÂº 66 - Concorso del 3 Giugno 2014
+Numeri: 3 25 26 29 48 79
+Jolly: 56
+SuperStar: 45
+--------------------------------------
+NÂº 67 - Concorso del 5 Giugno 2014
+Numeri: 11 31 43 70 74 80
+Jolly: 65
+SuperStar: 72
+--------------------------------------
+NÂº 68 - Concorso del 7 Giugno 2014
+Numeri: 12 18 39 46 56 63
+Jolly: 3
+SuperStar: 16
+--------------------------------------
+NÂº 69 - Concorso del 10 Giugno 2014
+Numeri: 27 29 30 42 48 73
+Jolly: 11
+SuperStar: 5
+--------------------------------------
+NÂº 70 - Concorso del 12 Giugno 2014
+Numeri: 13 18 19 27 50 69
+Jolly: 68
+SuperStar: 37
+--------------------------------------
+NÂº 71 - Concorso del 14 Giugno 2014
+Numeri: 3 31 45 48 71 76
+Jolly: 75
+SuperStar: 70
+--------------------------------------
+NÂº 72 - Concorso del 17 Giugno 2014
+Numeri: 21 29 43 53 66 89
+Jolly: 4
+SuperStar: 14
+--------------------------------------
+NÂº 73 - Concorso del 19 Giugno 2014
+Numeri: 16 19 24 36 39 81
+Jolly: 25
+SuperStar: 69
+--------------------------------------
+NÂº 74 - Concorso del 21 Giugno 2014
+Numeri: 14 61 69 79 81 85
+Jolly: 32
+SuperStar: 7
+--------------------------------------
+NÂº 75 - Concorso del 24 Giugno 2014
+Numeri: 3 22 31 42 73 88
+Jolly: 60
+SuperStar: 13
+--------------------------------------
+NÂº 76 - Concorso del 26 Giugno 2014
+Numeri: 8 43 61 62 70 86
+Jolly: 80
+SuperStar: 8
+--------------------------------------
+NÂº 77 - Concorso del 28 Giugno 2014
+Numeri: 17 20 41 42 49 81
+Jolly: 48
+SuperStar: 25
+--------------------------------------
+NÂº 78 - Concorso del 1 Luglio 2014
+Numeri: 31 35 48 64 65 89
+Jolly: 58
+SuperStar: 90
+--------------------------------------
+NÂº 79 - Concorso del 3 Luglio 2014
+Numeri: 1 13 21 25 61 63
+Jolly: 69
+SuperStar: 6
+--------------------------------------
+NÂº 80 - Concorso del 5 Luglio 2014
+Numeri: 15 31 38 47 55 82
+Jolly: 62
+SuperStar: 49
+--------------------------------------
+NÂº 81 - Concorso del 8 Luglio 2014
+Numeri: 5 8 32 43 59 85
+Jolly: 89
+SuperStar: 80
+--------------------------------------
+NÂº 82 - Concorso del 10 Luglio 2014
+Numeri: 3 11 18 30 51 85
+Jolly: 7
+SuperStar: 56
+--------------------------------------
+NÂº 83 - Concorso del 12 Luglio 2014
+Numeri: 11 20 48 52 70 74
+Jolly: 49
+SuperStar: 36
+--------------------------------------
+NÂº 84 - Concorso del 15 Luglio 2014
+Numeri: 5 15 17 31 32 40
+Jolly: 41
+SuperStar: 38
+--------------------------------------
+NÂº 85 - Concorso del 17 Luglio 2014
+Numeri: 6 11 12 28 59 79
+Jolly: 4
+SuperStar: 54
+--------------------------------------
+NÂº 86 - Concorso del 19 Luglio 2014
+Numeri: 29 48 49 54 75 87
+Jolly: 43
+SuperStar: 40
+--------------------------------------
+NÂº 87 - Concorso del 22 Luglio 2014
+Numeri: 7 32 58 60 66 69
+Jolly: 25
+SuperStar: 50
+--------------------------------------
+NÂº 88 - Concorso del 24 Luglio 2014
+Numeri: 4 12 13 55 73 86
+Jolly: 79
+SuperStar: 89
+--------------------------------------
+NÂº 89 - Concorso del 26 Luglio 2014
+Numeri: 1 10 26 28 29 62
+Jolly: 52
+SuperStar: 87
+--------------------------------------
+NÂº 90 - Concorso del 29 Luglio 2014
+Numeri: 32 45 56 74 87 89
+Jolly: 25
+SuperStar: 26
+--------------------------------------
+NÂº 91 - Concorso del 31 Luglio 2014
+Numeri: 14 19 22 66 80 90
+Jolly: 47
+SuperStar: 28
+--------------------------------------
+NÂº 92 - Concorso del 2 Agosto 2014
+Numeri: 29 38 54 58 72 86
+Jolly: 81
+SuperStar: 65
+--------------------------------------
+NÂº 93 - Concorso del 5 Agosto 2014
+Numeri: 2 19 22 41 77 89
+Jolly: 90
+SuperStar: 4
+--------------------------------------
+NÂº 94 - Concorso del 7 Agosto 2014
+Numeri: 10 29 50 59 79 80
+Jolly: 11
+SuperStar: 39
+--------------------------------------
+NÂº 95 - Concorso del 9 Agosto 2014
+Numeri: 9 10 26 53 68 72
+Jolly: 60
+SuperStar: 66
+--------------------------------------
+NÂº 96 - Concorso del 12 Agosto 2014
+Numeri: 11 24 34 39 68 86
+Jolly: 85
+SuperStar: 13
+--------------------------------------
+NÂº 97 - Concorso del 14 Agosto 2014
+Numeri: 4 12 24 61 73 75
+Jolly: 56
+SuperStar: 9
+--------------------------------------
+NÂº 98 - Concorso del 16 Agosto 2014
+Numeri: 31 63 64 68 69 71
+Jolly: 13
+SuperStar: 80
+--------------------------------------
+NÂº 99 - Concorso del 19 Agosto 2014
+Numeri: 15 30 62 63 67 74
+Jolly: 13
+SuperStar: 9
+--------------------------------------
+NÂº 100 - Concorso del 21 Agosto 2014
+Numeri: 4 31 52 73 76 84
+Jolly: 27
+SuperStar: 78
+--------------------------------------
+NÂº 101 - Concorso del 23 Agosto 2014
+Numeri: 16 45 51 58 60 71
+Jolly: 8
+SuperStar: 77
+--------------------------------------
+NÂº 102 - Concorso del 26 Agosto 2014
+Numeri: 1 20 44 56 59 69
+Jolly: 25
+SuperStar: 36
+--------------------------------------
+NÂº 103 - Concorso del 28 Agosto 2014
+Numeri: 22 39 51 78 83 84
+Jolly: 59
+SuperStar: 71
+--------------------------------------
+NÂº 104 - Concorso del 30 Agosto 2014
+Numeri: 23 38 43 46 60 75
+Jolly: 79
+SuperStar: 31
+--------------------------------------
+NÂº 105 - Concorso del 2 Settembre 2014
+Numeri: 6 20 27 31 32 36
+Jolly: 88
+SuperStar: 4
+--------------------------------------
+NÂº 106 - Concorso del 4 Settembre 2014
+Numeri: 31 39 41 53 67 83
+Jolly: 15
+SuperStar: 47
+--------------------------------------
+NÂº 107 - Concorso del 6 Settembre 2014
+Numeri: 26 33 53 61 73 82
+Jolly: 23
+SuperStar: 21
+--------------------------------------
+NÂº 108 - Concorso del 9 Settembre 2014
+Numeri: 12 20 26 41 70 78
+Jolly: 83
+SuperStar: 27
+--------------------------------------
+NÂº 109 - Concorso del 11 Settembre 2014
+Numeri: 13 14 56 58 79 82
+Jolly: 41
+SuperStar: 34
+--------------------------------------
+NÂº 110 - Concorso del 13 Settembre 2014
+Numeri: 7 20 25 51 65 87
+Jolly: 58
+SuperStar: 50
+--------------------------------------
+NÂº 111 - Concorso del 16 Settembre 2014
+Numeri: 1 15 16 23 24 52
+Jolly: 83
+SuperStar: 51
+--------------------------------------
+NÂº 112 - Concorso del 18 Settembre 2014
+Numeri: 11 19 37 41 62 77
+Jolly: 4
+SuperStar: 45
+--------------------------------------
+NÂº 113 - Concorso del 20 Settembre 2014
+Numeri: 15 36 39 50 57 76
+Jolly: 89
+SuperStar: 4
+--------------------------------------
+NÂº 114 - Concorso del 23 Settembre 2014
+Numeri: 6 25 42 59 78 89
+Jolly: 33
+SuperStar: 11
+--------------------------------------
+NÂº 115 - Concorso del 25 Settembre 2014
+Numeri: 4 45 59 77 78 79
+Jolly: 56
+SuperStar: 1
+--------------------------------------
+NÂº 116 - Concorso del 27 Settembre 2014
+Numeri: 1 9 12 14 58 84
+Jolly: 10
+SuperStar: 7
+--------------------------------------
+NÂº 117 - Concorso del 30 Settembre 2014
+Numeri: 28 33 49 55 59 76
+Jolly: 47
+SuperStar: 85
+--------------------------------------
+NÂº 131 - Concorso del 3 Novembre 2014
+Numeri: 7 9 32 35 40 48
+Jolly: 62
+SuperStar: 32
+--------------------------------------
+NÂº 132 - Concorso del 4 Novembre 2014
+Numeri: 13 18 23 29 58 88
+Jolly: 44
+SuperStar: 2
+--------------------------------------
+NÂº 133 - Concorso del 6 Novembre 2014
+Numeri: 46 58 59 82 88 90
+Jolly: 45
+SuperStar: 86
+--------------------------------------
+NÂº 134 - Concorso del 8 Novembre 2014
+Numeri: 21 33 69 73 81 84
+Jolly: 51
+SuperStar: 43
+--------------------------------------
+NÂº 135 - Concorso del 11 Novembre 2014
+Numeri: 23 27 39 41 52 64
+Jolly: 61
+SuperStar: 59
+--------------------------------------
+NÂº 136 - Concorso del 13 Novembre 2014
+Numeri: 2 38 47 50 55 79
+Jolly: 87
+SuperStar: 41
+--------------------------------------
+NÂº 137 - Concorso del 15 Novembre 2014
+Numeri: 28 42 62 64 79 80
+Jolly: 18
+SuperStar: 61
+--------------------------------------
+NÂº 138 - Concorso del 18 Novembre 2014
+Numeri: 38 58 65 66 72 88
+Jolly: 34
+SuperStar: 40
+--------------------------------------
+NÂº 139 - Concorso del 20 Novembre 2014
+Numeri: 42 45 48 56 68 83
+Jolly: 82
+SuperStar: 4
+--------------------------------------
+NÂº 140 - Concorso del 22 Novembre 2014
+Numeri: 22 25 55 58 82 85
+Jolly: 62
+SuperStar: 85
+--------------------------------------
+NÂº 141 - Concorso del 25 Novembre 2014
+Numeri: 17 36 62 67 70 87
+Jolly: 68
+SuperStar: 6
+--------------------------------------
+NÂº 142 - Concorso del 27 Novembre 2014
+Numeri: 13 18 26 53 54 70
+Jolly: 45
+SuperStar: 54
+--------------------------------------
+NÂº 143 - Concorso del 29 Novembre 2014
+Numeri: 3 14 35 63 73 80
+Jolly: 62
+SuperStar: 42
+--------------------------------------
+NÂº 144 - Concorso del 2 Dicembre 2014
+Numeri: 9 25 35 59 76 81
+Jolly: 85
+SuperStar: 14
+--------------------------------------
+NÂº 145 - Concorso del 4 Dicembre 2014
+Numeri: 7 52 57 65 83 85
+Jolly: 84
+SuperStar: 16
+--------------------------------------
+NÂº 146 - Concorso del 6 Dicembre 2014
+Numeri: 10 11 21 54 73 82
+Jolly: 66
+SuperStar: 58
+--------------------------------------
+NÂº 147 - Concorso del 9 Dicembre 2014
+Numeri: 2 23 35 46 47 63
+Jolly: 60
+SuperStar: 55
+--------------------------------------
+NÂº 148 - Concorso del 11 Dicembre 2014
+Numeri: 20 22 24 25 48 79
+Jolly: 42
+SuperStar: 80
+--------------------------------------
+NÂº 149 - Concorso del 13 Dicembre 2014
+Numeri: 12 13 19 37 64 70
+Jolly: 80
+SuperStar: 8
+--------------------------------------
+NÂº 150 - Concorso del 16 Dicembre 2014
+Numeri: 15 35 45 69 82 84
+Jolly: 76
+SuperStar: 29
+--------------------------------------
+NÂº 151 - Concorso del 18 Dicembre 2014
+Numeri: 19 28 48 52 82 89
+Jolly: 11
+SuperStar: 37
+--------------------------------------
+NÂº 152 - Concorso del 20 Dicembre 2014
+Numeri: 1 13 24 26 29 77
+Jolly: 60
+SuperStar: 6
+--------------------------------------
+NÂº 153 - Concorso del 23 Dicembre 2014
+Numeri: 18 22 55 58 62 89
+Jolly: 51
+SuperStar: 10
+--------------------------------------
+NÂº 154 - Concorso del 24 Dicembre 2014
+Numeri: 33 46 53 58 73 85
+Jolly: 80
+SuperStar: 26
+--------------------------------------
+NÂº 155 - Concorso del 27 Dicembre 2014
+Numeri: 15 25 31 39 82 88
+Jolly: 74
+SuperStar: 4
+--------------------------------------
+NÂº 156 - Concorso del 30 Dicembre 2014
+Numeri: 5 24 51 76 77 79
+Jolly: 8
+SuperStar: 63
+--------------------------------------
+

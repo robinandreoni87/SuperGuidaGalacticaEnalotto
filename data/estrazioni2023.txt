@@ -1,0 +1,1092 @@
+﻿NÂº 1 - Concorso del 3 Gennaio 2023
+Numeri: 8 10 30 34 51 71
+Jolly: 20
+SuperStar: 27
+--------------------------------------
+
+NÂº 2 - Concorso del 5 Gennaio 2023
+Numeri: 5 9 13 15 50 64
+Jolly: 68
+SuperStar: 43
+--------------------------------------
+
+NÂº 3 - Concorso del 7 Gennaio 2023
+Numeri: 17 41 54 60 67 86
+Jolly: 51
+SuperStar: 12
+--------------------------------------
+
+NÂº 4 - Concorso del 10 Gennaio 2023
+Numeri: 21 24 31 32 56 83
+Jolly: 78
+SuperStar: 40
+--------------------------------------
+
+NÂº 5 - Concorso del 12 Gennaio 2023
+Numeri: 9 10 22 41 44 85
+Jolly: 5
+SuperStar: 51
+--------------------------------------
+
+NÂº 6 - Concorso del 14 Gennaio 2023
+Numeri: 37 44 52 58 74 78
+Jolly: 65
+SuperStar: 67
+--------------------------------------
+
+NÂº 7 - Concorso del 17 Gennaio 2023
+Numeri: 9 10 14 40 60 68
+Jolly: 21
+SuperStar: 9
+--------------------------------------
+
+NÂº 8 - Concorso del 19 Gennaio 2023
+Numeri: 29 47 57 59 67 87
+Jolly: 6
+SuperStar: 48
+--------------------------------------
+
+NÂº 9 - Concorso del 21 Gennaio 2023
+Numeri: 22 61 66 72 80 82
+Jolly: 67
+SuperStar: 79
+--------------------------------------
+
+NÂº 10 - Concorso del 24 Gennaio 2023
+Numeri: 3 7 20 55 75 80
+Jolly: 88
+SuperStar: 44
+--------------------------------------
+
+NÂº 11 - Concorso del 26 Gennaio 2023
+Numeri: 6 25 34 60 79 86
+Jolly: 48
+SuperStar: 81
+--------------------------------------
+
+NÂº 12 - Concorso del 28 Gennaio 2023
+Numeri: 19 23 53 58 61 82
+Jolly: 73
+SuperStar: 52
+--------------------------------------
+
+NÂº 13 - Concorso del 31 Gennaio 2023
+Numeri: 13 15 23 39 41 46
+Jolly: 30
+SuperStar: 42
+--------------------------------------
+
+NÂº 14 - Concorso del 2 Febbraio 2023
+Numeri: 3 14 19 28 70 80
+Jolly: 83
+SuperStar: 7
+--------------------------------------
+
+NÂº 15 - Concorso del 4 Febbraio 2023
+Numeri: 3 42 46 49 68 81
+Jolly: 4
+SuperStar: 81
+--------------------------------------
+
+NÂº 16 - Concorso del 7 Febbraio 2023
+Numeri: 24 54 58 65 81 89
+Jolly: 63
+SuperStar: 20
+--------------------------------------
+
+NÂº 17 - Concorso del 9 Febbraio 2023
+Numeri: 3 10 25 44 57 90
+Jolly: 53
+SuperStar: 68
+--------------------------------------
+
+NÂº 18 - Concorso del 11 Febbraio 2023
+Numeri: 4 24 25 28 31 68
+Jolly: 79
+SuperStar: 65
+--------------------------------------
+
+NÂº 19 - Concorso del 14 Febbraio 2023
+Numeri: 19 22 67 71 79 85
+Jolly: 23
+SuperStar: 13
+--------------------------------------
+
+NÂº 20 - Concorso del 16 Febbraio 2023
+Numeri: 1 38 47 52 56 66
+Jolly: 72
+SuperStar: 23
+--------------------------------------
+
+NÂº 21 - Concorso del 18 Febbraio 2023
+Numeri: 22 46 52 57 65 72
+Jolly: 31
+SuperStar: 2
+--------------------------------------
+
+NÂº 22 - Concorso del 21 Febbraio 2023
+Numeri: 7 31 44 63 80 83
+Jolly: 87
+SuperStar: 77
+--------------------------------------
+
+NÂº 23 - Concorso del 23 Febbraio 2023
+Numeri: 6 29 34 52 58 68
+Jolly: 59
+SuperStar: 12
+--------------------------------------
+
+NÂº 24 - Concorso del 25 Febbraio 2023
+Numeri: 6 42 52 72 85 89
+Jolly: 56
+SuperStar: 28
+--------------------------------------
+
+NÂº 25 - Concorso del 28 Febbraio 2023
+Numeri: 7 16 47 49 50 73
+Jolly: 45
+SuperStar: 41
+--------------------------------------
+
+NÂº 26 - Concorso del 2 Marzo 2023
+Numeri: 9 24 28 37 44 81
+Jolly: 51
+SuperStar: 72
+--------------------------------------
+
+NÂº 27 - Concorso del 4 Marzo 2023
+Numeri: 4 22 24 29 49 58
+Jolly: 69
+SuperStar: 8
+--------------------------------------
+
+NÂº 28 - Concorso del 7 Marzo 2023
+Numeri: 2 38 49 64 81 89
+Jolly: 43
+SuperStar: 10
+--------------------------------------
+
+NÂº 29 - Concorso del 9 Marzo 2023
+Numeri: 1 19 30 41 42 77
+Jolly: 61
+SuperStar: 32
+--------------------------------------
+
+NÂº 30 - Concorso del 11 Marzo 2023
+Numeri: 23 42 46 54 58 79
+Jolly: 40
+SuperStar: 69
+--------------------------------------
+
+NÂº 31 - Concorso del 14 Marzo 2023
+Numeri: 8 20 25 64 87 88
+Jolly: 75
+SuperStar: 34
+--------------------------------------
+
+NÂº 32 - Concorso del 16 Marzo 2023
+Numeri: 25 28 36 45 48 86
+Jolly: 50
+SuperStar: 51
+--------------------------------------
+
+NÂº 33 - Concorso del 18 Marzo 2023
+Numeri: 35 37 43 47 69 73
+Jolly: 16
+SuperStar: 47
+--------------------------------------
+
+NÂº 34 - Concorso del 21 Marzo 2023
+Numeri: 10 15 16 30 36 71
+Jolly: 59
+SuperStar: 63
+--------------------------------------
+
+NÂº 35 - Concorso del 23 Marzo 2023
+Numeri: 6 8 41 42 66 80
+Jolly: 79
+SuperStar: 11
+--------------------------------------
+
+NÂº 36 - Concorso del 25 Marzo 2023
+Numeri: 4 15 26 27 72 82
+Jolly: 89
+SuperStar: 12
+--------------------------------------
+
+NÂº 37 - Concorso del 28 Marzo 2023
+Numeri: 42 52 62 64 76 79
+Jolly: 55
+SuperStar: 56
+--------------------------------------
+
+NÂº 38 - Concorso del 30 Marzo 2023
+Numeri: 21 29 30 43 46 63
+Jolly: 77
+SuperStar: 54
+--------------------------------------
+
+NÂº 39 - Concorso del 1 Aprile 2023
+Numeri: 5 22 36 47 73 75
+Jolly: 51
+SuperStar: 78
+--------------------------------------
+
+NÂº 40 - Concorso del 4 Aprile 2023
+Numeri: 17 20 54 62 69 88
+Jolly: 39
+SuperStar: 36
+--------------------------------------
+
+NÂº 41 - Concorso del 6 Aprile 2023
+Numeri: 4 28 30 42 45 50
+Jolly: 27
+SuperStar: 55
+--------------------------------------
+
+NÂº 42 - Concorso del 8 Aprile 2023
+Numeri: 17 25 32 38 43 48
+Jolly: 67
+SuperStar: 73
+--------------------------------------
+
+NÂº 43 - Concorso del 11 Aprile 2023
+Numeri: 9 40 55 60 69 70
+Jolly: 34
+SuperStar: 70
+--------------------------------------
+
+NÂº 44 - Concorso del 13 Aprile 2023
+Numeri: 2 11 42 73 76 90
+Jolly: 55
+SuperStar: 35
+--------------------------------------
+
+NÂº 45 - Concorso del 15 Aprile 2023
+Numeri: 7 22 36 52 79 86
+Jolly: 38
+SuperStar: 51
+--------------------------------------
+
+NÂº 46 - Concorso del 18 Aprile 2023
+Numeri: 5 36 62 64 66 67
+Jolly: 53
+SuperStar: 2
+--------------------------------------
+
+NÂº 47 - Concorso del 20 Aprile 2023
+Numeri: 4 5 7 21 45 52
+Jolly: 77
+SuperStar: 37
+--------------------------------------
+
+NÂº 48 - Concorso del 22 Aprile 2023
+Numeri: 6 18 22 25 26 47
+Jolly: 60
+SuperStar: 61
+--------------------------------------
+
+NÂº 49 - Concorso del 24 Aprile 2023
+Numeri: 3 7 46 69 75 82
+Jolly: 81
+SuperStar: 28
+--------------------------------------
+
+NÂº 50 - Concorso del 27 Aprile 2023
+Numeri: 7 10 62 63 77 86
+Jolly: 5
+SuperStar: 44
+--------------------------------------
+
+NÂº 51 - Concorso del 29 Aprile 2023
+Numeri: 21 43 55 56 73 89
+Jolly: 13
+SuperStar: 2
+--------------------------------------
+
+NÂº 52 - Concorso del 2 Maggio 2023
+Numeri: 17 43 60 71 86 88
+Jolly: 16
+SuperStar: 49
+--------------------------------------
+
+NÂº 53 - Concorso del 4 Maggio 2023
+Numeri: 6 9 23 57 62 72
+Jolly: 16
+SuperStar: 22
+--------------------------------------
+
+NÂº 54 - Concorso del 6 Maggio 2023
+Numeri: 10 25 40 46 47 74
+Jolly: 7
+SuperStar: 31
+--------------------------------------
+
+NÂº 55 - Concorso del 9 Maggio 2023
+Numeri: 18 25 41 44 60 78
+Jolly: 36
+SuperStar: 72
+--------------------------------------
+
+NÂº 56 - Concorso del 11 Maggio 2023
+Numeri: 1 6 35 48 62 65
+Jolly: 43
+SuperStar: 83
+--------------------------------------
+
+NÂº 57 - Concorso del 13 Maggio 2023
+Numeri: 3 31 35 57 82 84
+Jolly: 68
+SuperStar: 16
+--------------------------------------
+
+NÂº 58 - Concorso del 16 Maggio 2023
+Numeri: 20 42 52 67 72 77
+Jolly: 82
+SuperStar: 3
+--------------------------------------
+
+NÂº 59 - Concorso del 18 Maggio 2023
+Numeri: 5 16 35 63 69 77
+Jolly: 29
+SuperStar: 3
+--------------------------------------
+
+NÂº 60 - Concorso del 20 Maggio 2023
+Numeri: 18 32 37 46 64 70
+Jolly: 30
+SuperStar: 44
+--------------------------------------
+
+NÂº 61 - Concorso del 23 Maggio 2023
+Numeri: 13 23 26 27 50 63
+Jolly: 71
+SuperStar: 1
+--------------------------------------
+
+NÂº 62 - Concorso del 25 Maggio 2023
+Numeri: 20 22 33 38 40 51
+Jolly: 44
+SuperStar: 76
+--------------------------------------
+
+NÂº 63 - Concorso del 27 Maggio 2023
+Numeri: 12 41 64 78 79 88
+Jolly: 58
+SuperStar: 86
+--------------------------------------
+
+NÂº 64 - Concorso del 30 Maggio 2023
+Numeri: 10 22 37 55 76 87
+Jolly: 60
+SuperStar: 43
+--------------------------------------
+
+NÂº 65 - Concorso del 1 Giugno 2023
+Numeri: 2 37 64 83 89 90
+Jolly: 34
+SuperStar: 23
+--------------------------------------
+
+NÂº 66 - Concorso del 3 Giugno 2023
+Numeri: 27 39 56 58 63 64
+Jolly: 55
+SuperStar: 38
+--------------------------------------
+
+NÂº 67 - Concorso del 6 Giugno 2023
+Numeri: 17 26 51 54 61 62
+Jolly: 73
+SuperStar: 8
+--------------------------------------
+
+NÂº 68 - Concorso del 8 Giugno 2023
+Numeri: 3 8 58 66 82 87
+Jolly: 69
+SuperStar: 55
+--------------------------------------
+
+NÂº 69 - Concorso del 10 Giugno 2023
+Numeri: 8 30 33 40 64 78
+Jolly: 42
+SuperStar: 59
+--------------------------------------
+
+NÂº 70 - Concorso del 13 Giugno 2023
+Numeri: 6 37 53 54 72 84
+Jolly: 74
+SuperStar: 84
+--------------------------------------
+
+NÂº 71 - Concorso del 15 Giugno 2023
+Numeri: 4 9 21 24 52 71
+Jolly: 8
+SuperStar: 58
+--------------------------------------
+
+NÂº 72 - Concorso del 17 Giugno 2023
+Numeri: 12 18 26 40 53 63
+Jolly: 54
+SuperStar: 58
+--------------------------------------
+
+NÂº 73 - Concorso del 20 Giugno 2023
+Numeri: 7 42 56 69 74 76
+Jolly: 45
+SuperStar: 4
+--------------------------------------
+
+NÂº 74 - Concorso del 22 Giugno 2023
+Numeri: 21 30 38 65 67 90
+Jolly: 77
+SuperStar: 7
+--------------------------------------
+
+NÂº 75 - Concorso del 24 Giugno 2023
+Numeri: 1 21 32 35 59 86
+Jolly: 38
+SuperStar: 6
+--------------------------------------
+
+NÂº 76 - Concorso del 27 Giugno 2023
+Numeri: 31 46 57 70 71 80
+Jolly: 75
+SuperStar: 8
+--------------------------------------
+
+NÂº 77 - Concorso del 29 Giugno 2023
+Numeri: 1 27 38 41 79 81
+Jolly: 39
+SuperStar: 29
+--------------------------------------
+
+NÂº 78 - Concorso del 1 Luglio 2023
+Numeri: 17 39 41 43 87 89
+Jolly: 33
+SuperStar: 44
+--------------------------------------
+
+NÂº 79 - Concorso del 4 Luglio 2023
+Numeri: 11 23 50 68 89 90
+Jolly: 41
+SuperStar: 32
+--------------------------------------
+
+NÂº 80 - Concorso del 6 Luglio 2023
+Numeri: 5 17 27 38 53 57
+Jolly: 30
+SuperStar: 16
+--------------------------------------
+
+NÂº 81 - Concorso del 7 Luglio 2023
+Numeri: 1 13 23 73 83 85
+Jolly: 79
+SuperStar: 3
+--------------------------------------
+
+NÂº 82 - Concorso del 8 Luglio 2023
+Numeri: 8 18 20 28 41 56
+Jolly: 58
+SuperStar: 55
+--------------------------------------
+
+NÂº 83 - Concorso del 11 Luglio 2023
+Numeri: 39 41 58 64 71 77
+Jolly: 9
+SuperStar: 74
+--------------------------------------
+
+NÂº 84 - Concorso del 13 Luglio 2023
+Numeri: 20 38 49 50 53 64
+Jolly: 72
+SuperStar: 62
+--------------------------------------
+
+NÂº 85 - Concorso del 14 Luglio 2023
+Numeri: 38 41 43 55 61 71
+Jolly: 59
+SuperStar: 75
+--------------------------------------
+
+NÂº 86 - Concorso del 15 Luglio 2023
+Numeri: 40 45 51 52 56 78
+Jolly: 30
+SuperStar: 5
+--------------------------------------
+
+NÂº 87 - Concorso del 18 Luglio 2023
+Numeri: 22 45 49 52 60 65
+Jolly: 23
+SuperStar: 26
+--------------------------------------
+
+NÂº 88 - Concorso del 20 Luglio 2023
+Numeri: 14 41 47 62 65 88
+Jolly: 39
+SuperStar: 37
+--------------------------------------
+
+NÂº 89 - Concorso del 21 Luglio 2023
+Numeri: 13 38 52 56 73 90
+Jolly: 7
+SuperStar: 24
+--------------------------------------
+
+NÂº 90 - Concorso del 22 Luglio 2023
+Numeri: 2 37 50 65 68 90
+Jolly: 67
+SuperStar: 60
+--------------------------------------
+
+NÂº 91 - Concorso del 25 Luglio 2023
+Numeri: 6 30 48 69 71 74
+Jolly: 62
+SuperStar: 22
+--------------------------------------
+
+NÂº 92 - Concorso del 27 Luglio 2023
+Numeri: 18 39 48 50 57 83
+Jolly: 38
+SuperStar: 55
+--------------------------------------
+
+NÂº 93 - Concorso del 28 Luglio 2023
+Numeri: 1 23 33 50 55 78
+Jolly: 45
+SuperStar: 82
+--------------------------------------
+
+NÂº 94 - Concorso del 29 Luglio 2023
+Numeri: 27 39 58 60 68 85
+Jolly: 45
+SuperStar: 82
+--------------------------------------
+
+NÂº 95 - Concorso del 1 Agosto 2023
+Numeri: 11 32 36 40 54 63
+Jolly: 78
+SuperStar: 57
+--------------------------------------
+
+NÂº 96 - Concorso del 3 Agosto 2023
+Numeri: 4 6 9 33 65 73
+Jolly: 48
+SuperStar: 12
+--------------------------------------
+
+NÂº 97 - Concorso del 4 Agosto 2023
+Numeri: 5 21 57 71 72 84
+Jolly: 66
+SuperStar: 11
+--------------------------------------
+
+NÂº 98 - Concorso del 5 Agosto 2023
+Numeri: 7 9 17 18 47 81
+Jolly: 61
+SuperStar: 20
+--------------------------------------
+
+NÂº 99 - Concorso del 8 Agosto 2023
+Numeri: 3 4 5 71 81 82
+Jolly: 64
+SuperStar: 10
+--------------------------------------
+
+NÂº 100 - Concorso del 10 Agosto 2023
+Numeri: 9 21 43 49 53 86
+Jolly: 68
+SuperStar: 62
+--------------------------------------
+
+NÂº 101 - Concorso del 11 Agosto 2023
+Numeri: 31 45 46 52 69 83
+Jolly: 76
+SuperStar: 34
+--------------------------------------
+
+NÂº 102 - Concorso del 12 Agosto 2023
+Numeri: 2 40 48 78 81 90
+Jolly: 55
+SuperStar: 14
+--------------------------------------
+
+NÂº 103 - Concorso del 14 Agosto 2023
+Numeri: 6 28 46 64 77 82
+Jolly: 20
+SuperStar: 15
+--------------------------------------
+
+NÂº 104 - Concorso del 17 Agosto 2023
+Numeri: 10 12 14 53 63 71
+Jolly: 41
+SuperStar: 41
+--------------------------------------
+
+NÂº 105 - Concorso del 18 Agosto 2023
+Numeri: 5 13 41 58 70 73
+Jolly: 1
+SuperStar: 28
+--------------------------------------
+
+NÂº 106 - Concorso del 19 Agosto 2023
+Numeri: 5 6 18 23 49 61
+Jolly: 22
+SuperStar: 82
+--------------------------------------
+
+NÂº 107 - Concorso del 22 Agosto 2023
+Numeri: 32 45 47 61 67 75
+Jolly: 6
+SuperStar: 83
+--------------------------------------
+
+NÂº 108 - Concorso del 24 Agosto 2023
+Numeri: 3 34 54 67 71 77
+Jolly: 2
+SuperStar: 49
+--------------------------------------
+
+NÂº 109 - Concorso del 25 Agosto 2023
+Numeri: 4 12 41 57 77 78
+Jolly: 40
+SuperStar: 3
+--------------------------------------
+
+NÂº 110 - Concorso del 26 Agosto 2023
+Numeri: 8 11 23 59 73 75
+Jolly: 14
+SuperStar: 11
+--------------------------------------
+
+NÂº 111 - Concorso del 29 Agosto 2023
+Numeri: 52 53 56 69 82 90
+Jolly: 6
+SuperStar: 50
+--------------------------------------
+
+NÂº 112 - Concorso del 31 Agosto 2023
+Numeri: 9 15 61 66 72 73
+Jolly: 2
+SuperStar: 79
+--------------------------------------
+
+NÂº 113 - Concorso del 1 Settembre 2023
+Numeri: 18 53 57 67 75 80
+Jolly: 77
+SuperStar: 39
+--------------------------------------
+
+NÂº 114 - Concorso del 2 Settembre 2023
+Numeri: 7 14 15 49 86 90
+Jolly: 82
+SuperStar: 19
+--------------------------------------
+
+NÂº 115 - Concorso del 5 Settembre 2023
+Numeri: 14 19 20 26 33 65
+Jolly: 15
+SuperStar: 36
+--------------------------------------
+
+NÂº 116 - Concorso del 7 Settembre 2023
+Numeri: 2 15 34 40 57 89
+Jolly: 88
+SuperStar: 73
+--------------------------------------
+
+NÂº 117 - Concorso del 8 Settembre 2023
+Numeri: 13 30 42 58 80 86
+Jolly: 33
+SuperStar: 72
+--------------------------------------
+
+NÂº 118 - Concorso del 9 Settembre 2023
+Numeri: 6 17 28 43 46 76
+Jolly: 61
+SuperStar: 84
+--------------------------------------
+
+NÂº 119 - Concorso del 12 Settembre 2023
+Numeri: 26 28 41 47 81 84
+Jolly: 70
+SuperStar: 70
+--------------------------------------
+
+NÂº 120 - Concorso del 14 Settembre 2023
+Numeri: 23 29 41 55 76 79
+Jolly: 11
+SuperStar: 5
+--------------------------------------
+
+NÂº 121 - Concorso del 15 Settembre 2023
+Numeri: 5 12 42 51 55 80
+Jolly: 35
+SuperStar: 60
+--------------------------------------
+
+NÂº 122 - Concorso del 16 Settembre 2023
+Numeri: 23 27 53 55 74 86
+Jolly: 79
+SuperStar: 65
+--------------------------------------
+
+NÂº 123 - Concorso del 19 Settembre 2023
+Numeri: 9 11 41 52 86 89
+Jolly: 36
+SuperStar: 9
+--------------------------------------
+
+NÂº 124 - Concorso del 21 Settembre 2023
+Numeri: 4 21 29 31 45 59
+Jolly: 42
+SuperStar: 2
+--------------------------------------
+
+NÂº 125 - Concorso del 22 Settembre 2023
+Numeri: 3 58 67 69 70 84
+Jolly: 5
+SuperStar: 11
+--------------------------------------
+
+NÂº 126 - Concorso del 23 Settembre 2023
+Numeri: 22 27 38 51 80 82
+Jolly: 24
+SuperStar: 31
+--------------------------------------
+
+NÂº 127 - Concorso del 26 Settembre 2023
+Numeri: 41 43 45 60 66 78
+Jolly: 30
+SuperStar: 75
+--------------------------------------
+
+NÂº 128 - Concorso del 28 Settembre 2023
+Numeri: 9 25 40 58 85 86
+Jolly: 11
+SuperStar: 34
+--------------------------------------
+
+NÂº 129 - Concorso del 29 Settembre 2023
+Numeri: 6 35 48 53 81 86
+Jolly: 47
+SuperStar: 71
+--------------------------------------
+
+NÂº 130 - Concorso del 30 Settembre 2023
+Numeri: 17 25 64 66 74 76
+Jolly: 49
+SuperStar: 78
+--------------------------------------
+
+NÂº 131 - Concorso del 3 Ottobre 2023
+Numeri: 12 13 20 54 67 84
+Jolly: 66
+SuperStar: 77
+--------------------------------------
+
+NÂº 132 - Concorso del 5 Ottobre 2023
+Numeri: 20 22 39 65 69 71
+Jolly: 38
+SuperStar: 53
+--------------------------------------
+
+NÂº 133 - Concorso del 6 Ottobre 2023
+Numeri: 33 36 48 62 82 90
+Jolly: 8
+SuperStar: 61
+--------------------------------------
+
+NÂº 134 - Concorso del 7 Ottobre 2023
+Numeri: 12 35 37 42 55 58
+Jolly: 63
+SuperStar: 13
+--------------------------------------
+
+NÂº 135 - Concorso del 10 Ottobre 2023
+Numeri: 1 39 45 49 87 88
+Jolly: 30
+SuperStar: 41
+--------------------------------------
+
+NÂº 136 - Concorso del 12 Ottobre 2023
+Numeri: 5 7 10 14 20 36
+Jolly: 54
+SuperStar: 11
+--------------------------------------
+
+NÂº 137 - Concorso del 13 Ottobre 2023
+Numeri: 24 29 40 55 56 77
+Jolly: 49
+SuperStar: 79
+--------------------------------------
+
+NÂº 138 - Concorso del 14 Ottobre 2023
+Numeri: 4 6 52 79 81 83
+Jolly: 45
+SuperStar: 53
+--------------------------------------
+
+NÂº 139 - Concorso del 17 Ottobre 2023
+Numeri: 16 28 39 40 63 85
+Jolly: 12
+SuperStar: 33
+--------------------------------------
+
+NÂº 140 - Concorso del 19 Ottobre 2023
+Numeri: 10 18 45 55 66 70
+Jolly: 75
+SuperStar: 53
+--------------------------------------
+
+NÂº 141 - Concorso del 20 Ottobre 2023
+Numeri: 14 21 24 49 71 81
+Jolly: 5
+SuperStar: 17
+--------------------------------------
+
+NÂº 142 - Concorso del 21 Ottobre 2023
+Numeri: 23 35 37 58 61 73
+Jolly: 50
+SuperStar: 13
+--------------------------------------
+
+NÂº 143 - Concorso del 24 Ottobre 2023
+Numeri: 8 18 41 54 75 79
+Jolly: 42
+SuperStar: 8
+--------------------------------------
+
+NÂº 144 - Concorso del 26 Ottobre 2023
+Numeri: 11 19 28 34 38 45
+Jolly: 1
+SuperStar: 31
+--------------------------------------
+
+NÂº 145 - Concorso del 27 Ottobre 2023
+Numeri: 23 40 49 57 68 69
+Jolly: 56
+SuperStar: 56
+--------------------------------------
+
+NÂº 146 - Concorso del 28 Ottobre 2023
+Numeri: 4 9 25 30 57 66
+Jolly: 79
+SuperStar: 77
+--------------------------------------
+
+NÂº 147 - Concorso del 31 Ottobre 2023
+Numeri: 3 42 54 69 73 80
+Jolly: 68
+SuperStar: 29
+--------------------------------------
+
+NÂº 148 - Concorso del 2 Novembre 2023
+Numeri: 17 29 40 56 60 80
+Jolly: 33
+SuperStar: 2
+--------------------------------------
+
+NÂº 149 - Concorso del 3 Novembre 2023
+Numeri: 52 64 68 76 84 87
+Jolly: 14
+SuperStar: 6
+--------------------------------------
+
+NÂº 150 - Concorso del 4 Novembre 2023
+Numeri: 16 52 59 63 84 90
+Jolly: 32
+SuperStar: 55
+--------------------------------------
+
+NÂº 151 - Concorso del 7 Novembre 2023
+Numeri: 10 30 36 64 69 76
+Jolly: 68
+SuperStar: 88
+--------------------------------------
+
+NÂº 152 - Concorso del 9 Novembre 2023
+Numeri: 14 68 70 84 85 87
+Jolly: 45
+SuperStar: 16
+--------------------------------------
+
+NÂº 153 - Concorso del 10 Novembre 2023
+Numeri: 7 45 58 62 69 76
+Jolly: 66
+SuperStar: 37
+--------------------------------------
+
+NÂº 154 - Concorso del 11 Novembre 2023
+Numeri: 16 22 23 25 62 82
+Jolly: 5
+SuperStar: 11
+--------------------------------------
+
+NÂº 155 - Concorso del 14 Novembre 2023
+Numeri: 35 38 39 51 74 80
+Jolly: 4
+SuperStar: 20
+--------------------------------------
+
+NÂº 156 - Concorso del 16 Novembre 2023
+Numeri: 9 10 19 40 52 56
+Jolly: 50
+SuperStar: 42
+--------------------------------------
+
+NÂº 157 - Concorso del 17 Novembre 2023
+Numeri: 14 23 63 70 75 89
+Jolly: 59
+SuperStar: 83
+--------------------------------------
+
+NÂº 158 - Concorso del 18 Novembre 2023
+Numeri: 5 51 52 60 62 80
+Jolly: 22
+SuperStar: 23
+--------------------------------------
+
+NÂº 159 - Concorso del 21 Novembre 2023
+Numeri: 30 59 61 86 88 90
+Jolly: 43
+SuperStar: 77
+--------------------------------------
+
+NÂº 160 - Concorso del 23 Novembre 2023
+Numeri: 1 37 61 68 71 83
+Jolly: 52
+SuperStar: 25
+--------------------------------------
+
+NÂº 161 - Concorso del 24 Novembre 2023
+Numeri: 4 13 28 30 47 59
+Jolly: 61
+SuperStar: 56
+--------------------------------------
+
+NÂº 162 - Concorso del 25 Novembre 2023
+Numeri: 11 27 28 55 58 73
+Jolly: 49
+SuperStar: 12
+--------------------------------------
+
+NÂº 163 - Concorso del 28 Novembre 2023
+Numeri: 6 14 49 52 67 68
+Jolly: 80
+SuperStar: 25
+--------------------------------------
+
+NÂº 164 - Concorso del 30 Novembre 2023
+Numeri: 27 38 41 81 84 86
+Jolly: 49
+SuperStar: 69
+--------------------------------------
+
+NÂº 165 - Concorso del 1 Dicembre 2023
+Numeri: 11 22 33 44 65 66
+Jolly: 87
+SuperStar: 17
+--------------------------------------
+
+NÂº 166 - Concorso del 2 Dicembre 2023
+Numeri: 19 24 29 53 74 83
+Jolly: 70
+SuperStar: 40
+--------------------------------------
+
+NÂº 167 - Concorso del 5 Dicembre 2023
+Numeri: 4 6 16 39 41 44
+Jolly: 23
+SuperStar: 78
+--------------------------------------
+
+NÂº 168 - Concorso del 7 Dicembre 2023
+Numeri: 5 19 42 44 68 84
+Jolly: 72
+SuperStar: 38
+--------------------------------------
+
+NÂº 169 - Concorso del 9 Dicembre 2023
+Numeri: 3 20 27 41 59 82
+Jolly: 24
+SuperStar: 31
+--------------------------------------
+
+NÂº 170 - Concorso del 11 Dicembre 2023
+Numeri: 1 41 46 50 84 89
+Jolly: 37
+SuperStar: 19
+--------------------------------------
+
+NÂº 171 - Concorso del 12 Dicembre 2023
+Numeri: 4 27 47 57 59 89
+Jolly: 7
+SuperStar: 4
+--------------------------------------
+
+NÂº 172 - Concorso del 14 Dicembre 2023
+Numeri: 22 28 37 39 53 86
+Jolly: 78
+SuperStar: 70
+--------------------------------------
+
+NÂº 173 - Concorso del 15 Dicembre 2023
+Numeri: 52 63 67 71 83 89
+Jolly: 23
+SuperStar: 46
+--------------------------------------
+
+NÂº 174 - Concorso del 16 Dicembre 2023
+Numeri: 13 22 23 42 47 87
+Jolly: 67
+SuperStar: 69
+--------------------------------------
+
+NÂº 175 - Concorso del 18 Dicembre 2023
+Numeri: 3 4 14 15 65 85
+Jolly: 33
+SuperStar: 43
+--------------------------------------
+
+NÂº 176 - Concorso del 19 Dicembre 2023
+Numeri: 20 26 30 33 54 83
+Jolly: 89
+SuperStar: 64
+--------------------------------------
+
+NÂº 177 - Concorso del 21 Dicembre 2023
+Numeri: 19 32 38 62 77 79
+Jolly: 90
+SuperStar: 83
+--------------------------------------
+
+NÂº 178 - Concorso del 22 Dicembre 2023
+Numeri: 1 8 46 57 73 79
+Jolly: 67
+SuperStar: 32
+--------------------------------------
+
+NÂº 179 - Concorso del 23 Dicembre 2023
+Numeri: 8 10 49 57 79 81
+Jolly: 36
+SuperStar: 65
+--------------------------------------
+
+NÂº 180 - Concorso del 28 Dicembre 2023
+Numeri: 15 36 57 58 79 86
+Jolly: 35
+SuperStar: 47
+--------------------------------------
+
+NÂº 181 - Concorso del 29 Dicembre 2023
+Numeri: 13 46 47 67 68 90
+Jolly: 55
+SuperStar: 40
+--------------------------------------
+
+NÂº 182 - Concorso del 30 Dicembre 2023
+Numeri: 23 43 45 53 66 69
+Jolly: 4
+SuperStar: 59
+--------------------------------------
+

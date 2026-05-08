@@ -1,0 +1,781 @@
+﻿NÂº 156 - Concorso del 29 dicembre 2007
+Numeri: 12 26 70 74 84 87
+Jolly: 46
+SuperStar: 11
+--------------------------------------
+NÂº 155 - Concorso del 27 dicembre 2007
+Numeri: 6 13 19 37 67 72
+Jolly: 49
+SuperStar: 1
+--------------------------------------
+NÂº 154 - Concorso del 24 dicembre 2007
+Numeri: 29 31 35 49 69 74
+Jolly: 16
+SuperStar: 28
+--------------------------------------
+NÂº 153 - Concorso del 22 dicembre 2007
+Numeri: 3 14 30 50 66 87
+Jolly: 47
+SuperStar: 48
+--------------------------------------
+NÂº 152 - Concorso del 20 dicembre 2007
+Numeri: 6 10 13 17 22 46
+Jolly: 43
+SuperStar: 85
+--------------------------------------
+NÂº 151 - Concorso del 18 dicembre 2007
+Numeri: 28 29 33 35 65 80
+Jolly: 69
+SuperStar: 7
+--------------------------------------
+NÂº 150 - Concorso del 15 dicembre 2007
+Numeri: 25 31 43 61 63 86
+Jolly: 23
+SuperStar: 39
+--------------------------------------
+NÂº 149 - Concorso del 13 dicembre 2007
+Numeri: 12 20 22 39 55 72
+Jolly: 15
+SuperStar: 52
+--------------------------------------
+NÂº 148 - Concorso del 11 dicembre 2007
+Numeri: 9 12 28 71 82 85
+Jolly: 37
+SuperStar: 1
+--------------------------------------
+NÂº 147 - Concorso del 10 dicembre 2007
+Numeri: 5 13 28 30 42 63
+Jolly: 84
+SuperStar: 66
+--------------------------------------
+NÂº 146 - Concorso del 6 dicembre 2007
+Numeri: 33 37 48 65 83 84
+Jolly: 55
+SuperStar: 88
+--------------------------------------
+NÂº 145 - Concorso del 4 dicembre 2007
+Numeri: 3 10 40 54 69 85
+Jolly: 43
+SuperStar: 13
+--------------------------------------
+NÂº 144 - Concorso del 1 dicembre 2007
+Numeri: 6 19 30 53 55 76
+Jolly: 17
+SuperStar: 70
+--------------------------------------
+NÂº 143 - Concorso del 29 novembre 2007
+Numeri: 17 41 42 43 66 76
+Jolly: 8
+SuperStar: 46
+--------------------------------------
+NÂº 142 - Concorso del 27 novembre 2007
+Numeri: 2 22 28 39 61 79
+Jolly: 84
+SuperStar: 23
+--------------------------------------
+NÂº 141 - Concorso del 24 novembre 2007
+Numeri: 26 37 53 81 86 90
+Jolly: 31
+SuperStar: 60
+--------------------------------------
+NÂº 140 - Concorso del 22 novembre 2007
+Numeri: 2 51 55 57 61 82
+Jolly: 15
+SuperStar: 60
+--------------------------------------
+NÂº 139 - Concorso del 20 novembre 2007
+Numeri: 1 18 30 34 65 75
+Jolly: 31
+SuperStar: 45
+--------------------------------------
+NÂº 138 - Concorso del 17 novembre 2007
+Numeri: 18 28 40 63 68 86
+Jolly: 71
+SuperStar: 68
+--------------------------------------
+NÂº 137 - Concorso del 15 novembre 2007
+Numeri: 4 9 69 74 76 85
+Jolly: 86
+SuperStar: 11
+--------------------------------------
+NÂº 136 - Concorso del 13 novembre 2007
+Numeri: 1 2 33 62 68 79
+Jolly: 14
+SuperStar: 21
+--------------------------------------
+NÂº 135 - Concorso del 10 novembre 2007
+Numeri: 6 39 50 52 54 88
+Jolly: 51
+SuperStar: 49
+--------------------------------------
+NÂº 134 - Concorso del 8 novembre 2007
+Numeri: 16 29 38 62 72 84
+Jolly: 66
+SuperStar: 28
+--------------------------------------
+NÂº 133 - Concorso del 6 novembre 2007
+Numeri: 13 18 32 46 55 78
+Jolly: 59
+SuperStar: 66
+--------------------------------------
+NÂº 132 - Concorso del 3 novembre 2007
+Numeri: 11 31 44 64 83 89
+Jolly: 34
+SuperStar: 37
+--------------------------------------
+NÂº 131 - Concorso del 2 novembre 2007
+Numeri: 29 31 51 60 72 73
+Jolly: 69
+SuperStar: 50
+--------------------------------------
+NÂº 130 - Concorso del 30 ottobre 2007
+Numeri: 22 39 54 63 68 73
+Jolly: 12
+SuperStar: 15
+--------------------------------------
+NÂº 129 - Concorso del 27 ottobre 2007
+Numeri: 7 19 39 42 56 57
+Jolly: 18
+SuperStar: 73
+--------------------------------------
+NÂº 128 - Concorso del 25 ottobre 2007
+Numeri: 3 6 7 30 67 89
+Jolly: 11
+SuperStar: 7
+--------------------------------------
+NÂº 127 - Concorso del 23 ottobre 2007
+Numeri: 1 10 26 62 71 90
+Jolly: 43
+SuperStar: 32
+--------------------------------------
+NÂº 126 - Concorso del 20 ottobre 2007
+Numeri: 11 17 20 36 57 72
+Jolly: 51
+SuperStar: 89
+--------------------------------------
+NÂº 125 - Concorso del 18 ottobre 2007
+Numeri: 2 24 51 55 62 81
+Jolly: 53
+SuperStar: 27
+--------------------------------------
+NÂº 124 - Concorso del 16 ottobre 2007
+Numeri: 7 21 58 65 72 77
+Jolly: 85
+SuperStar: 23
+--------------------------------------
+NÂº 123 - Concorso del 13 ottobre 2007
+Numeri: 12 41 42 44 80 86
+Jolly: 37
+SuperStar: 46
+--------------------------------------
+NÂº 122 - Concorso del 11 ottobre 2007
+Numeri: 18 37 49 71 76 78
+Jolly: 23
+SuperStar: 35
+--------------------------------------
+NÂº 121 - Concorso del 9 ottobre 2007
+Numeri: 7 9 17 51 57 78
+Jolly: 87
+SuperStar: 20
+--------------------------------------
+NÂº 120 - Concorso del 6 ottobre 2007
+Numeri: 3 20 21 43 69 70
+Jolly: 78
+SuperStar: 11
+--------------------------------------
+NÂº 119 - Concorso del 4 ottobre 2007
+Numeri: 3 17 33 51 77 87
+Jolly: 16
+SuperStar: 42
+--------------------------------------
+NÂº 118 - Concorso del 2 ottobre 2007
+Numeri: 8 23 48 49 61 62
+Jolly: 47
+SuperStar: 54
+--------------------------------------
+NÂº 117 - Concorso del 29 settembre 2007
+Numeri: 8 11 17 20 21 80
+Jolly: 64
+SuperStar: 35
+--------------------------------------
+NÂº 116 - Concorso del 27 settembre 2007
+Numeri: 2 23 46 48 55 63
+Jolly: 15
+SuperStar: 83
+--------------------------------------
+NÂº 115 - Concorso del 25 settembre 2007
+Numeri: 10 14 18 22 48 68
+Jolly: 38
+SuperStar: 24
+--------------------------------------
+NÂº 114 - Concorso del 22 settembre 2007
+Numeri: 4 52 68 79 85 86
+Jolly: 20
+SuperStar: 68
+--------------------------------------
+NÂº 113 - Concorso del 20 settembre 2007
+Numeri: 10 20 24 38 49 87
+Jolly: 77
+SuperStar: 48
+--------------------------------------
+NÂº 112 - Concorso del 18 settembre 2007
+Numeri: 7 17 30 56 68 80
+Jolly: 19
+SuperStar: 28
+--------------------------------------
+NÂº 111 - Concorso del 15 settembre 2007
+Numeri: 10 30 57 64 72 75
+Jolly: 49
+SuperStar: 3
+--------------------------------------
+NÂº 110 - Concorso del 13 settembre 2007
+Numeri: 15 23 59 65 78 82
+Jolly: 41
+SuperStar: 79
+--------------------------------------
+NÂº 109 - Concorso del 11 settembre 2007
+Numeri: 3 4 19 39 73 78
+Jolly: 80
+SuperStar: 5
+--------------------------------------
+NÂº 108 - Concorso del 8 settembre 2007
+Numeri: 9 31 32 47 70 89
+Jolly: 19
+SuperStar: 5
+--------------------------------------
+NÂº 107 - Concorso del 6 settembre 2007
+Numeri: 9 16 22 25 26 70
+Jolly: 64
+SuperStar: 63
+--------------------------------------
+NÂº 106 - Concorso del 4 settembre 2007
+Numeri: 5 6 9 51 62 66
+Jolly: 10
+SuperStar: 3
+--------------------------------------
+NÂº 105 - Concorso del 1 settembre 2007
+Numeri: 1 35 37 39 57 84
+Jolly: 67
+SuperStar: 31
+--------------------------------------
+NÂº 104 - Concorso del 30 agosto 2007
+Numeri: 19 48 49 56 60 88
+Jolly: 76
+SuperStar: 56
+--------------------------------------
+NÂº 103 - Concorso del 28 agosto 2007
+Numeri: 6 18 36 75 81 83
+Jolly: 72
+SuperStar: 75
+--------------------------------------
+NÂº 102 - Concorso del 25 agosto 2007
+Numeri: 4 23 25 30 34 57
+Jolly: 40
+SuperStar: 70
+--------------------------------------
+NÂº 101 - Concorso del 23 agosto 2007
+Numeri: 8 46 49 55 80 87
+Jolly: 64
+SuperStar: 67
+--------------------------------------
+NÂº 100 - Concorso del 21 agosto 2007
+Numeri: 11 27 45 53 55 58
+Jolly: 34
+SuperStar: 85
+--------------------------------------
+NÂº 99 - Concorso del 18 agosto 2007
+Numeri: 1 25 60 67 87 88
+Jolly: 75
+SuperStar: 14
+--------------------------------------
+NÂº 98 - Concorso del 16 agosto 2007
+Numeri: 16 24 37 38 69 78
+Jolly: 25
+SuperStar: 4
+--------------------------------------
+NÂº 97 - Concorso del 14 agosto 2007
+Numeri: 14 19 44 52 60 71
+Jolly: 57
+SuperStar: 18
+--------------------------------------
+NÂº 96 - Concorso del 11 agosto 2007
+Numeri: 30 37 41 62 65 68
+Jolly: 40
+SuperStar: 64
+--------------------------------------
+NÂº 95 - Concorso del 9 agosto 2007
+Numeri: 34 39 57 62 79 83
+Jolly: 13
+SuperStar: 3
+--------------------------------------
+NÂº 94 - Concorso del 7 agosto 2007
+Numeri: 21 29 50 55 67 73
+Jolly: 24
+SuperStar: 85
+--------------------------------------
+NÂº 93 - Concorso del 4 agosto 2007
+Numeri: 41 46 64 71 84 87
+Jolly: 81
+SuperStar: 22
+--------------------------------------
+NÂº 92 - Concorso del 2 agosto 2007
+Numeri: 16 24 51 55 59 66
+Jolly: 41
+SuperStar: 52
+--------------------------------------
+NÂº 91 - Concorso del 31 luglio 2007
+Numeri: 12 38 65 72 83 84
+Jolly: 31
+SuperStar: 61
+--------------------------------------
+NÂº 90 - Concorso del 28 luglio 2007
+Numeri: 8 38 47 63 71 84
+Jolly: 69
+SuperStar: 36
+--------------------------------------
+NÂº 89 - Concorso del 26 luglio 2007
+Numeri: 20 22 36 68 81 87
+Jolly: 52
+SuperStar: 55
+--------------------------------------
+NÂº 88 - Concorso del 24 luglio 2007
+Numeri: 43 56 61 62 73 81
+Jolly: 75
+SuperStar: 73
+--------------------------------------
+NÂº 87 - Concorso del 21 luglio 2007
+Numeri: 18 62 64 69 75 81
+Jolly: 3
+SuperStar: 6
+--------------------------------------
+NÂº 86 - Concorso del 19 luglio 2007
+Numeri: 21 30 33 45 62 70
+Jolly: 57
+SuperStar: 3
+--------------------------------------
+NÂº 85 - Concorso del 17 luglio 2007
+Numeri: 23 31 62 65 69 89
+Jolly: 49
+SuperStar: 46
+--------------------------------------
+NÂº 84 - Concorso del 14 luglio 2007
+Numeri: 27 33 44 56 63 85
+Jolly: 79
+SuperStar: 40
+--------------------------------------
+NÂº 83 - Concorso del 12 luglio 2007
+Numeri: 1 35 51 56 68 79
+Jolly: 63
+SuperStar: 7
+--------------------------------------
+NÂº 82 - Concorso del 10 luglio 2007
+Numeri: 14 42 53 68 83 89
+Jolly: 75
+SuperStar: 78
+--------------------------------------
+NÂº 81 - Concorso del 7 luglio 2007
+Numeri: 32 45 69 77 83 87
+Jolly: 19
+SuperStar: 3
+--------------------------------------
+NÂº 80 - Concorso del 5 luglio 2007
+Numeri: 8 24 52 73 84 86
+Jolly: 51
+SuperStar: 11
+--------------------------------------
+NÂº 79 - Concorso del 3 luglio 2007
+Numeri: 19 23 39 54 79 87
+Jolly: 42
+SuperStar: 43
+--------------------------------------
+NÂº 78 - Concorso del 30 giugno 2007
+Numeri: 4 24 30 61 66 69
+Jolly: 67
+SuperStar: 24
+--------------------------------------
+NÂº 77 - Concorso del 28 giugno 2007
+Numeri: 3 20 47 52 83 90
+Jolly: 75
+SuperStar: 22
+--------------------------------------
+NÂº 76 - Concorso del 26 giugno 2007
+Numeri: 6 15 45 47 69 70
+Jolly: 40
+SuperStar: 18
+--------------------------------------
+NÂº 75 - Concorso del 23 giugno 2007
+Numeri: 15 42 65 68 70 90
+Jolly: 46
+SuperStar: 40
+--------------------------------------
+NÂº 74 - Concorso del 21 giugno 2007
+Numeri: 2 10 35 67 77 90
+Jolly: 51
+SuperStar: 80
+--------------------------------------
+NÂº 73 - Concorso del 19 giugno 2007
+Numeri: 1 2 26 41 65 80
+Jolly: 37
+SuperStar: 27
+--------------------------------------
+NÂº 72 - Concorso del 16 giugno 2007
+Numeri: 29 32 39 43 66 73
+Jolly: 60
+SuperStar: 6
+--------------------------------------
+NÂº 71 - Concorso del 14 giugno 2007
+Numeri: 12 42 44 46 52 86
+Jolly: 25
+SuperStar: 34
+--------------------------------------
+NÂº 70 - Concorso del 12 giugno 2007
+Numeri: 1 14 17 47 61 66
+Jolly: 13
+SuperStar: 53
+--------------------------------------
+NÂº 69 - Concorso del 9 giugno 2007
+Numeri: 5 19 20 26 53 54
+Jolly: 56
+SuperStar: 23
+--------------------------------------
+NÂº 68 - Concorso del 7 giugno 2007
+Numeri: 59 66 69 72 73 80
+Jolly: 23
+SuperStar: 53
+--------------------------------------
+NÂº 67 - Concorso del 5 giugno 2007
+Numeri: 1 9 13 29 71 83
+Jolly: 56
+SuperStar: 41
+--------------------------------------
+NÂº 66 - Concorso del 4 giugno 2007
+Numeri: 17 39 40 75 76 88
+Jolly: 19
+SuperStar: 86
+--------------------------------------
+NÂº 65 - Concorso del 31 maggio 2007
+Numeri: 7 21 36 38 77 79
+Jolly: 17
+SuperStar: 18
+--------------------------------------
+NÂº 64 - Concorso del 29 maggio 2007
+Numeri: 1 16 17 31 42 70
+Jolly: 81
+SuperStar: 51
+--------------------------------------
+NÂº 63 - Concorso del 26 maggio 2007
+Numeri: 5 31 62 63 68 78
+Jolly: 2
+SuperStar: 47
+--------------------------------------
+NÂº 62 - Concorso del 24 maggio 2007
+Numeri: 13 19 32 39 44 61
+Jolly: 66
+SuperStar: 18
+--------------------------------------
+NÂº 61 - Concorso del 22 maggio 2007
+Numeri: 1 44 67 77 88 90
+Jolly: 79
+SuperStar: 31
+--------------------------------------
+NÂº 60 - Concorso del 19 maggio 2007
+Numeri: 7 8 13 17 38 43
+Jolly: 6
+SuperStar: 59
+--------------------------------------
+NÂº 59 - Concorso del 17 maggio 2007
+Numeri: 10 36 63 75 79 85
+Jolly: 49
+SuperStar: 44
+--------------------------------------
+NÂº 58 - Concorso del 15 maggio 2007
+Numeri: 23 33 78 79 87 88
+Jolly: 56
+SuperStar: 90
+--------------------------------------
+NÂº 57 - Concorso del 12 maggio 2007
+Numeri: 25 46 48 52 57 81
+Jolly: 3
+SuperStar: 6
+--------------------------------------
+NÂº 56 - Concorso del 10 maggio 2007
+Numeri: 32 38 55 58 66 85
+Jolly: 51
+SuperStar: 38
+--------------------------------------
+NÂº 55 - Concorso del 8 maggio 2007
+Numeri: 14 30 33 35 58 76
+Jolly: 82
+SuperStar: 77
+--------------------------------------
+NÂº 54 - Concorso del 5 maggio 2007
+Numeri: 2 3 64 69 73 82
+Jolly: 62
+SuperStar: 58
+--------------------------------------
+NÂº 53 - Concorso del 3 maggio 2007
+Numeri: 1 11 20 66 69 88
+Jolly: 35
+SuperStar: 3
+--------------------------------------
+NÂº 52 - Concorso del 2 maggio 2007
+Numeri: 3 6 12 20 69 83
+Jolly: 80
+SuperStar: 52
+--------------------------------------
+NÂº 51 - Concorso del 28 aprile 2007
+Numeri: 7 15 16 21 37 60
+Jolly: 52
+SuperStar: 58
+--------------------------------------
+NÂº 50 - Concorso del 26 aprile 2007
+Numeri: 36 38 54 56 75 85
+Jolly: 28
+SuperStar: 32
+--------------------------------------
+NÂº 49 - Concorso del 24 aprile 2007
+Numeri: 8 36 40 45 67 79
+Jolly: 84
+SuperStar: 40
+--------------------------------------
+NÂº 48 - Concorso del 21 aprile 2007
+Numeri: 11 19 43 75 81 87
+Jolly: 1
+SuperStar: 80
+--------------------------------------
+NÂº 47 - Concorso del 19 aprile 2007
+Numeri: 28 30 65 74 77 83
+Jolly: 40
+SuperStar: 88
+--------------------------------------
+NÂº 46 - Concorso del 17 aprile 2007
+Numeri: 3 21 33 45 47 85
+Jolly: 17
+SuperStar: 22
+--------------------------------------
+NÂº 45 - Concorso del 14 aprile 2007
+Numeri: 3 46 64 71 78 87
+Jolly: 4
+SuperStar: 64
+--------------------------------------
+NÂº 44 - Concorso del 12 aprile 2007
+Numeri: 10 28 53 64 76 79
+Jolly: 47
+SuperStar: 81
+--------------------------------------
+NÂº 43 - Concorso del 10 aprile 2007
+Numeri: 8 30 39 66 69 78
+Jolly: 70
+SuperStar: 54
+--------------------------------------
+NÂº 42 - Concorso del 7 aprile 2007
+Numeri: 1 29 37 67 74 81
+Jolly: 54
+SuperStar: 67
+--------------------------------------
+NÂº 41 - Concorso del 5 aprile 2007
+Numeri: 2 17 60 77 85 86
+Jolly: 21
+SuperStar: 71
+--------------------------------------
+NÂº 40 - Concorso del 3 aprile 2007
+Numeri: 12 16 21 25 27 64
+Jolly: 66
+SuperStar: 4
+--------------------------------------
+NÂº 39 - Concorso del 31 marzo 2007
+Numeri: 42 70 74 78 82 87
+Jolly: 23
+SuperStar: 41
+--------------------------------------
+NÂº 38 - Concorso del 29 marzo 2007
+Numeri: 13 17 19 21 69 73
+Jolly: 78
+SuperStar: 20
+--------------------------------------
+NÂº 37 - Concorso del 27 marzo 2007
+Numeri: 35 36 43 46 69 75
+Jolly: 47
+SuperStar: 17
+--------------------------------------
+NÂº 36 - Concorso del 24 marzo 2007
+Numeri: 28 45 60 63 74 86
+Jolly: 66
+SuperStar: 5
+--------------------------------------
+NÂº 35 - Concorso del 22 marzo 2007
+Numeri: 23 32 34 72 80 83
+Jolly: 22
+SuperStar: 86
+--------------------------------------
+NÂº 34 - Concorso del 20 marzo 2007
+Numeri: 5 7 68 71 75 85
+Jolly: 15
+SuperStar: 18
+--------------------------------------
+NÂº 33 - Concorso del 17 marzo 2007
+Numeri: 10 43 55 56 81 87
+Jolly: 69
+SuperStar: 35
+--------------------------------------
+NÂº 32 - Concorso del 15 marzo 2007
+Numeri: 1 6 43 46 61 83
+Jolly: 80
+SuperStar: 71
+--------------------------------------
+NÂº 31 - Concorso del 13 marzo 2007
+Numeri: 13 46 48 76 81 83
+Jolly: 35
+SuperStar: 70
+--------------------------------------
+NÂº 30 - Concorso del 10 marzo 2007
+Numeri: 16 22 36 40 62 75
+Jolly: 55
+SuperStar: 51
+--------------------------------------
+NÂº 29 - Concorso del 8 marzo 2007
+Numeri: 5 27 43 50 75 90
+Jolly: 54
+SuperStar: 59
+--------------------------------------
+NÂº 28 - Concorso del 6 marzo 2007
+Numeri: 1 8 21 30 81 86
+Jolly: 13
+SuperStar: 54
+--------------------------------------
+NÂº 27 - Concorso del 3 marzo 2007
+Numeri: 6 32 50 57 59 61
+Jolly: 68
+SuperStar: 29
+--------------------------------------
+NÂº 26 - Concorso del 1 marzo 2007
+Numeri: 40 55 64 65 70 85
+Jolly: 13
+SuperStar: 65
+--------------------------------------
+NÂº 25 - Concorso del 27 febbraio 2007
+Numeri: 6 20 58 59 65 88
+Jolly: 90
+SuperStar: 78
+--------------------------------------
+NÂº 24 - Concorso del 24 febbraio 2007
+Numeri: 1 30 60 70 74 77
+Jolly: 90
+SuperStar: 88
+--------------------------------------
+NÂº 23 - Concorso del 22 febbraio 2007
+Numeri: 28 44 51 72 81 90
+Jolly: 16
+SuperStar: 74
+--------------------------------------
+NÂº 22 - Concorso del 20 febbraio 2007
+Numeri: 19 25 31 56 82 90
+Jolly: 17
+SuperStar: 72
+--------------------------------------
+NÂº 21 - Concorso del 17 febbraio 2007
+Numeri: 40 41 62 65 89 90
+Jolly: 25
+SuperStar: 89
+--------------------------------------
+NÂº 20 - Concorso del 15 febbraio 2007
+Numeri: 11 22 35 65 78 81
+Jolly: 7
+SuperStar: 25
+--------------------------------------
+NÂº 19 - Concorso del 13 febbraio 2007
+Numeri: 4 29 70 82 86 88
+Jolly: 8
+SuperStar: 2
+--------------------------------------
+NÂº 18 - Concorso del 10 febbraio 2007
+Numeri: 11 30 55 76 77 90
+Jolly: 57
+SuperStar: 52
+--------------------------------------
+NÂº 17 - Concorso del 8 febbraio 2007
+Numeri: 3 9 33 61 65 85
+Jolly: 11
+SuperStar: 83
+--------------------------------------
+NÂº 16 - Concorso del 6 febbraio 2007
+Numeri: 21 35 39 54 62 85
+Jolly: 71
+SuperStar: 52
+--------------------------------------
+NÂº 15 - Concorso del 3 febbraio 2007
+Numeri: 3 12 32 43 51 58
+Jolly: 13
+SuperStar: 44
+--------------------------------------
+NÂº 14 - Concorso del 1 febbraio 2007
+Numeri: 1 20 21 27 44 75
+Jolly: 36
+SuperStar: 22
+--------------------------------------
+NÂº 13 - Concorso del 30 gennaio 2007
+Numeri: 1 23 38 50 60 77
+Jolly: 39
+SuperStar: 57
+--------------------------------------
+NÂº 12 - Concorso del 27 gennaio 2007
+Numeri: 10 33 34 44 70 79
+Jolly: 80
+SuperStar: 48
+--------------------------------------
+NÂº 11 - Concorso del 25 gennaio 2007
+Numeri: 4 6 26 28 53 64
+Jolly: 42
+SuperStar: 90
+--------------------------------------
+NÂº 10 - Concorso del 23 gennaio 2007
+Numeri: 8 10 20 40 80 85
+Jolly: 32
+SuperStar: 66
+--------------------------------------
+NÂº 9 - Concorso del 20 gennaio 2007
+Numeri: 18 47 55 64 74 89
+Jolly: 23
+SuperStar: 17
+--------------------------------------
+NÂº 8 - Concorso del 18 gennaio 2007
+Numeri: 7 39 45 47 55 80
+Jolly: 3
+SuperStar: 78
+--------------------------------------
+NÂº 7 - Concorso del 16 gennaio 2007
+Numeri: 1 11 24 33 36 80
+Jolly: 15
+SuperStar: 3
+--------------------------------------
+NÂº 6 - Concorso del 13 gennaio 2007
+Numeri: 11 49 53 65 77 89
+Jolly: 33
+SuperStar: 2
+--------------------------------------
+NÂº 5 - Concorso del 11 gennaio 2007
+Numeri: 6 27 59 71 85 90
+Jolly: 72
+SuperStar: 70
+--------------------------------------
+NÂº 4 - Concorso del 9 gennaio 2007
+Numeri: 16 39 65 67 83 86
+Jolly: 64
+SuperStar: 10
+--------------------------------------
+NÂº 3 - Concorso del 8 gennaio 2007
+Numeri: 3 45 49 53 58 77
+Jolly: 48
+SuperStar: 46
+--------------------------------------
+NÂº 2 - Concorso del 4 gennaio 2007
+Numeri: 21 40 76 77 83 84
+Jolly: 73
+SuperStar: 90
+--------------------------------------
+NÂº 1 - Concorso del 2 gennaio 2007
+Numeri: 42 47 55 57 61 79
+Jolly: 72
+SuperStar: 65
+--------------------------------------
+

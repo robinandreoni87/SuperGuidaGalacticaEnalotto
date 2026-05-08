@@ -1,0 +1,781 @@
+﻿NÂº 156 - Concorso del 30 dicembre 2006
+Numeri: 2 20 32 51 53 83
+Jolly: 47
+SuperStar: 43
+--------------------------------------
+NÂº 155 - Concorso del 28 dicembre 2006
+Numeri: 15 43 45 66 74 87
+Jolly: 86
+SuperStar: 70
+--------------------------------------
+NÂº 154 - Concorso del 27 dicembre 2006
+Numeri: 3 11 28 29 68 88
+Jolly: 39
+SuperStar: 90
+--------------------------------------
+NÂº 153 - Concorso del 23 dicembre 2006
+Numeri: 8 13 16 17 49 68
+Jolly: 15
+SuperStar: 13
+--------------------------------------
+NÂº 152 - Concorso del 21 dicembre 2006
+Numeri: 2 10 30 43 56 83
+Jolly: 64
+SuperStar: 47
+--------------------------------------
+NÂº 151 - Concorso del 19 dicembre 2006
+Numeri: 10 19 32 44 56 76
+Jolly: 15
+SuperStar: 50
+--------------------------------------
+NÂº 150 - Concorso del 16 dicembre 2006
+Numeri: 14 28 40 52 54 83
+Jolly: 25
+SuperStar: 61
+--------------------------------------
+NÂº 149 - Concorso del 14 dicembre 2006
+Numeri: 1 31 48 75 78 81
+Jolly: 28
+SuperStar: 59
+--------------------------------------
+NÂº 148 - Concorso del 12 dicembre 2006
+Numeri: 7 17 44 63 64 88
+Jolly: 8
+SuperStar: 56
+--------------------------------------
+NÂº 147 - Concorso del 9 dicembre 2006
+Numeri: 21 23 28 48 49 54
+Jolly: 65
+SuperStar: 7
+--------------------------------------
+NÂº 146 - Concorso del 7 dicembre 2006
+Numeri: 4 19 31 51 56 57
+Jolly: 24
+SuperStar: 81
+--------------------------------------
+NÂº 145 - Concorso del 5 dicembre 2006
+Numeri: 3 12 22 65 77 84
+Jolly: 4
+SuperStar: 27
+--------------------------------------
+NÂº 144 - Concorso del 2 dicembre 2006
+Numeri: 25 45 63 71 74 88
+Jolly: 90
+SuperStar: 4
+--------------------------------------
+NÂº 143 - Concorso del 30 novembre 2006
+Numeri: 1 31 51 73 77 88
+Jolly: 89
+SuperStar: 53
+--------------------------------------
+NÂº 142 - Concorso del 28 novembre 2006
+Numeri: 50 51 57 59 64 74
+Jolly: 28
+SuperStar: 14
+--------------------------------------
+NÂº 141 - Concorso del 25 novembre 2006
+Numeri: 1 2 4 44 75 80
+Jolly: 33
+SuperStar: 30
+--------------------------------------
+NÂº 140 - Concorso del 23 novembre 2006
+Numeri: 23 29 42 44 59 82
+Jolly: 38
+SuperStar: 17
+--------------------------------------
+NÂº 139 - Concorso del 21 novembre 2006
+Numeri: 2 3 35 41 48 88
+Jolly: 5
+SuperStar: 1
+--------------------------------------
+NÂº 138 - Concorso del 18 novembre 2006
+Numeri: 36 55 59 81 82 89
+Jolly: 20
+SuperStar: 6
+--------------------------------------
+NÂº 137 - Concorso del 16 novembre 2006
+Numeri: 36 42 46 51 72 84
+Jolly: 65
+SuperStar: 62
+--------------------------------------
+NÂº 136 - Concorso del 14 novembre 2006
+Numeri: 8 12 14 66 76 88
+Jolly: 45
+SuperStar: 69
+--------------------------------------
+NÂº 135 - Concorso del 11 novembre 2006
+Numeri: 22 36 40 44 46 76
+Jolly: 30
+SuperStar: 69
+--------------------------------------
+NÂº 134 - Concorso del 9 novembre 2006
+Numeri: 5 6 28 61 77 87
+Jolly: 71
+SuperStar: 16
+--------------------------------------
+NÂº 133 - Concorso del 7 novembre 2006
+Numeri: 10 27 42 72 75 87
+Jolly: 44
+SuperStar: 49
+--------------------------------------
+NÂº 132 - Concorso del 4 novembre 2006
+Numeri: 14 37 48 50 65 66
+Jolly: 87
+SuperStar: 18
+--------------------------------------
+NÂº 131 - Concorso del 2 novembre 2006
+Numeri: 2 4 5 9 22 75
+Jolly: 79
+SuperStar: 31
+--------------------------------------
+NÂº 130 - Concorso del 31 ottobre 2006
+Numeri: 8 19 27 43 51 79
+Jolly: 22
+SuperStar: 15
+--------------------------------------
+NÂº 129 - Concorso del 28 ottobre 2006
+Numeri: 15 29 50 57 79 88
+Jolly: 84
+SuperStar: 61
+--------------------------------------
+NÂº 128 - Concorso del 26 ottobre 2006
+Numeri: 42 44 45 47 72 79
+Jolly: 15
+SuperStar: 79
+--------------------------------------
+NÂº 127 - Concorso del 24 ottobre 2006
+Numeri: 4 25 43 45 71 90
+Jolly: 52
+SuperStar: 85
+--------------------------------------
+NÂº 126 - Concorso del 21 ottobre 2006
+Numeri: 4 5 21 26 42 79
+Jolly: 84
+SuperStar: 28
+--------------------------------------
+NÂº 125 - Concorso del 19 ottobre 2006
+Numeri: 34 36 44 50 71 80
+Jolly: 85
+SuperStar: 83
+--------------------------------------
+NÂº 124 - Concorso del 17 ottobre 2006
+Numeri: 4 18 24 49 66 81
+Jolly: 70
+SuperStar: 80
+--------------------------------------
+NÂº 123 - Concorso del 14 ottobre 2006
+Numeri: 12 37 38 42 79 82
+Jolly: 60
+SuperStar: 12
+--------------------------------------
+NÂº 122 - Concorso del 12 ottobre 2006
+Numeri: 12 46 52 55 65 90
+Jolly: 32
+SuperStar: 28
+--------------------------------------
+NÂº 121 - Concorso del 10 ottobre 2006
+Numeri: 6 13 34 52 63 83
+Jolly: 16
+SuperStar: 10
+--------------------------------------
+NÂº 120 - Concorso del 7 ottobre 2006
+Numeri: 15 29 30 68 79 85
+Jolly: 26
+SuperStar: 6
+--------------------------------------
+NÂº 119 - Concorso del 5 ottobre 2006
+Numeri: 4 40 60 71 72 90
+Jolly: 21
+SuperStar: 53
+--------------------------------------
+NÂº 118 - Concorso del 3 ottobre 2006
+Numeri: 14 24 33 41 53 82
+Jolly: 47
+SuperStar: 35
+--------------------------------------
+NÂº 117 - Concorso del 30 settembre 2006
+Numeri: 3 47 63 66 67 69
+Jolly: 56
+SuperStar: 90
+--------------------------------------
+NÂº 116 - Concorso del 28 settembre 2006
+Numeri: 52 58 61 62 65 69
+Jolly: 53
+SuperStar: 66
+--------------------------------------
+NÂº 115 - Concorso del 26 settembre 2006
+Numeri: 6 9 10 20 60 83
+Jolly: 81
+SuperStar: 16
+--------------------------------------
+NÂº 114 - Concorso del 23 settembre 2006
+Numeri: 8 23 39 52 75 81
+Jolly: 65
+SuperStar: 86
+--------------------------------------
+NÂº 113 - Concorso del 21 settembre 2006
+Numeri: 2 8 27 30 35 87
+Jolly: 21
+SuperStar: 29
+--------------------------------------
+NÂº 112 - Concorso del 19 settembre 2006
+Numeri: 4 6 8 14 21 28
+Jolly: 56
+SuperStar: 7
+--------------------------------------
+NÂº 111 - Concorso del 16 settembre 2006
+Numeri: 14 34 35 37 41 61
+Jolly: 31
+SuperStar: 46
+--------------------------------------
+NÂº 110 - Concorso del 14 settembre 2006
+Numeri: 10 22 27 34 56 85
+Jolly: 16
+SuperStar: 29
+--------------------------------------
+NÂº 109 - Concorso del 12 settembre 2006
+Numeri: 8 22 36 43 76 77
+Jolly: 23
+SuperStar: 88
+--------------------------------------
+NÂº 108 - Concorso del 9 settembre 2006
+Numeri: 7 10 24 31 81 84
+Jolly: 4
+SuperStar: 74
+--------------------------------------
+NÂº 107 - Concorso del 7 settembre 2006
+Numeri: 1 3 29 63 72 85
+Jolly: 55
+SuperStar: 49
+--------------------------------------
+NÂº 106 - Concorso del 5 settembre 2006
+Numeri: 16 21 51 64 65 89
+Jolly: 63
+SuperStar: 42
+--------------------------------------
+NÂº 105 - Concorso del 2 settembre 2006
+Numeri: 26 33 35 45 54 61
+Jolly: 10
+SuperStar: 61
+--------------------------------------
+NÂº 104 - Concorso del 31 agosto 2006
+Numeri: 2 11 17 33 79 87
+Jolly: 7
+SuperStar: 79
+--------------------------------------
+NÂº 103 - Concorso del 29 agosto 2006
+Numeri: 46 49 50 57 68 69
+Jolly: 14
+SuperStar: 90
+--------------------------------------
+NÂº 102 - Concorso del 26 agosto 2006
+Numeri: 3 9 14 55 62 83
+Jolly: 79
+SuperStar: 45
+--------------------------------------
+NÂº 101 - Concorso del 24 agosto 2006
+Numeri: 3 27 29 46 47 61
+Jolly: 15
+SuperStar: 24
+--------------------------------------
+NÂº 100 - Concorso del 22 agosto 2006
+Numeri: 3 8 16 64 72 73
+Jolly: 22
+SuperStar: 61
+--------------------------------------
+NÂº 99 - Concorso del 19 agosto 2006
+Numeri: 6 59 77 81 82 88
+Jolly: 61
+SuperStar: 74
+--------------------------------------
+NÂº 98 - Concorso del 17 agosto 2006
+Numeri: 4 25 30 40 41 62
+Jolly: 38
+SuperStar: 55
+--------------------------------------
+NÂº 97 - Concorso del 16 agosto 2006
+Numeri: 8 25 28 57 71 72
+Jolly: 83
+SuperStar: 66
+--------------------------------------
+NÂº 96 - Concorso del 12 agosto 2006
+Numeri: 45 49 63 67 82 90
+Jolly: 72
+SuperStar: 56
+--------------------------------------
+NÂº 95 - Concorso del 10 agosto 2006
+Numeri: 6 9 42 48 81 87
+Jolly: 63
+SuperStar: 84
+--------------------------------------
+NÂº 94 - Concorso del 8 agosto 2006
+Numeri: 3 4 5 47 55 80
+Jolly: 73
+SuperStar: 71
+--------------------------------------
+NÂº 93 - Concorso del 5 agosto 2006
+Numeri: 5 11 21 49 54 84
+Jolly: 66
+SuperStar: 69
+--------------------------------------
+NÂº 92 - Concorso del 3 agosto 2006
+Numeri: 21 22 25 53 76 85
+Jolly: 7
+SuperStar: 77
+--------------------------------------
+NÂº 91 - Concorso del 1 agosto 2006
+Numeri: 31 37 45 52 74 83
+Jolly: 70
+SuperStar: 19
+--------------------------------------
+NÂº 90 - Concorso del 29 luglio 2006
+Numeri: 18 24 46 47 69 70
+Jolly: 82
+SuperStar: 41
+--------------------------------------
+NÂº 89 - Concorso del 27 luglio 2006
+Numeri: 26 34 68 82 83 87
+Jolly: 42
+SuperStar: 71
+--------------------------------------
+NÂº 88 - Concorso del 25 luglio 2006
+Numeri: 5 35 49 52 65 89
+Jolly: 15
+SuperStar: 55
+--------------------------------------
+NÂº 87 - Concorso del 22 luglio 2006
+Numeri: 12 37 46 54 58 79
+Jolly: 90
+SuperStar: 40
+--------------------------------------
+NÂº 86 - Concorso del 20 luglio 2006
+Numeri: 22 36 65 72 82 86
+Jolly: 27
+SuperStar: 15
+--------------------------------------
+NÂº 85 - Concorso del 18 luglio 2006
+Numeri: 3 27 30 38 43 60
+Jolly: 50
+SuperStar: 13
+--------------------------------------
+NÂº 84 - Concorso del 15 luglio 2006
+Numeri: 16 21 27 43 56 64
+Jolly: 19
+SuperStar: 78
+--------------------------------------
+NÂº 83 - Concorso del 13 luglio 2006
+Numeri: 15 46 47 67 73 90
+Jolly: 51
+SuperStar: 32
+--------------------------------------
+NÂº 82 - Concorso del 11 luglio 2006
+Numeri: 2 12 19 25 31 76
+Jolly: 49
+SuperStar: 14
+--------------------------------------
+NÂº 81 - Concorso del 8 luglio 2006
+Numeri: 4 49 54 73 79 83
+Jolly: 29
+SuperStar: 8
+--------------------------------------
+NÂº 80 - Concorso del 6 luglio 2006
+Numeri: 21 22 34 55 56 74
+Jolly: 63
+SuperStar: 43
+--------------------------------------
+NÂº 79 - Concorso del 4 luglio 2006
+Numeri: 20 45 59 75 84 90
+Jolly: 85
+SuperStar: 20
+--------------------------------------
+NÂº 78 - Concorso del 1 luglio 2006
+Numeri: 5 11 40 45 58 75
+Jolly: 66
+SuperStar: 12
+--------------------------------------
+NÂº 77 - Concorso del 29 giugno 2006
+Numeri: 27 28 56 67 75 86
+Jolly: 79
+SuperStar: 70
+--------------------------------------
+NÂº 76 - Concorso del 27 giugno 2006
+Numeri: 11 29 56 62 68 76
+Jolly: 33
+SuperStar: 33
+--------------------------------------
+NÂº 75 - Concorso del 24 giugno 2006
+Numeri: 5 11 24 26 49 68
+Jolly: 13
+SuperStar: 54
+--------------------------------------
+NÂº 74 - Concorso del 22 giugno 2006
+Numeri: 8 22 36 48 53 55
+Jolly: 29
+SuperStar: 89
+--------------------------------------
+NÂº 73 - Concorso del 20 giugno 2006
+Numeri: 22 26 51 63 64 73
+Jolly: 17
+SuperStar: 37
+--------------------------------------
+NÂº 72 - Concorso del 17 giugno 2006
+Numeri: 2 8 43 48 60 67
+Jolly: 74
+SuperStar: 79
+--------------------------------------
+NÂº 71 - Concorso del 15 giugno 2006
+Numeri: 6 27 39 43 62 84
+Jolly: 67
+SuperStar: 12
+--------------------------------------
+NÂº 70 - Concorso del 13 giugno 2006
+Numeri: 10 13 21 31 48 72
+Jolly: 79
+SuperStar: 9
+--------------------------------------
+NÂº 69 - Concorso del 10 giugno 2006
+Numeri: 9 10 63 73 79 90
+Jolly: 2
+SuperStar: 62
+--------------------------------------
+NÂº 68 - Concorso del 8 giugno 2006
+Numeri: 5 42 51 66 69 74
+Jolly: 22
+SuperStar: 34
+--------------------------------------
+NÂº 67 - Concorso del 6 giugno 2006
+Numeri: 29 31 41 44 64 73
+Jolly: 1
+SuperStar: 46
+--------------------------------------
+NÂº 66 - Concorso del 3 giugno 2006
+Numeri: 20 68 70 71 72 81
+Jolly: 90
+SuperStar: 41
+--------------------------------------
+NÂº 65 - Concorso del 1 giugno 2006
+Numeri: 18 33 51 66 87 90
+Jolly: 5
+SuperStar: 16
+--------------------------------------
+NÂº 64 - Concorso del 30 maggio 2006
+Numeri: 1 16 25 33 54 71
+Jolly: 11
+SuperStar: 29
+--------------------------------------
+NÂº 63 - Concorso del 27 maggio 2006
+Numeri: 5 11 33 51 82 85
+Jolly: 19
+SuperStar: 1
+--------------------------------------
+NÂº 62 - Concorso del 25 maggio 2006
+Numeri: 19 22 44 61 66 75
+Jolly: 77
+SuperStar: 58
+--------------------------------------
+NÂº 61 - Concorso del 23 maggio 2006
+Numeri: 30 36 39 68 71 80
+Jolly: 38
+SuperStar: 78
+--------------------------------------
+NÂº 60 - Concorso del 20 maggio 2006
+Numeri: 5 32 39 50 59 77
+Jolly: 71
+SuperStar: 18
+--------------------------------------
+NÂº 59 - Concorso del 18 maggio 2006
+Numeri: 1 63 67 71 75 79
+Jolly: 28
+SuperStar: 78
+--------------------------------------
+NÂº 58 - Concorso del 16 maggio 2006
+Numeri: 1 4 32 35 36 87
+Jolly: 7
+SuperStar: 20
+--------------------------------------
+NÂº 57 - Concorso del 13 maggio 2006
+Numeri: 11 31 38 50 59 62
+Jolly: 7
+SuperStar: 56
+--------------------------------------
+NÂº 56 - Concorso del 11 maggio 2006
+Numeri: 14 19 20 26 79 82
+Jolly: 47
+SuperStar: 59
+--------------------------------------
+NÂº 55 - Concorso del 9 maggio 2006
+Numeri: 16 23 40 62 79 88
+Jolly: 42
+SuperStar: 89
+--------------------------------------
+NÂº 54 - Concorso del 6 maggio 2006
+Numeri: 19 22 46 49 72 85
+Jolly: 14
+SuperStar: 10
+--------------------------------------
+NÂº 53 - Concorso del 4 maggio 2006
+Numeri: 11 18 37 52 62 77
+Jolly: 59
+SuperStar: 19
+--------------------------------------
+NÂº 52 - Concorso del 2 maggio 2006
+Numeri: 22 42 52 55 62 74
+Jolly: 61
+SuperStar: 74
+--------------------------------------
+NÂº 51 - Concorso del 29 aprile 2006
+Numeri: 12 22 53 54 60 77
+Jolly: 28
+SuperStar: 7
+--------------------------------------
+NÂº 50 - Concorso del 27 aprile 2006
+Numeri: 8 23 30 53 69 78
+Jolly: 36
+SuperStar: 78
+--------------------------------------
+NÂº 49 - Concorso del 26 aprile 2006
+Numeri: 13 18 47 51 60 64
+Jolly: 11
+SuperStar: 36
+--------------------------------------
+NÂº 48 - Concorso del 22 aprile 2006
+Numeri: 16 21 59 70 71 83
+Jolly: 90
+SuperStar: 37
+--------------------------------------
+NÂº 47 - Concorso del 20 aprile 2006
+Numeri: 32 35 44 58 82 90
+Jolly: 52
+SuperStar: 42
+--------------------------------------
+NÂº 46 - Concorso del 18 aprile 2006
+Numeri: 1 4 12 14 66 78
+Jolly: 55
+SuperStar: 75
+--------------------------------------
+NÂº 45 - Concorso del 15 aprile 2006
+Numeri: 10 11 13 37 81 84
+Jolly: 3
+SuperStar: 63
+--------------------------------------
+NÂº 44 - Concorso del 13 aprile 2006
+Numeri: 27 35 41 46 49 86
+Jolly: 24
+SuperStar: 40
+--------------------------------------
+NÂº 43 - Concorso del 11 aprile 2006
+Numeri: 16 19 44 60 76 89
+Jolly: 79
+SuperStar: 49
+--------------------------------------
+NÂº 42 - Concorso del 8 aprile 2006
+Numeri: 16 33 60 61 62 63
+Jolly: 77
+SuperStar: 51
+--------------------------------------
+NÂº 41 - Concorso del 6 aprile 2006
+Numeri: 13 19 60 61 83 90
+Jolly: 10
+SuperStar: 6
+--------------------------------------
+NÂº 40 - Concorso del 4 aprile 2006
+Numeri: 13 25 45 70 78 88
+Jolly: 89
+SuperStar: 55
+--------------------------------------
+NÂº 39 - Concorso del 1 aprile 2006
+Numeri: 15 30 33 37 62 78
+Jolly: 55
+SuperStar: 23
+--------------------------------------
+NÂº 38 - Concorso del 30 marzo 2006
+Numeri: 1 4 14 30 78 82
+Jolly: 70
+SuperStar: 44
+--------------------------------------
+NÂº 37 - Concorso del 28 marzo 2006
+Numeri: 24 25 33 42 57 89
+Jolly: 20
+SuperStar: 68
+--------------------------------------
+NÂº 36 - Concorso del 25 marzo 2006
+Numeri: 16 20 29 31 38 45
+Jolly: 25
+SuperStar: 
+--------------------------------------
+NÂº 35 - Concorso del 23 marzo 2006
+Numeri: 10 41 53 62 65 76
+Jolly: 26
+SuperStar: 
+--------------------------------------
+NÂº 34 - Concorso del 21 marzo 2006
+Numeri: 7 8 10 29 40 52
+Jolly: 14
+SuperStar: 
+--------------------------------------
+NÂº 33 - Concorso del 18 marzo 2006
+Numeri: 41 43 52 59 73 82
+Jolly: 87
+SuperStar: 
+--------------------------------------
+NÂº 32 - Concorso del 16 marzo 2006
+Numeri: 8 10 15 42 48 51
+Jolly: 25
+SuperStar: 
+--------------------------------------
+NÂº 31 - Concorso del 14 marzo 2006
+Numeri: 15 20 32 43 45 54
+Jolly: 81
+SuperStar: 
+--------------------------------------
+NÂº 30 - Concorso del 11 marzo 2006
+Numeri: 26 28 55 61 62 85
+Jolly: 81
+SuperStar: 
+--------------------------------------
+NÂº 29 - Concorso del 9 marzo 2006
+Numeri: 10 12 15 51 66 68
+Jolly: 60
+SuperStar: 
+--------------------------------------
+NÂº 28 - Concorso del 7 marzo 2006
+Numeri: 1 7 22 72 79 82
+Jolly: 75
+SuperStar: 
+--------------------------------------
+NÂº 27 - Concorso del 4 marzo 2006
+Numeri: 17 27 29 31 44 46
+Jolly: 51
+SuperStar: 
+--------------------------------------
+NÂº 26 - Concorso del 2 marzo 2006
+Numeri: 4 35 41 66 77 89
+Jolly: 68
+SuperStar: 
+--------------------------------------
+NÂº 25 - Concorso del 28 febbraio 2006
+Numeri: 3 21 63 81 87 89
+Jolly: 4
+SuperStar: 
+--------------------------------------
+NÂº 24 - Concorso del 25 febbraio 2006
+Numeri: 3 6 44 60 84 86
+Jolly: 53
+SuperStar: 
+--------------------------------------
+NÂº 23 - Concorso del 23 febbraio 2006
+Numeri: 17 26 70 76 82 90
+Jolly: 72
+SuperStar: 
+--------------------------------------
+NÂº 22 - Concorso del 21 febbraio 2006
+Numeri: 20 58 65 70 77 86
+Jolly: 87
+SuperStar: 
+--------------------------------------
+NÂº 21 - Concorso del 18 febbraio 2006
+Numeri: 34 40 42 64 77 88
+Jolly: 48
+SuperStar: 
+--------------------------------------
+NÂº 20 - Concorso del 16 febbraio 2006
+Numeri: 5 6 18 34 42 72
+Jolly: 8
+SuperStar: 
+--------------------------------------
+NÂº 19 - Concorso del 14 febbraio 2006
+Numeri: 8 44 47 60 66 77
+Jolly: 83
+SuperStar: 
+--------------------------------------
+NÂº 18 - Concorso del 11 febbraio 2006
+Numeri: 1 2 8 30 42 43
+Jolly: 45
+SuperStar: 
+--------------------------------------
+NÂº 17 - Concorso del 9 febbraio 2006
+Numeri: 7 33 38 51 53 67
+Jolly: 57
+SuperStar: 
+--------------------------------------
+NÂº 16 - Concorso del 7 febbraio 2006
+Numeri: 11 18 27 37 65 72
+Jolly: 43
+SuperStar: 
+--------------------------------------
+NÂº 15 - Concorso del 4 febbraio 2006
+Numeri: 13 22 43 50 70 76
+Jolly: 14
+SuperStar: 
+--------------------------------------
+NÂº 14 - Concorso del 2 febbraio 2006
+Numeri: 3 22 29 54 75 84
+Jolly: 78
+SuperStar: 
+--------------------------------------
+NÂº 13 - Concorso del 31 gennaio 2006
+Numeri: 34 38 53 60 72 88
+Jolly: 18
+SuperStar: 
+--------------------------------------
+NÂº 12 - Concorso del 28 gennaio 2006
+Numeri: 25 39 74 76 85 88
+Jolly: 58
+SuperStar: 
+--------------------------------------
+NÂº 11 - Concorso del 26 gennaio 2006
+Numeri: 9 47 59 73 79 88
+Jolly: 18
+SuperStar: 
+--------------------------------------
+NÂº 10 - Concorso del 24 gennaio 2006
+Numeri: 11 13 27 47 82 84
+Jolly: 28
+SuperStar: 
+--------------------------------------
+NÂº 9 - Concorso del 21 gennaio 2006
+Numeri: 7 37 44 45 53 68
+Jolly: 57
+SuperStar: 
+--------------------------------------
+NÂº 8 - Concorso del 19 gennaio 2006
+Numeri: 25 55 60 69 77 81
+Jolly: 34
+SuperStar: 
+--------------------------------------
+NÂº 7 - Concorso del 17 gennaio 2006
+Numeri: 26 27 31 69 78 85
+Jolly: 67
+SuperStar: 
+--------------------------------------
+NÂº 6 - Concorso del 14 gennaio 2006
+Numeri: 30 31 33 44 77 89
+Jolly: 51
+SuperStar: 
+--------------------------------------
+NÂº 5 - Concorso del 12 gennaio 2006
+Numeri: 26 30 38 55 69 75
+Jolly: 11
+SuperStar: 
+--------------------------------------
+NÂº 4 - Concorso del 10 gennaio 2006
+Numeri: 54 58 72 73 82 86
+Jolly: 38
+SuperStar: 
+--------------------------------------
+NÂº 3 - Concorso del 7 gennaio 2006
+Numeri: 43 45 80 81 83 86
+Jolly: 77
+SuperStar: 
+--------------------------------------
+NÂº 2 - Concorso del 5 gennaio 2006
+Numeri: 8 27 29 38 64 82
+Jolly: 37
+SuperStar: 
+--------------------------------------
+NÂº 1 - Concorso del 3 gennaio 2006
+Numeri: 13 14 22 24 46 81
+Jolly: 70
+SuperStar: 
+--------------------------------------
+

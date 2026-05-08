@@ -1,0 +1,696 @@
+﻿NÂº 1 - Concorso del 2 Gennaio 2020
+Numeri: 5 45 63 64 78 85
+Jolly: 4
+SuperStar: 89
+--------------------------------------
+NÂº 2 - Concorso del 4 Gennaio 2020
+Numeri: 23 30 37 44 57 80
+Jolly: 26
+SuperStar: 56
+--------------------------------------
+NÂº 3 - Concorso del 7 Gennaio 2020
+Numeri: 2 23 60 66 72 78
+Jolly: 19
+SuperStar: 53
+--------------------------------------
+NÂº 4 - Concorso del 9 Gennaio 2020
+Numeri: 5 14 54 55 66 78
+Jolly: 52
+SuperStar: 45
+--------------------------------------
+NÂº 5 - Concorso del 11 Gennaio 2020
+Numeri: 34 36 38 63 72 81
+Jolly: 18
+SuperStar: 63
+--------------------------------------
+NÂº 6 - Concorso del 14 Gennaio 2020
+Numeri: 1 6 9 32 68 85
+Jolly: 79
+SuperStar: 62
+--------------------------------------
+NÂº 7 - Concorso del 16 Gennaio 2020
+Numeri: 22 29 50 53 72 83
+Jolly: 77
+SuperStar: 85
+--------------------------------------
+NÂº 8 - Concorso del 18 Gennaio 2020
+Numeri: 26 28 32 50 79 87
+Jolly: 1
+SuperStar: 72
+--------------------------------------
+NÂº 9 - Concorso del 21 Gennaio 2020
+Numeri: 6 32 46 53 70 75
+Jolly: 62
+SuperStar: 9
+--------------------------------------
+NÂº 10 - Concorso del 23 Gennaio 2020
+Numeri: 15 20 23 69 72 81
+Jolly: 87
+SuperStar: 79
+--------------------------------------
+NÂº 11 - Concorso del 25 Gennaio 2020
+Numeri: 11 16 17 35 68 90
+Jolly: 76
+SuperStar: 47
+--------------------------------------
+NÂº 12 - Concorso del 28 Gennaio 2020
+Numeri: 16 21 33 50 57 89
+Jolly: 52
+SuperStar: 26
+--------------------------------------
+NÂº 13 - Concorso del 30 Gennaio 2020
+Numeri: 8 46 53 62 77 84
+Jolly: 51
+SuperStar: 38
+--------------------------------------
+NÂº 14 - Concorso del 1 Febbraio 2020
+Numeri: 22 25 45 46 48 88
+Jolly: 24
+SuperStar: 56
+--------------------------------------
+NÂº 15 - Concorso del 4 Febbraio 2020
+Numeri: 21 29 34 64 72 79
+Jolly: 14
+SuperStar: 82
+--------------------------------------
+NÂº 16 - Concorso del 6 Febbraio 2020
+Numeri: 3 20 29 49 65 82
+Jolly: 31
+SuperStar: 70
+--------------------------------------
+NÂº 17 - Concorso del 8 Febbraio 2020
+Numeri: 15 32 54 56 61 85
+Jolly: 10
+SuperStar: 63
+--------------------------------------
+NÂº 18 - Concorso del 11 Febbraio 2020
+Numeri: 16 24 45 68 72 81
+Jolly: 20
+SuperStar: 2
+--------------------------------------
+NÂº 19 - Concorso del 13 Febbraio 2020
+Numeri: 4 15 43 69 74 84
+Jolly: 49
+SuperStar: 36
+--------------------------------------
+NÂº 20 - Concorso del 15 Febbraio 2020
+Numeri: 13 26 40 55 65 86
+Jolly: 9
+SuperStar: 48
+--------------------------------------
+NÂº 21 - Concorso del 18 Febbraio 2020
+Numeri: 26 45 58 69 72 82
+Jolly: 9
+SuperStar: 49
+--------------------------------------
+NÂº 22 - Concorso del 20 Febbraio 2020
+Numeri: 20 36 55 69 80 85
+Jolly: 58
+SuperStar: 3
+--------------------------------------
+NÂº 23 - Concorso del 22 Febbraio 2020
+Numeri: 1 28 57 58 60 68
+Jolly: 50
+SuperStar: 31
+--------------------------------------
+NÂº 24 - Concorso del 25 Febbraio 2020
+Numeri: 10 15 23 54 73 74
+Jolly: 63
+SuperStar: 26
+--------------------------------------
+NÂº 25 - Concorso del 27 Febbraio 2020
+Numeri: 17 51 60 71 75 79
+Jolly: 58
+SuperStar: 85
+--------------------------------------
+NÂº 26 - Concorso del 29 Febbraio 2020
+Numeri: 9 35 44 50 73 78
+Jolly: 85
+SuperStar: 6
+--------------------------------------
+NÂº 27 - Concorso del 3 Marzo 2020
+Numeri: 5 11 19 26 36 64
+Jolly: 1
+SuperStar: 78
+--------------------------------------
+NÂº 28 - Concorso del 5 Marzo 2020
+Numeri: 13 40 48 67 69 85
+Jolly: 65
+SuperStar: 43
+--------------------------------------
+NÂº 29 - Concorso del 7 Marzo 2020
+Numeri: 11 13 31 41 85 87
+Jolly: 12
+SuperStar: 37
+--------------------------------------
+NÂº 30 - Concorso del 10 Marzo 2020
+Numeri: 8 35 41 43 57 80
+Jolly: 42
+SuperStar: 17
+--------------------------------------
+NÂº 31 - Concorso del 12 Marzo 2020
+Numeri: 19 22 41 46 56 86
+Jolly: 13
+SuperStar: 56
+--------------------------------------
+NÂº 32 - Concorso del 14 Marzo 2020
+Numeri: 1 13 18 47 68 75
+Jolly: 46
+SuperStar: 84
+--------------------------------------
+NÂº 33 - Concorso del 17 Marzo 2020
+Numeri: 17 29 30 49 63 65
+Jolly: 15
+SuperStar: 27
+--------------------------------------
+NÂº 34 - Concorso del 19 Marzo 2020
+Numeri: 7 11 17 28 29 50
+Jolly: 41
+SuperStar: 59
+--------------------------------------
+NÂº 35 - Concorso del 21 Marzo 2020
+Numeri: 5 13 38 39 52 59
+Jolly: 74
+SuperStar: 90
+--------------------------------------
+NÂº 36 - Concorso del 5 Maggio 2020
+Numeri: 39 43 58 73 83 86
+Jolly: 35
+SuperStar: 6
+--------------------------------------
+NÂº 37 - Concorso del 7 Maggio 2020
+Numeri: 22 35 45 52 57 75
+Jolly: 15
+SuperStar: 12
+--------------------------------------
+NÂº 38 - Concorso del 9 Maggio 2020
+Numeri: 34 45 59 66 70 78
+Jolly: 21
+SuperStar: 5
+--------------------------------------
+NÂº 39 - Concorso del 12 Maggio 2020
+Numeri: 21 38 55 60 65 85
+Jolly: 66
+SuperStar: 71
+--------------------------------------
+NÂº 40 - Concorso del 14 Maggio 2020
+Numeri: 12 17 20 54 61 80
+Jolly: 39
+SuperStar: 17
+--------------------------------------
+NÂº 41 - Concorso del 16 Maggio 2020
+Numeri: 2 7 71 78 84 87
+Jolly: 80
+SuperStar: 56
+--------------------------------------
+NÂº 42 - Concorso del 19 Maggio 2020
+Numeri: 26 41 51 62 66 85
+Jolly: 40
+SuperStar: 31
+--------------------------------------
+NÂº 43 - Concorso del 21 Maggio 2020
+Numeri: 3 21 44 69 73 81
+Jolly: 20
+SuperStar: 12
+--------------------------------------
+NÂº 44 - Concorso del 23 Maggio 2020
+Numeri: 5 15 61 75 82 86
+Jolly: 36
+SuperStar: 40
+--------------------------------------
+NÂº 45 - Concorso del 26 Maggio 2020
+Numeri: 10 23 27 46 68 74
+Jolly: 66
+SuperStar: 31
+--------------------------------------
+NÂº 46 - Concorso del 28 Maggio 2020
+Numeri: 16 29 31 73 76 82
+Jolly: 26
+SuperStar: 2
+--------------------------------------
+NÂº 47 - Concorso del 30 Maggio 2020
+Numeri: 3 27 46 52 70 74
+Jolly: 48
+SuperStar: 4
+--------------------------------------
+NÂº 48 - Concorso del 1 Giugno 2020
+Numeri: 9 28 49 65 76 81
+Jolly: 8
+SuperStar: 47
+--------------------------------------
+NÂº 49 - Concorso del 4 Giugno 2020
+Numeri: 5 16 23 30 40 71
+Jolly: 10
+SuperStar: 56
+--------------------------------------
+NÂº 50 - Concorso del 6 Giugno 2020
+Numeri: 4 21 37 45 50 79
+Jolly: 76
+SuperStar: 5
+--------------------------------------
+NÂº 51 - Concorso del 9 Giugno 2020
+Numeri: 8 14 30 58 71 87
+Jolly: 70
+SuperStar: 79
+--------------------------------------
+NÂº 52 - Concorso del 11 Giugno 2020
+Numeri: 1 7 23 47 68 69
+Jolly: 79
+SuperStar: 33
+--------------------------------------
+NÂº 53 - Concorso del 13 Giugno 2020
+Numeri: 20 42 53 57 62 73
+Jolly: 8
+SuperStar: 89
+--------------------------------------
+NÂº 54 - Concorso del 16 Giugno 2020
+Numeri: 1 11 39 59 68 74
+Jolly: 37
+SuperStar: 16
+--------------------------------------
+NÂº 55 - Concorso del 18 Giugno 2020
+Numeri: 4 6 15 35 67 73
+Jolly: 36
+SuperStar: 35
+--------------------------------------
+NÂº 56 - Concorso del 20 Giugno 2020
+Numeri: 16 29 39 55 63 86
+Jolly: 84
+SuperStar: 51
+--------------------------------------
+NÂº 57 - Concorso del 23 Giugno 2020
+Numeri: 40 44 52 59 66 69
+Jolly: 24
+SuperStar: 14
+--------------------------------------
+NÂº 58 - Concorso del 25 Giugno 2020
+Numeri: 14 35 41 51 84 85
+Jolly: 78
+SuperStar: 49
+--------------------------------------
+NÂº 59 - Concorso del 27 Giugno 2020
+Numeri: 13 33 35 60 78 81
+Jolly: 11
+SuperStar: 52
+--------------------------------------
+NÂº 60 - Concorso del 30 Giugno 2020
+Numeri: 6 7 57 61 79 89
+Jolly: 63
+SuperStar: 3
+--------------------------------------
+NÂº 61 - Concorso del 2 Luglio 2020
+Numeri: 12 33 42 56 78 79
+Jolly: 88
+SuperStar: 79
+--------------------------------------
+NÂº 62 - Concorso del 4 Luglio 2020
+Numeri: 33 38 46 59 65 73
+Jolly: 28
+SuperStar: 47
+--------------------------------------
+NÂº 63 - Concorso del 7 Luglio 2020
+Numeri: 16 24 29 53 73 88
+Jolly: 62
+SuperStar: 50
+--------------------------------------
+NÂº 64 - Concorso del 9 Luglio 2020
+Numeri: 1 10 26 40 64 88
+Jolly: 79
+SuperStar: 16
+--------------------------------------
+NÂº 65 - Concorso del 11 Luglio 2020
+Numeri: 6 10 19 20 40 67
+Jolly: 75
+SuperStar: 87
+--------------------------------------
+NÂº 66 - Concorso del 14 Luglio 2020
+Numeri: 17 35 70 71 74 82
+Jolly: 22
+SuperStar: 79
+--------------------------------------
+NÂº 67 - Concorso del 16 Luglio 2020
+Numeri: 35 39 40 64 67 75
+Jolly: 74
+SuperStar: 5
+--------------------------------------
+NÂº 68 - Concorso del 18 Luglio 2020
+Numeri: 18 33 49 76 80 84
+Jolly: 12
+SuperStar: 83
+--------------------------------------
+NÂº 69 - Concorso del 21 Luglio 2020
+Numeri: 4 34 46 54 55 62
+Jolly: 10
+SuperStar: 82
+--------------------------------------
+NÂº 70 - Concorso del 23 Luglio 2020
+Numeri: 10 29 37 49 56 57
+Jolly: 24
+SuperStar: 68
+--------------------------------------
+NÂº 71 - Concorso del 25 Luglio 2020
+Numeri: 18 30 42 70 78 80
+Jolly: 1
+SuperStar: 84
+--------------------------------------
+NÂº 72 - Concorso del 28 Luglio 2020
+Numeri: 23 45 49 71 80 82
+Jolly: 61
+SuperStar: 76
+--------------------------------------
+NÂº 73 - Concorso del 30 Luglio 2020
+Numeri: 4 15 19 26 28 55
+Jolly: 58
+SuperStar: 2
+--------------------------------------
+NÂº 74 - Concorso del 1 Agosto 2020
+Numeri: 4 14 17 18 26 45
+Jolly: 6
+SuperStar: 56
+--------------------------------------
+NÂº 75 - Concorso del 4 Agosto 2020
+Numeri: 5 19 21 25 45 82
+Jolly: 59
+SuperStar: 43
+--------------------------------------
+NÂº 76 - Concorso del 6 Agosto 2020
+Numeri: 21 37 40 46 69 80
+Jolly: 3
+SuperStar: 65
+--------------------------------------
+NÂº 77 - Concorso del 8 Agosto 2020
+Numeri: 6 16 22 55 58 83
+Jolly: 51
+SuperStar: 32
+--------------------------------------
+NÂº 78 - Concorso del 11 Agosto 2020
+Numeri: 7 9 38 68 78 80
+Jolly: 26
+SuperStar: 45
+--------------------------------------
+NÂº 79 - Concorso del 13 Agosto 2020
+Numeri: 4 5 49 57 66 75
+Jolly: 36
+SuperStar: 77
+--------------------------------------
+NÂº 80 - Concorso del 17 Agosto 2020
+Numeri: 5 9 26 62 77 79
+Jolly: 87
+SuperStar: 72
+--------------------------------------
+NÂº 81 - Concorso del 18 Agosto 2020
+Numeri: 13 22 28 58 65 77
+Jolly: 6
+SuperStar: 24
+--------------------------------------
+NÂº 82 - Concorso del 20 Agosto 2020
+Numeri: 7 17 30 39 41 67
+Jolly: 32
+SuperStar: 70
+--------------------------------------
+NÂº 83 - Concorso del 22 Agosto 2020
+Numeri: 7 12 45 47 73 87
+Jolly: 83
+SuperStar: 72
+--------------------------------------
+NÂº 84 - Concorso del 25 Agosto 2020
+Numeri: 15 24 31 70 83 84
+Jolly: 76
+SuperStar: 89
+--------------------------------------
+NÂº 85 - Concorso del 27 Agosto 2020
+Numeri: 37 49 52 53 75 87
+Jolly: 29
+SuperStar: 30
+--------------------------------------
+NÂº 86 - Concorso del 29 Agosto 2020
+Numeri: 1 3 35 42 55 61
+Jolly: 25
+SuperStar: 17
+--------------------------------------
+NÂº 87 - Concorso del 1 Settembre 2020
+Numeri: 10 22 28 45 48 71
+Jolly: 53
+SuperStar: 84
+--------------------------------------
+NÂº 88 - Concorso del 3 Settembre 2020
+Numeri: 16 17 38 39 68 84
+Jolly: 29
+SuperStar: 7
+--------------------------------------
+NÂº 89 - Concorso del 5 Settembre 2020
+Numeri: 7 14 27 56 72 83
+Jolly: 16
+SuperStar: 3
+--------------------------------------
+NÂº 90 - Concorso del 8 Settembre 2020
+Numeri: 23 27 28 31 69 89
+Jolly: 24
+SuperStar: 85
+--------------------------------------
+NÂº 91 - Concorso del 10 Settembre 2020
+Numeri: 46 48 67 78 80 87
+Jolly: 23
+SuperStar: 56
+--------------------------------------
+NÂº 92 - Concorso del 12 Settembre 2020
+Numeri: 6 15 36 42 67 78
+Jolly: 2
+SuperStar: 11
+--------------------------------------
+NÂº 93 - Concorso del 15 Settembre 2020
+Numeri: 2 9 44 47 52 54
+Jolly: 16
+SuperStar: 18
+--------------------------------------
+NÂº 94 - Concorso del 17 Settembre 2020
+Numeri: 9 29 35 47 53 85
+Jolly: 71
+SuperStar: 48
+--------------------------------------
+NÂº 95 - Concorso del 19 Settembre 2020
+Numeri: 6 12 14 27 39 73
+Jolly: 87
+SuperStar: 66
+--------------------------------------
+NÂº 96 - Concorso del 22 Settembre 2020
+Numeri: 4 15 37 48 55 69
+Jolly: 31
+SuperStar: 56
+--------------------------------------
+NÂº 97 - Concorso del 24 Settembre 2020
+Numeri: 10 13 28 77 86 89
+Jolly: 14
+SuperStar: 1
+--------------------------------------
+NÂº 98 - Concorso del 26 Settembre 2020
+Numeri: 4 16 38 70 86 88
+Jolly: 61
+SuperStar: 46
+--------------------------------------
+NÂº 99 - Concorso del 29 Settembre 2020
+Numeri: 25 33 53 76 81 90
+Jolly: 75
+SuperStar: 72
+--------------------------------------
+NÂº 100 - Concorso del 1 Ottobre 2020
+Numeri: 7 31 38 52 61 75
+Jolly: 51
+SuperStar: 19
+--------------------------------------
+NÂº 101 - Concorso del 3 Ottobre 2020
+Numeri: 5 17 59 61 70 79
+Jolly: 52
+SuperStar: 11
+--------------------------------------
+NÂº 102 - Concorso del 6 Ottobre 2020
+Numeri: 8 55 67 73 74 89
+Jolly: 83
+SuperStar: 18
+--------------------------------------
+NÂº 103 - Concorso del 8 Ottobre 2020
+Numeri: 8 35 51 60 63 75
+Jolly: 79
+SuperStar: 58
+--------------------------------------
+NÂº 104 - Concorso del 10 Ottobre 2020
+Numeri: 12 15 19 24 46 73
+Jolly: 67
+SuperStar: 46
+--------------------------------------
+NÂº 105 - Concorso del 13 Ottobre 2020
+Numeri: 47 56 58 60 79 85
+Jolly: 20
+SuperStar: 65
+--------------------------------------
+NÂº 106 - Concorso del 15 Ottobre 2020
+Numeri: 29 38 47 61 68 86
+Jolly: 36
+SuperStar: 59
+--------------------------------------
+NÂº 107 - Concorso del 17 Ottobre 2020
+Numeri: 24 28 34 55 62 87
+Jolly: 36
+SuperStar: 38
+--------------------------------------
+NÂº 108 - Concorso del 20 Ottobre 2020
+Numeri: 24 29 36 43 50 51
+Jolly: 69
+SuperStar: 21
+--------------------------------------
+NÂº 109 - Concorso del 22 Ottobre 2020
+Numeri: 1 16 21 36 37 43
+Jolly: 27
+SuperStar: 44
+--------------------------------------
+NÂº 110 - Concorso del 24 Ottobre 2020
+Numeri: 17 19 28 41 49 86
+Jolly: 25
+SuperStar: 88
+--------------------------------------
+NÂº 111 - Concorso del 27 Ottobre 2020
+Numeri: 19 26 49 53 55 77
+Jolly: 51
+SuperStar: 57
+--------------------------------------
+NÂº 112 - Concorso del 29 Ottobre 2020
+Numeri: 9 32 41 43 44 84
+Jolly: 28
+SuperStar: 46
+--------------------------------------
+NÂº 113 - Concorso del 31 Ottobre 2020
+Numeri: 22 31 35 40 65 82
+Jolly: 36
+SuperStar: 51
+--------------------------------------
+NÂº 114 - Concorso del 3 Novembre 2020
+Numeri: 18 39 45 48 53 64
+Jolly: 55
+SuperStar: 11
+--------------------------------------
+NÂº 115 - Concorso del 5 Novembre 2020
+Numeri: 5 10 18 24 69 85
+Jolly: 65
+SuperStar: 50
+--------------------------------------
+NÂº 116 - Concorso del 7 Novembre 2020
+Numeri: 1 2 61 69 70 82
+Jolly: 56
+SuperStar: 5
+--------------------------------------
+NÂº 117 - Concorso del 10 Novembre 2020
+Numeri: 13 34 38 41 76 88
+Jolly: 18
+SuperStar: 17
+--------------------------------------
+NÂº 118 - Concorso del 12 Novembre 2020
+Numeri: 13 35 37 58 60 88
+Jolly: 57
+SuperStar: 19
+--------------------------------------
+NÂº 119 - Concorso del 14 Novembre 2020
+Numeri: 3 30 47 67 68 89
+Jolly: 38
+SuperStar: 46
+--------------------------------------
+NÂº 120 - Concorso del 17 Novembre 2020
+Numeri: 7 18 20 32 45 55
+Jolly: 75
+SuperStar: 41
+--------------------------------------
+NÂº 121 - Concorso del 19 Novembre 2020
+Numeri: 6 13 47 49 69 86
+Jolly: 83
+SuperStar: 2
+--------------------------------------
+NÂº 122 - Concorso del 21 Novembre 2020
+Numeri: 6 24 37 55 76 82
+Jolly: 20
+SuperStar: 11
+--------------------------------------
+NÂº 123 - Concorso del 24 Novembre 2020
+Numeri: 9 15 16 23 57 76
+Jolly: 19
+SuperStar: 56
+--------------------------------------
+NÂº 124 - Concorso del 26 Novembre 2020
+Numeri: 2 9 39 52 67 76
+Jolly: 78
+SuperStar: 37
+--------------------------------------
+NÂº 125 - Concorso del 28 Novembre 2020
+Numeri: 12 29 61 81 87 90
+Jolly: 20
+SuperStar: 77
+--------------------------------------
+NÂº 126 - Concorso del 1 Dicembre 2020
+Numeri: 21 30 32 62 78 80
+Jolly: 36
+SuperStar: 21
+--------------------------------------
+NÂº 127 - Concorso del 3 Dicembre 2020
+Numeri: 22 33 43 48 87 89
+Jolly: 17
+SuperStar: 75
+--------------------------------------
+NÂº 128 - Concorso del 5 Dicembre 2020
+Numeri: 26 32 39 40 57 65
+Jolly: 4
+SuperStar: 15
+--------------------------------------
+NÂº 129 - Concorso del 7 Dicembre 2020
+Numeri: 1 6 20 25 70 90
+Jolly: 89
+SuperStar: 45
+--------------------------------------
+NÂº 130 - Concorso del 10 Dicembre 2020
+Numeri: 1 6 25 42 75 80
+Jolly: 41
+SuperStar: 63
+--------------------------------------
+NÂº 131 - Concorso del 12 Dicembre 2020
+Numeri: 11 14 18 59 64 85
+Jolly: 1
+SuperStar: 84
+--------------------------------------
+NÂº 132 - Concorso del 15 Dicembre 2020
+Numeri: 10 16 47 51 80 85
+Jolly: 4
+SuperStar: 23
+--------------------------------------
+NÂº 133 - Concorso del 17 Dicembre 2020
+Numeri: 5 9 12 14 26 37
+Jolly: 55
+SuperStar: 29
+--------------------------------------
+NÂº 134 - Concorso del 19 Dicembre 2020
+Numeri: 36 39 45 50 62 66
+Jolly: 47
+SuperStar: 69
+--------------------------------------
+NÂº 135 - Concorso del 22 Dicembre 2020
+Numeri: 15 16 22 46 51 72
+Jolly: 8
+SuperStar: 29
+--------------------------------------
+NÂº 136 - Concorso del 24 Dicembre 2020
+Numeri: 22 25 31 79 87 90
+Jolly: 38
+SuperStar: 73
+--------------------------------------
+NÂº 137 - Concorso del 28 Dicembre 2020
+Numeri: 8 25 39 54 59 84
+Jolly: 85
+SuperStar: 14
+--------------------------------------
+NÂº 138 - Concorso del 29 Dicembre 2020
+Numeri: 15 22 38 51 60 74
+Jolly: 86
+SuperStar: 50
+--------------------------------------
+NÂº 139 - Concorso del 31 Dicembre 2020
+Numeri: 7 14 20 66 68 79
+Jolly: 76
+SuperStar: 60
+--------------------------------------
+

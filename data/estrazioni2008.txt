@@ -1,0 +1,786 @@
+﻿NÂº 157 - Concorso del 30 dicembre 2008
+Numeri: 23 32 38 40 51 71
+Jolly: 48
+SuperStar: 52
+--------------------------------------
+NÂº 156 - Concorso del 27 dicembre 2008
+Numeri: 8 25 31 65 87 90
+Jolly: 28
+SuperStar: 1
+--------------------------------------
+NÂº 155 - Concorso del 24 dicembre 2008
+Numeri: 17 32 33 50 61 82
+Jolly: 67
+SuperStar: 56
+--------------------------------------
+NÂº 154 - Concorso del 23 dicembre 2008
+Numeri: 30 45 66 69 75 80
+Jolly: 63
+SuperStar: 52
+--------------------------------------
+NÂº 153 - Concorso del 20 dicembre 2008
+Numeri: 12 14 29 48 49 85
+Jolly: 79
+SuperStar: 14
+--------------------------------------
+NÂº 152 - Concorso del 18 dicembre 2008
+Numeri: 9 26 29 31 58 70
+Jolly: 21
+SuperStar: 43
+--------------------------------------
+NÂº 151 - Concorso del 16 dicembre 2008
+Numeri: 17 20 48 62 85 90
+Jolly: 69
+SuperStar: 39
+--------------------------------------
+NÂº 150 - Concorso del 13 dicembre 2008
+Numeri: 28 32 45 61 63 76
+Jolly: 43
+SuperStar: 11
+--------------------------------------
+NÂº 149 - Concorso del 11 dicembre 2008
+Numeri: 40 60 68 72 84 89
+Jolly: 90
+SuperStar: 65
+--------------------------------------
+NÂº 148 - Concorso del 9 dicembre 2008
+Numeri: 1 38 47 50 58 65
+Jolly: 22
+SuperStar: 45
+--------------------------------------
+NÂº 147 - Concorso del 6 dicembre 2008
+Numeri: 30 46 54 56 72 86
+Jolly: 22
+SuperStar: 85
+--------------------------------------
+NÂº 146 - Concorso del 4 dicembre 2008
+Numeri: 17 44 49 60 66 81
+Jolly: 74
+SuperStar: 34
+--------------------------------------
+NÂº 145 - Concorso del 2 dicembre 2008
+Numeri: 8 9 17 33 80 86
+Jolly: 22
+SuperStar: 6
+--------------------------------------
+NÂº 144 - Concorso del 29 novembre 2008
+Numeri: 2 3 22 46 61 80
+Jolly: 49
+SuperStar: 68
+--------------------------------------
+NÂº 143 - Concorso del 27 novembre 2008
+Numeri: 27 28 46 48 52 70
+Jolly: 71
+SuperStar: 60
+--------------------------------------
+NÂº 142 - Concorso del 25 novembre 2008
+Numeri: 19 48 61 73 81 83
+Jolly: 22
+SuperStar: 73
+--------------------------------------
+NÂº 141 - Concorso del 22 novembre 2008
+Numeri: 7 30 45 50 55 74
+Jolly: 60
+SuperStar: 17
+--------------------------------------
+NÂº 140 - Concorso del 20 novembre 2008
+Numeri: 25 39 43 46 59 67
+Jolly: 75
+SuperStar: 72
+--------------------------------------
+NÂº 139 - Concorso del 18 novembre 2008
+Numeri: 3 4 7 44 52 89
+Jolly: 47
+SuperStar: 46
+--------------------------------------
+NÂº 138 - Concorso del 15 novembre 2008
+Numeri: 5 7 13 40 52 84
+Jolly: 37
+SuperStar: 21
+--------------------------------------
+NÂº 137 - Concorso del 13 novembre 2008
+Numeri: 15 17 24 31 80 86
+Jolly: 52
+SuperStar: 48
+--------------------------------------
+NÂº 136 - Concorso del 11 novembre 2008
+Numeri: 6 10 22 48 61 65
+Jolly: 58
+SuperStar: 70
+--------------------------------------
+NÂº 135 - Concorso del 8 novembre 2008
+Numeri: 3 31 33 37 52 54
+Jolly: 17
+SuperStar: 42
+--------------------------------------
+NÂº 134 - Concorso del 6 novembre 2008
+Numeri: 24 26 31 39 49 81
+Jolly: 89
+SuperStar: 29
+--------------------------------------
+NÂº 133 - Concorso del 4 novembre 2008
+Numeri: 6 28 32 39 57 85
+Jolly: 47
+SuperStar: 51
+--------------------------------------
+NÂº 132 - Concorso del 3 novembre 2008
+Numeri: 16 21 33 42 52 66
+Jolly: 19
+SuperStar: 75
+--------------------------------------
+NÂº 131 - Concorso del 30 ottobre 2008
+Numeri: 2 25 26 41 55 75
+Jolly: 59
+SuperStar: 15
+--------------------------------------
+NÂº 130 - Concorso del 28 ottobre 2008
+Numeri: 5 9 50 80 82 88
+Jolly: 89
+SuperStar: 18
+--------------------------------------
+NÂº 129 - Concorso del 25 ottobre 2008
+Numeri: 13 16 28 32 71 85
+Jolly: 78
+SuperStar: 67
+--------------------------------------
+NÂº 128 - Concorso del 23 ottobre 2008
+Numeri: 7 20 21 74 75 81
+Jolly: 33
+SuperStar: 10
+--------------------------------------
+NÂº 127 - Concorso del 21 ottobre 2008
+Numeri: 4 47 76 78 81 86
+Jolly: 6
+SuperStar: 49
+--------------------------------------
+NÂº 126 - Concorso del 18 ottobre 2008
+Numeri: 8 25 33 48 58 90
+Jolly: 53
+SuperStar: 63
+--------------------------------------
+NÂº 125 - Concorso del 16 ottobre 2008
+Numeri: 1 20 22 23 61 82
+Jolly: 70
+SuperStar: 58
+--------------------------------------
+NÂº 124 - Concorso del 14 ottobre 2008
+Numeri: 11 14 43 46 61 70
+Jolly: 82
+SuperStar: 73
+--------------------------------------
+NÂº 123 - Concorso del 11 ottobre 2008
+Numeri: 7 9 35 61 67 68
+Jolly: 53
+SuperStar: 26
+--------------------------------------
+NÂº 122 - Concorso del 9 ottobre 2008
+Numeri: 4 19 20 24 44 55
+Jolly: 80
+SuperStar: 80
+--------------------------------------
+NÂº 121 - Concorso del 7 ottobre 2008
+Numeri: 16 21 24 60 66 79
+Jolly: 82
+SuperStar: 44
+--------------------------------------
+NÂº 120 - Concorso del 4 ottobre 2008
+Numeri: 31 58 80 81 88 89
+Jolly: 65
+SuperStar: 79
+--------------------------------------
+NÂº 119 - Concorso del 2 ottobre 2008
+Numeri: 2 41 59 68 74 86
+Jolly: 31
+SuperStar: 56
+--------------------------------------
+NÂº 118 - Concorso del 30 settembre 2008
+Numeri: 5 34 43 53 71 78
+Jolly: 73
+SuperStar: 28
+--------------------------------------
+NÂº 117 - Concorso del 27 settembre 2008
+Numeri: 3 16 20 55 60 80
+Jolly: 52
+SuperStar: 10
+--------------------------------------
+NÂº 116 - Concorso del 25 settembre 2008
+Numeri: 25 51 53 72 77 81
+Jolly: 83
+SuperStar: 19
+--------------------------------------
+NÂº 115 - Concorso del 23 settembre 2008
+Numeri: 8 22 31 39 58 63
+Jolly: 42
+SuperStar: 48
+--------------------------------------
+NÂº 114 - Concorso del 20 settembre 2008
+Numeri: 7 12 36 73 77 85
+Jolly: 1
+SuperStar: 80
+--------------------------------------
+NÂº 113 - Concorso del 18 settembre 2008
+Numeri: 15 18 21 57 59 61
+Jolly: 19
+SuperStar: 56
+--------------------------------------
+NÂº 112 - Concorso del 16 settembre 2008
+Numeri: 21 30 32 41 47 67
+Jolly: 49
+SuperStar: 24
+--------------------------------------
+NÂº 111 - Concorso del 13 settembre 2008
+Numeri: 28 38 41 58 67 80
+Jolly: 85
+SuperStar: 79
+--------------------------------------
+NÂº 110 - Concorso del 11 settembre 2008
+Numeri: 27 31 35 53 54 78
+Jolly: 45
+SuperStar: 27
+--------------------------------------
+NÂº 109 - Concorso del 9 settembre 2008
+Numeri: 1 3 20 43 51 78
+Jolly: 12
+SuperStar: 83
+--------------------------------------
+NÂº 108 - Concorso del 6 settembre 2008
+Numeri: 2 22 33 42 52 71
+Jolly: 72
+SuperStar: 86
+--------------------------------------
+NÂº 107 - Concorso del 4 settembre 2008
+Numeri: 1 6 11 27 65 80
+Jolly: 21
+SuperStar: 39
+--------------------------------------
+NÂº 106 - Concorso del 2 settembre 2008
+Numeri: 6 29 30 78 81 88
+Jolly: 26
+SuperStar: 27
+--------------------------------------
+NÂº 105 - Concorso del 30 agosto 2008
+Numeri: 24 26 33 36 38 73
+Jolly: 74
+SuperStar: 29
+--------------------------------------
+NÂº 104 - Concorso del 28 agosto 2008
+Numeri: 18 19 36 39 58 88
+Jolly: 53
+SuperStar: 16
+--------------------------------------
+NÂº 103 - Concorso del 26 agosto 2008
+Numeri: 7 23 28 50 80 87
+Jolly: 27
+SuperStar: 63
+--------------------------------------
+NÂº 102 - Concorso del 23 agosto 2008
+Numeri: 21 31 37 64 75 88
+Jolly: 41
+SuperStar: 27
+--------------------------------------
+NÂº 101 - Concorso del 21 agosto 2008
+Numeri: 2 4 11 37 62 75
+Jolly: 19
+SuperStar: 25
+--------------------------------------
+NÂº 100 - Concorso del 19 agosto 2008
+Numeri: 5 7 13 33 66 79
+Jolly: 84
+SuperStar: 27
+--------------------------------------
+NÂº 99 - Concorso del 16 agosto 2008
+Numeri: 7 10 35 64 77 89
+Jolly: 21
+SuperStar: 83
+--------------------------------------
+NÂº 98 - Concorso del 14 agosto 2008
+Numeri: 8 19 30 32 52 75
+Jolly: 85
+SuperStar: 79
+--------------------------------------
+NÂº 97 - Concorso del 12 agosto 2008
+Numeri: 12 24 26 50 65 69
+Jolly: 51
+SuperStar: 51
+--------------------------------------
+NÂº 96 - Concorso del 9 agosto 2008
+Numeri: 2 11 21 23 39 47
+Jolly: 72
+SuperStar: 31
+--------------------------------------
+NÂº 95 - Concorso del 7 agosto 2008
+Numeri: 19 30 52 66 70 82
+Jolly: 84
+SuperStar: 33
+--------------------------------------
+NÂº 94 - Concorso del 5 agosto 2008
+Numeri: 1 30 36 37 60 88
+Jolly: 27
+SuperStar: 28
+--------------------------------------
+NÂº 93 - Concorso del 2 agosto 2008
+Numeri: 35 49 68 71 82 85
+Jolly: 31
+SuperStar: 48
+--------------------------------------
+NÂº 92 - Concorso del 31 luglio 2008
+Numeri: 20 67 71 81 84 88
+Jolly: 7
+SuperStar: 27
+--------------------------------------
+NÂº 91 - Concorso del 29 luglio 2008
+Numeri: 14 28 37 47 53 57
+Jolly: 88
+SuperStar: 23
+--------------------------------------
+NÂº 90 - Concorso del 26 luglio 2008
+Numeri: 6 44 66 68 77 86
+Jolly: 20
+SuperStar: 17
+--------------------------------------
+NÂº 89 - Concorso del 24 luglio 2008
+Numeri: 15 17 25 39 57 58
+Jolly: 24
+SuperStar: 18
+--------------------------------------
+NÂº 88 - Concorso del 22 luglio 2008
+Numeri: 35 49 56 78 87 90
+Jolly: 10
+SuperStar: 59
+--------------------------------------
+NÂº 87 - Concorso del 19 luglio 2008
+Numeri: 4 33 34 44 52 63
+Jolly: 27
+SuperStar: 53
+--------------------------------------
+NÂº 86 - Concorso del 17 luglio 2008
+Numeri: 8 28 34 63 86 90
+Jolly: 15
+SuperStar: 89
+--------------------------------------
+NÂº 85 - Concorso del 15 luglio 2008
+Numeri: 21 40 57 60 61 68
+Jolly: 9
+SuperStar: 68
+--------------------------------------
+NÂº 84 - Concorso del 12 luglio 2008
+Numeri: 16 26 31 67 74 82
+Jolly: 18
+SuperStar: 74
+--------------------------------------
+NÂº 83 - Concorso del 10 luglio 2008
+Numeri: 11 22 39 52 55 63
+Jolly: 24
+SuperStar: 6
+--------------------------------------
+NÂº 82 - Concorso del 8 luglio 2008
+Numeri: 1 26 49 74 82 87
+Jolly: 81
+SuperStar: 74
+--------------------------------------
+NÂº 81 - Concorso del 5 luglio 2008
+Numeri: 9 69 70 72 77 81
+Jolly: 39
+SuperStar: 1
+--------------------------------------
+NÂº 80 - Concorso del 3 luglio 2008
+Numeri: 19 32 41 42 64 65
+Jolly: 75
+SuperStar: 81
+--------------------------------------
+NÂº 79 - Concorso del 1 luglio 2008
+Numeri: 1 38 54 63 66 74
+Jolly: 13
+SuperStar: 22
+--------------------------------------
+NÂº 78 - Concorso del 28 giugno 2008
+Numeri: 6 19 25 42 48 52
+Jolly: 56
+SuperStar: 57
+--------------------------------------
+NÂº 77 - Concorso del 26 giugno 2008
+Numeri: 4 12 35 61 66 84
+Jolly: 79
+SuperStar: 75
+--------------------------------------
+NÂº 76 - Concorso del 24 giugno 2008
+Numeri: 13 25 54 56 57 58
+Jolly: 31
+SuperStar: 15
+--------------------------------------
+NÂº 75 - Concorso del 21 giugno 2008
+Numeri: 8 16 42 64 72 74
+Jolly: 53
+SuperStar: 74
+--------------------------------------
+NÂº 74 - Concorso del 19 giugno 2008
+Numeri: 18 31 47 59 75 80
+Jolly: 79
+SuperStar: 73
+--------------------------------------
+NÂº 73 - Concorso del 17 giugno 2008
+Numeri: 8 11 14 39 46 51
+Jolly: 57
+SuperStar: 2
+--------------------------------------
+NÂº 72 - Concorso del 14 giugno 2008
+Numeri: 3 6 20 46 50 80
+Jolly: 86
+SuperStar: 2
+--------------------------------------
+NÂº 71 - Concorso del 12 giugno 2008
+Numeri: 10 15 17 57 65 80
+Jolly: 1
+SuperStar: 47
+--------------------------------------
+NÂº 70 - Concorso del 10 giugno 2008
+Numeri: 4 62 67 69 70 84
+Jolly: 23
+SuperStar: 31
+--------------------------------------
+NÂº 69 - Concorso del 7 giugno 2008
+Numeri: 10 26 53 66 70 78
+Jolly: 75
+SuperStar: 64
+--------------------------------------
+NÂº 68 - Concorso del 5 giugno 2008
+Numeri: 13 22 40 41 51 86
+Jolly: 6
+SuperStar: 26
+--------------------------------------
+NÂº 67 - Concorso del 3 giugno 2008
+Numeri: 2 26 30 32 63 89
+Jolly: 56
+SuperStar: 82
+--------------------------------------
+NÂº 66 - Concorso del 31 maggio 2008
+Numeri: 8 16 39 63 84 86
+Jolly: 34
+SuperStar: 48
+--------------------------------------
+NÂº 65 - Concorso del 29 maggio 2008
+Numeri: 7 30 40 58 75 79
+Jolly: 84
+SuperStar: 78
+--------------------------------------
+NÂº 64 - Concorso del 27 maggio 2008
+Numeri: 7 10 50 51 80 85
+Jolly: 60
+SuperStar: 46
+--------------------------------------
+NÂº 63 - Concorso del 24 maggio 2008
+Numeri: 6 16 28 32 43 90
+Jolly: 73
+SuperStar: 27
+--------------------------------------
+NÂº 62 - Concorso del 22 maggio 2008
+Numeri: 22 63 66 73 81 90
+Jolly: 47
+SuperStar: 43
+--------------------------------------
+NÂº 61 - Concorso del 20 maggio 2008
+Numeri: 40 42 57 62 67 88
+Jolly: 3
+SuperStar: 49
+--------------------------------------
+NÂº 60 - Concorso del 17 maggio 2008
+Numeri: 8 53 65 66 80 87
+Jolly: 3
+SuperStar: 20
+--------------------------------------
+NÂº 59 - Concorso del 15 maggio 2008
+Numeri: 7 31 38 57 84 87
+Jolly: 86
+SuperStar: 71
+--------------------------------------
+NÂº 58 - Concorso del 13 maggio 2008
+Numeri: 28 33 39 40 80 89
+Jolly: 82
+SuperStar: 12
+--------------------------------------
+NÂº 57 - Concorso del 10 maggio 2008
+Numeri: 1 4 25 44 82 89
+Jolly: 23
+SuperStar: 50
+--------------------------------------
+NÂº 56 - Concorso del 8 maggio 2008
+Numeri: 8 29 33 47 52 56
+Jolly: 59
+SuperStar: 19
+--------------------------------------
+NÂº 55 - Concorso del 6 maggio 2008
+Numeri: 7 71 72 75 80 90
+Jolly: 85
+SuperStar: 55
+--------------------------------------
+NÂº 54 - Concorso del 3 maggio 2008
+Numeri: 8 38 39 52 64 70
+Jolly: 73
+SuperStar: 39
+--------------------------------------
+NÂº 53 - Concorso del 2 maggio 2008
+Numeri: 36 38 40 51 53 71
+Jolly: 8
+SuperStar: 58
+--------------------------------------
+NÂº 52 - Concorso del 29 aprile 2008
+Numeri: 28 33 42 54 76 79
+Jolly: 68
+SuperStar: 62
+--------------------------------------
+NÂº 51 - Concorso del 26 aprile 2008
+Numeri: 56 64 72 81 83 86
+Jolly: 32
+SuperStar: 25
+--------------------------------------
+NÂº 50 - Concorso del 24 aprile 2008
+Numeri: 36 43 47 49 84 89
+Jolly: 51
+SuperStar: 25
+--------------------------------------
+NÂº 49 - Concorso del 22 aprile 2008
+Numeri: 18 54 62 80 88 90
+Jolly: 24
+SuperStar: 58
+--------------------------------------
+NÂº 48 - Concorso del 19 aprile 2008
+Numeri: 22 29 30 32 41 52
+Jolly: 42
+SuperStar: 7
+--------------------------------------
+NÂº 47 - Concorso del 17 aprile 2008
+Numeri: 8 14 36 71 74 87
+Jolly: 18
+SuperStar: 29
+--------------------------------------
+NÂº 46 - Concorso del 15 aprile 2008
+Numeri: 2 25 28 31 46 59
+Jolly: 22
+SuperStar: 25
+--------------------------------------
+NÂº 45 - Concorso del 12 aprile 2008
+Numeri: 5 34 55 58 74 90
+Jolly: 8
+SuperStar: 33
+--------------------------------------
+NÂº 44 - Concorso del 10 aprile 2008
+Numeri: 34 54 72 76 79 85
+Jolly: 78
+SuperStar: 10
+--------------------------------------
+NÂº 43 - Concorso del 8 aprile 2008
+Numeri: 12 21 49 51 56 74
+Jolly: 8
+SuperStar: 76
+--------------------------------------
+NÂº 42 - Concorso del 5 aprile 2008
+Numeri: 29 51 52 62 72 79
+Jolly: 34
+SuperStar: 43
+--------------------------------------
+NÂº 41 - Concorso del 3 aprile 2008
+Numeri: 9 37 40 61 69 84
+Jolly: 35
+SuperStar: 36
+--------------------------------------
+NÂº 40 - Concorso del 1 aprile 2008
+Numeri: 5 9 53 57 61 84
+Jolly: 78
+SuperStar: 2
+--------------------------------------
+NÂº 39 - Concorso del 29 marzo 2008
+Numeri: 1 17 33 34 46 62
+Jolly: 3
+SuperStar: 17
+--------------------------------------
+NÂº 38 - Concorso del 27 marzo 2008
+Numeri: 11 34 46 58 77 82
+Jolly: 50
+SuperStar: 27
+--------------------------------------
+NÂº 37 - Concorso del 25 marzo 2008
+Numeri: 8 36 75 76 79 83
+Jolly: 65
+SuperStar: 58
+--------------------------------------
+NÂº 36 - Concorso del 22 marzo 2008
+Numeri: 30 37 47 72 85 87
+Jolly: 71
+SuperStar: 34
+--------------------------------------
+NÂº 35 - Concorso del 20 marzo 2008
+Numeri: 5 37 38 59 71 80
+Jolly: 43
+SuperStar: 33
+--------------------------------------
+NÂº 34 - Concorso del 18 marzo 2008
+Numeri: 27 36 38 41 71 84
+Jolly: 6
+SuperStar: 37
+--------------------------------------
+NÂº 33 - Concorso del 15 marzo 2008
+Numeri: 7 32 49 55 61 83
+Jolly: 64
+SuperStar: 82
+--------------------------------------
+NÂº 32 - Concorso del 13 marzo 2008
+Numeri: 50 61 62 71 72 74
+Jolly: 59
+SuperStar: 9
+--------------------------------------
+NÂº 31 - Concorso del 11 marzo 2008
+Numeri: 41 51 61 66 75 88
+Jolly: 27
+SuperStar: 71
+--------------------------------------
+NÂº 30 - Concorso del 8 marzo 2008
+Numeri: 4 12 21 39 59 83
+Jolly: 64
+SuperStar: 63
+--------------------------------------
+NÂº 29 - Concorso del 6 marzo 2008
+Numeri: 1 16 32 51 60 61
+Jolly: 78
+SuperStar: 11
+--------------------------------------
+NÂº 28 - Concorso del 4 marzo 2008
+Numeri: 12 32 54 63 64 85
+Jolly: 62
+SuperStar: 77
+--------------------------------------
+NÂº 27 - Concorso del 1 marzo 2008
+Numeri: 23 30 33 67 69 71
+Jolly: 61
+SuperStar: 56
+--------------------------------------
+NÂº 26 - Concorso del 28 febbraio 2008
+Numeri: 2 5 6 56 58 73
+Jolly: 3
+SuperStar: 38
+--------------------------------------
+NÂº 25 - Concorso del 26 febbraio 2008
+Numeri: 2 11 40 60 73 82
+Jolly: 74
+SuperStar: 50
+--------------------------------------
+NÂº 24 - Concorso del 23 febbraio 2008
+Numeri: 11 13 25 62 76 80
+Jolly: 18
+SuperStar: 54
+--------------------------------------
+NÂº 23 - Concorso del 21 febbraio 2008
+Numeri: 27 43 46 51 52 72
+Jolly: 83
+SuperStar: 32
+--------------------------------------
+NÂº 22 - Concorso del 19 febbraio 2008
+Numeri: 2 18 35 53 60 66
+Jolly: 32
+SuperStar: 45
+--------------------------------------
+NÂº 21 - Concorso del 16 febbraio 2008
+Numeri: 16 17 52 60 80 81
+Jolly: 29
+SuperStar: 52
+--------------------------------------
+NÂº 20 - Concorso del 14 febbraio 2008
+Numeri: 4 18 30 69 73 74
+Jolly: 78
+SuperStar: 52
+--------------------------------------
+NÂº 19 - Concorso del 12 febbraio 2008
+Numeri: 8 16 33 64 68 82
+Jolly: 4
+SuperStar: 44
+--------------------------------------
+NÂº 18 - Concorso del 9 febbraio 2008
+Numeri: 2 3 13 23 30 70
+Jolly: 85
+SuperStar: 72
+--------------------------------------
+NÂº 17 - Concorso del 7 febbraio 2008
+Numeri: 30 32 49 68 71 85
+Jolly: 86
+SuperStar: 9
+--------------------------------------
+NÂº 16 - Concorso del 5 febbraio 2008
+Numeri: 22 28 75 78 83 87
+Jolly: 13
+SuperStar: 84
+--------------------------------------
+NÂº 15 - Concorso del 2 febbraio 2008
+Numeri: 18 33 61 70 81 90
+Jolly: 10
+SuperStar: 80
+--------------------------------------
+NÂº 14 - Concorso del 31 gennaio 2008
+Numeri: 7 14 26 34 45 77
+Jolly: 83
+SuperStar: 34
+--------------------------------------
+NÂº 13 - Concorso del 29 gennaio 2008
+Numeri: 1 23 30 60 70 74
+Jolly: 31
+SuperStar: 21
+--------------------------------------
+NÂº 12 - Concorso del 26 gennaio 2008
+Numeri: 15 17 25 31 85 87
+Jolly: 82
+SuperStar: 57
+--------------------------------------
+NÂº 11 - Concorso del 24 gennaio 2008
+Numeri: 18 28 33 41 63 84
+Jolly: 88
+SuperStar: 41
+--------------------------------------
+NÂº 10 - Concorso del 22 gennaio 2008
+Numeri: 7 18 19 56 66 71
+Jolly: 26
+SuperStar: 20
+--------------------------------------
+NÂº 9 - Concorso del 19 gennaio 2008
+Numeri: 10 23 31 35 61 87
+Jolly: 81
+SuperStar: 15
+--------------------------------------
+NÂº 8 - Concorso del 17 gennaio 2008
+Numeri: 4 15 21 35 59 73
+Jolly: 70
+SuperStar: 76
+--------------------------------------
+NÂº 7 - Concorso del 15 gennaio 2008
+Numeri: 12 50 55 62 67 88
+Jolly: 29
+SuperStar: 1
+--------------------------------------
+NÂº 6 - Concorso del 12 gennaio 2008
+Numeri: 8 9 52 77 82 86
+Jolly: 85
+SuperStar: 8
+--------------------------------------
+NÂº 5 - Concorso del 10 gennaio 2008
+Numeri: 23 25 30 44 51 68
+Jolly: 58
+SuperStar: 21
+--------------------------------------
+NÂº 4 - Concorso del 8 gennaio 2008
+Numeri: 17 23 30 74 81 84
+Jolly: 55
+SuperStar: 49
+--------------------------------------
+NÂº 3 - Concorso del 5 gennaio 2008
+Numeri: 16 30 68 75 83 86
+Jolly: 15
+SuperStar: 25
+--------------------------------------
+NÂº 2 - Concorso del 3 gennaio 2008
+Numeri: 20 39 56 64 66 85
+Jolly: 29
+SuperStar: 17
+--------------------------------------
+NÂº 1 - Concorso del 2 gennaio 2008
+Numeri: 16 38 40 69 84 90
+Jolly: 60
+SuperStar: 14
+--------------------------------------
+
