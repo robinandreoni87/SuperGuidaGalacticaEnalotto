@@ -68,7 +68,7 @@ def calculate_stats(draws):
         idx = draw["index"]
         x1 = (idx % canvas_w); y1 = int(idx / (total_possibilities / canvas_h))
         x2 = x1; y2 = int(((draw["sum"] - 21) / 504) * canvas_h)
-        map_points.append({"x1": x1, "y1": y1, "x2": x2, "y2": y2, "idx": idx, "sum": draw["sum"], "c": draw["concorso"], "a": draw["anno"], "n": draw["numeri"]})
+        map_points.append({"x1": x1, "y1": y1, "x2": x2, "y2": y2, "idx": idx, "sum": draw["sum"], "c": draw["concorso"], "d": draw["data"], "a": draw["anno"], "n": draw["numeri"]})
         for n in draw["numeri"]: global_stats[n]["freq"] += 1; years_data[yr]["freq"][n] += 1
 
     draws_desc = draws[::-1]; found = set()

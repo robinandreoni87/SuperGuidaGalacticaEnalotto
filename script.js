@@ -50,7 +50,21 @@ function updateButtonState() {
 function drawStaticMap() {
     const canvas = document.getElementById('mapCanvas'); const ctx = canvas.getContext('2d');
     ctx.clearRect(0,0,1000,600);
-    document.getElementById('mapTitle').innerText = currentMode === 'dict' ? 'Mappa Dizionario' : 'Mappa Statistica';
+    
+    const title = document.getElementById('mapTitle');
+    const desc = document.getElementById('mapDesc');
+    const note = document.getElementById('statMapNote');
+    
+    if (currentMode === 'dict') {
+        title.innerText = 'Mappa Dizionario';
+        desc.innerText = 'Visualizzazione dello spazio combinatorio completo (622.614.630 sestine) mappato su una griglia di 1000x600. Ogni punto rappresenta una sestina specifica ordinata alfabeticamente.';
+        if(note) note.style.display = 'none';
+    } else {
+        title.innerText = 'Mappa Statistica';
+        desc.innerText = 'Mappatura basata sulla Somma dei numeri estratti. I punti sono distribuiti verticalmente in base al valore della somma (da 21 a 525), evidenziando la naturale tendenza verso la media centrale (Somma 273).';
+        if(note) note.style.display = 'block';
+    }
+
     rawData.map_points.forEach(p => { ctx.fillStyle = '#38bdf8'; ctx.fillRect(p.x1, currentMode === 'dict' ? p.y1 : p.y2, 3, 3); });
     canvas.onmousemove = e => handleHover(e, canvas, currentMode, rawData.map_points.length);
 }
@@ -100,10 +114,6 @@ function generateFutPoint() {
     nums.sort((a,b)=>a-b); const idx = Math.floor(Math.random()*622614630);
     const p = {x: idx%1000, y: Math.max(0, Math.min(600, ((sum-21)/504)*600)), n: nums, s: Math.round(sum)};
     futPoints.push(p);
-    if(futPoints.length < 500 && futPoints.length % 50 === 0) {
-        const panel = document.getElementById('future-panel');
-        panel.innerHTML = `<div class="fut-row">Sestina: ${p.n.join(' ')}\nSomma: ${p.s}</div>` + panel.innerHTML;
-    }
 }
 function animateFuture() { if(isFutPaused) return; for(let i=0; i<200; i++) if(futPoints.length < 150000) generateFutPoint(); renderFuture(); if(futPoints.length < 150000) futAnimationId = requestAnimationFrame(animateFuture); }
 function renderFuture() {
@@ -161,7 +171,7 @@ function handleHover(e, canvas, mode, limit) {
     }
     if (found) {
         tool.style.display='block'; tool.style.left=(e.pageX+15)+'px'; tool.style.top=(e.pageY+15)+'px';
-        tool.innerHTML = `<div style="color:var(--accent);font-weight:700">CONCORSO ${found.c}</div>
+        tool.innerHTML = `<div style="color:var(--accent);font-weight:700">CONCORSO ${found.c} (${found.d})</div>
             <div style="display:flex;gap:4px;margin:5px 0">${found.n.map(n=>`<span class="ball active" style="width:20px;height:20px;font-size:0.65rem">${n}</span>`).join('')}</div>
             <div style="color:var(--text-dim);font-size:0.6rem">Somma: ${found.sum}</div>`;
     } else tool.style.display='none';

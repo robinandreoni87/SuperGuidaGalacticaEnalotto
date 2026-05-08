@@ -33,15 +33,35 @@
         </header>
 
         <div id="mapSection" class="map-wrapper">
-            <div class="card-title" id="mapTitle">Mappa</div>
-            <canvas id="mapCanvas" width="1000" height="600"></canvas>
+            <div class="map-layout">
+                <div class="canvas-container">
+                    <div class="card-title" id="mapTitle">Mappa</div>
+                    <canvas id="mapCanvas" width="1000" height="600"></canvas>
+                </div>
+                <div class="info-panel" id="mapInfo">
+                    <h3>Dettagli Tecnici</h3>
+                    <p id="mapDesc">Descrizione della mappa selezionata.</p>
+                    <div class="stats-box">
+                        <span>Griglia: 1000x600</span>
+                        <span>Risoluzione: 1:622,614</span>
+                        <span class="stat-note" id="statMapNote" style="display:none; color:var(--accent); margin-top:10px; border-top:1px solid rgba(56,189,248,0.1); padding-top:10px;">Nota: Il range di uscita più probabilistico è tra 250 e 300 (Somma Centrale).</span>
+                    </div>
+                </div>
+            </div>
         </div>
 
         <div id="fusionSection" class="map-wrapper">
-            <div id="player-controls">
-                <button class="btn" id="playPauseBtn" onclick="togglePause()">PAUSE</button>
-                <input type="range" id="progressSlider" min="0" max="100" value="0" oninput="manualControl(this.value)">
-                <div id="timer">60s</div>
+            <div class="fusion-header">
+                <div id="player-controls" class="side-controls">
+                    <button class="btn" id="playPauseBtn" onclick="togglePause()">PAUSE</button>
+                    <input type="range" id="progressSlider" min="0" max="100" value="0" oninput="manualControl(this.value)">
+                    <div id="timer">60s</div>
+                </div>
+                <div class="fusion-desc">
+                    <h3>FUSIONE MODELLI</h3>
+                    <p>Sincronizzazione tra indice Dizionario e distribuzione Statistica.</p>
+                    <p class="easter-egg">* Se sposti il cursore velocemente da destra a sinistra sembrano accendersi centinaia di luci insieme.</p>
+                </div>
             </div>
             <div class="fusion-canvas-container">
                 <canvas id="canvasLeft" width="600" height="600"></canvas>
@@ -50,12 +70,26 @@
         </div>
 
         <div id="evolutionSection" class="map-wrapper">
-            <div id="player-controls">
-                <button class="btn" id="evPlayPauseBtn" onclick="togglePauseEv()">PAUSE</button>
-                <input type="range" id="evSlider" min="0" value="0" oninput="manualControlEv(this.value)">
-                <div id="evTimer">1997</div>
+            <div class="map-layout">
+                <div class="canvas-container">
+                    <div id="player-controls">
+                        <button class="btn" id="evPlayPauseBtn" onclick="togglePauseEv()">PAUSE</button>
+                        <input type="range" id="evSlider" min="0" value="0" oninput="manualControlEv(this.value)">
+                        <div id="evTimer">1997</div>
+                    </div>
+                    <canvas id="canvasEv" width="1000" height="600"></canvas>
+                </div>
+                <div class="info-panel">
+                    <h3>Evoluzione Storica</h3>
+                    <p>Cronistoria visiva degli ultimi 29 anni di estrazioni. Mostra come le sestine reali occupino progressivamente lo spazio statistico.</p>
+                    <div class="stats-box">
+                        <span>Periodo: 1997 - 2026</span>
+                        <span>Update: 1s / Estrazione</span>
+                        <span style="color:var(--accent); margin-top:10px; border-top:1px solid rgba(56,189,248,0.1); padding-top:10px;">Nota: Il range di uscita più probabilistico è tra 250 e 300 (Somma Centrale).</span>
+                        <p class="easter-egg" style="margin-top:10px; font-style:italic;">* Se sposti il cursore velocemente da destra a sinistra sembrano accendersi centinaia di luci insieme.</p>
+                    </div>
+                </div>
             </div>
-            <canvas id="canvasEv" width="1000" height="600"></canvas>
         </div>
 
         <div id="futureSection" class="map-wrapper fut-border">
@@ -67,7 +101,10 @@
                 <button class="btn fut-dash" onclick="document.getElementById('fileInput').click()">CARICA EXTREME</button>
                 <input type="file" id="fileInput" style="display:none" onchange="importFuture(event)">
             </div>
-            <div id="future-panel"></div>
+            <div id="future-panel">
+                <span class="pulse-dot"></span>
+                <span>Simulazione della nebulosa di Gauss finale</span>
+            </div>
             <canvas id="canvasFut" width="1000" height="600"></canvas>
         </div>
 
