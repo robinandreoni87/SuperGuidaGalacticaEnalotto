@@ -42,5 +42,7 @@ def create_massive_gauss(base_path, count):
     print(f"Dimensione file: {size_mb:.2f} MB")
 
 if __name__ == "__main__":
-    base_path = r"C:\Users\robin\Desktop\super"
+    base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    base_path = os.path.join(base_dir, "simulations")
+    if not os.path.exists(base_path): os.makedirs(base_path)
     create_massive_gauss(base_path, 150000)

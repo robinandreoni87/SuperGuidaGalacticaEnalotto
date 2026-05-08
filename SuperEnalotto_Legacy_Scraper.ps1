@@ -1,6 +1,7 @@
 
-# Configurazione
-$targetDir = "C:\Users\robin\Desktop\super\"
+# Configurazione Percorsi Relativi
+$ProjectRoot = Split-Path -Parent $PSScriptRoot
+$targetDir = Join-Path $ProjectRoot "data"
 if (!(Test-Path $targetDir)) { New-Item -ItemType Directory -Path $targetDir }
 
 $startYear = 1997

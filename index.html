@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SuperEnalotto - Professional Mapping Suite</title>
+    <!-- Collegamenti Professionali -->
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div id="loading-overlay">
+        <div class="loader"></div>
+        <div id="loading-text">Elaborazione combinazioni in corso...</div>
+    </div>
+    
+    <div id="tooltip"></div>
+    
+    <div class="container">
+        <header>
+            <div class="logo">SuperEnalotto Galactic Analytics</div>
+            <div class="controls">
+                <select id="yearSelect" onchange="updateDashboard()">
+                    <!-- Popolato via JS -->
+                </select>
+                <button class="btn" id="btn_dict" onclick="toggleMap('dict')">MAPPA DIZIONARIO</button>
+                <button class="btn" id="btn_stat" onclick="toggleMap('stat')">MAPPA STATISTICA</button>
+                <button class="btn" id="btn_fusion" onclick="toggleMap('fusion')">FUSIONE MAPPE</button>
+                <button class="btn" id="btn_evolution" onclick="toggleMap('evolution')">EVOLUZIONE STORICA</button>
+                <button class="btn btn-fut" id="btn_future" onclick="toggleMap('future')">SIMULAZIONE FUTURISTICA</button>
+            </div>
+        </header>
+
+        <div id="mapSection" class="map-wrapper">
+            <div class="card-title" id="mapTitle">Mappa</div>
+            <canvas id="mapCanvas" width="1000" height="600"></canvas>
+        </div>
+
+        <div id="fusionSection" class="map-wrapper">
+            <div id="player-controls">
+                <button class="btn" id="playPauseBtn" onclick="togglePause()">PAUSE</button>
+                <input type="range" id="progressSlider" min="0" max="100" value="0" oninput="manualControl(this.value)">
+                <div id="timer">60s</div>
+            </div>
+            <div class="fusion-canvas-container">
+                <canvas id="canvasLeft" width="600" height="600"></canvas>
+                <canvas id="canvasRight" width="600" height="600"></canvas>
+            </div>
+        </div>
+
+        <div id="evolutionSection" class="map-wrapper">
+            <div id="player-controls">
+                <button class="btn" id="evPlayPauseBtn" onclick="togglePauseEv()">PAUSE</button>
+                <input type="range" id="evSlider" min="0" value="0" oninput="manualControlEv(this.value)">
+                <div id="evTimer">1997</div>
+            </div>
+            <canvas id="canvasEv" width="1000" height="600"></canvas>
+        </div>
+
+        <div id="futureSection" class="map-wrapper fut-border">
+            <div id="player-controls" class="fut-bg">
+                <button class="btn fut-color" id="futPlayBtn" onclick="togglePauseFut()">PAUSE</button>
+                <input type="range" id="futSlider" min="0" max="150000" value="0" oninput="manualControlFut(this.value)">
+                <div id="futTimer" class="fut-color">SIMULAZIONE: 0</div>
+                <button class="btn fut-solid" onclick="exportFuture()">SALVA</button>
+                <button class="btn fut-dash" onclick="document.getElementById('fileInput').click()">CARICA EXTREME</button>
+                <input type="file" id="fileInput" style="display:none" onchange="importFuture(event)">
+            </div>
+            <div id="future-panel"></div>
+            <canvas id="canvasFut" width="1000" height="600"></canvas>
+        </div>
+
+        <div id="dashboardStats" class="grid">
+            <div class="card span-2">
+                <div class="card-title">Distribuzione Frequenza</div>
+                <canvas id="freqChart"></canvas>
+            </div>
+            <div class="card">
+                <div class="card-title">Ritardatari (Globale)</div>
+                <ul id="delayedList"></ul>
+            </div>
+            <div class="card">
+                <div class="card-title" id="hotTitle">Hot Numbers</div>
+                <ul id="hotList"></ul>
+            </div>
+            <div class="card">
+                <div class="card-title" id="coldTitle">Cold Numbers</div>
+                <ul id="coldList"></ul>
+            </div>
+        </div>
+    </div>
+
+    <!-- Script Ordine: 1. Dati, 2. Logica -->
+    <script src="data.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

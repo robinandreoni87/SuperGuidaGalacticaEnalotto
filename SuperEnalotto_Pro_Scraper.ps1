@@ -1,6 +1,5 @@
-
 # Configurazione
-$targetDir = "C:\Users\robin\Desktop\super\"
+$targetDir = Join-Path $PSScriptRoot "super"
 if (!(Test-Path $targetDir)) { New-Item -ItemType Directory -Path $targetDir }
 
 $startYear = 2009
